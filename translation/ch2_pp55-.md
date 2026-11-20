@@ -664,3 +664,108 @@ At that time too, when the news of my father's death came to Germany and the pro
   *Wechselbriefe* in German. See the memoirs of Glückel of Hameln (p. 80, note 1).
 - [b] The abbreviation means R. Hendele Kohen, mentioned above.
 - [c] In my opinion this is the man Mordecai Kohen mentioned in the memoirs of Glückel of Hameln; see there (pp. 122 and 145).
+
+## Page 72 (scan 88)
+
+nearby, at that time news came from R. Aberle London that he had become rich again with great wealth. Since he had heard of
+my father's death — that the righteous man's sun had set before its time, and that he had left behind young orphaned children
+— the said R. Aberle vowed a hundred ducats to my father's orphans, above all because the righteous man's blessing had been
+fulfilled in him, as said. So he instructed his sons in Hamburg to write and let us know that one of us should come to receive
+the money. The news reached me from a faithful friend, to whom it had been written, and he encouraged me, saying: "Harness your
+chariot and go up to the land of Germany, to gather a handful of quiet and to collect everything that is due to be collected —
+the debts my father left. For God sent you before your father's house to preserve life (Gen. 45:5); so hurry, set out on your
+way, do not stand still."
+
+I went on the road on which the Lord sent me, in very hard and heavy wandering and at great expense, from my home in Brod to
+Hamburg, some hundred and fifty leagues by special post, all at the cost of my own purse. I did not enjoy even one meal from
+anyone's house on the way, except in Frankfurt an der Oder ⟨S: a word, not read⟩ and in Berlin, where I stayed some days and
+was a guest of relatives; and I lost on what I left there. I also took a boy servant with me.
+
+I came to Hamburg without adversary or mishap, and lodged in the house of the leader R. Ber Kohen, of blessed memory, who
+received me with honour and a pleasant face. I went to him at once, before I made myself known to anyone, knowing that he was
+"the nail" on which everything depended, in my affairs in particular, for whose sake I had uprooted myself [from my house] and
+my home and run on a long road. I also knew that my father had already made peace with him; so I did this, since I had first
+inquired of him by letter by the post, and I could not pass him by and seek other lodging.
+
+But when I came there, all the money of the estate of Mordecai Kohen had already been eaten up. As his wealth had come not by
+right, so it went to waste. Though he left at his death ninety thousand Reichstaler in cash, lying in an iron chest that was
+placed in his house, locked and sealed, and the community appointed men to guard it, his sons, worthless men, did not rest
+until they bribed the guards, let them steal the chest with all that was in it, and divided it among themselves. That wealth
+"perished in an evil venture": for in a few days they squandered all that great hoard, ate it up, consumed it, sent it to waste
+⟨S: "to the place of filth"⟩. As it came, so it went. They were left stripped of their father's property, and some of them went
+to evil ways; all his sons and grandsons go begging from door to door — except one son, R. Yozpa Kohen ⟨S: "and two of his sons
+too are apostates, converted, among the gentiles"⟩, and except one daughter in Hamburg, and two daughters in Prague and
+Nikolsburg, who married men of standing. Another daughter, who had been married to two scholars and was a rebbetzin in the
+community of Kremsier, now goes begging from door to door in Hamburg; she is also fed by gentiles who knew her father's house,
+and had a great living from him; they too give her some benefit.
+
+## Page 73 (scan 89)
+
+And she now is the best of his sons and daughters, who bears poverty and wandering with love, as atonement for her sins; and
+she has worthy sons. But the rest, apart from those mentioned, almost all their sons and daughters went to evil ways ⟨S: a
+three-line note, partly read: "… either apostates or … and abandoned whores"⟩, as most of the sons of the three brothers did:
+Mordecai, mentioned above, and his brother Nathan, who was nicknamed Natsh, and Green Jacob, who left behind them "a box full of
+reptiles" (b. Yoma 22b), full to overflowing — except a few good ones among the sons of Green Jacob. And "not for nothing did the
+starling go to the raven, but because it is of its kind" (b. Bava Kamma 92b): Eybeschütz — for "the rod of wickedness shall not
+rest" (Ps. 125:3), and so on. Therefore he had to complete that family as a vessel full of shame; and he is equal to all of them,
+for all of them together do not anger the Omnipresent as much as this man ⟨S: "amen, may the name of the wicked rot"⟩; and this is
+not the place to dwell on him **[a]**.
+
+Let us return to the affair of Mordecai Kohen. As he caused the house of the leader R. Hendele Kohen to lack bread through him, so
+it was done to his own house: almost all his sons and grandsons wander for bread — except a few who have not yet reached this
+level ⟨S: a three-line note, partly read: "… adulterers … [cast off] religion and holiness"⟩ — and their father's hope is lost. But
+the sons of R. Hendele **[b]**, of a good and upright family, though they came to need other people because of that sinner, who
+destroyed much good, still kept their holiness: they all fear the Lord and bear the sufferings of poverty, harder than death, for
+the love of their Father in Heaven, and remain honoured by all. May the Lord have mercy on them among all the poor of His people,
+and may the sun of their success shine.
+
+I return to the story of my affairs. When I reached Hamburg, all the estate of Mordecai Kohen was already lost and gone, and I
+found nothing to collect of the said debt, which was a thousand Reichstaler. As for the second debt, of eight hundred Reichstaler,
+in a note by R. M. N. D. with the guarantee of his brother-in-law R. Ber Kohen, of blessed memory: when I claimed it from him
+himself, he answered me that it was a paid bond. I did not know the history of this debt, though it was clear in the signatures,
+and they did not deny it; nor did I find it among the paid bonds. Only some of his words entered my ears: that it was an oversight,
+that they had forgotten to tear up the bond or to write a receipt on it. For one would expect that my father would not have left
+this debt uncollected all that time, while R. Ber Kohen was in good standing and able to pay, and was his debtor himself, being the
+guarantor-surety; and that my father had handed it into his hand — only it was torn at its folds from great age ⟨S: a five-line
+note, partly read⟩. Against this there are estimative claims and proofs that this debt too is good and true. First, there is a
+presumption about a *ḥaver* that he does not let out of his hand anything not in order, and we rely on it even in matters of
+prohibition, as they said: a *ḥaver* who died and left a granary full of produce — even if
+
+**Kahana's notes**
+- [a] The abbreviation means "and this is not the place to dwell on it".
+- [b] See (p. 71); he is R. Hendele Kohen, mentioned above.
+
+## Page 74 (scan 90)
+
+they are only a day old, they are presumed to be tithed (b. Pesaḥim 9a); all the more a great pietist, exact in his deeds, like
+my father, of blessed memory. Nor was there room to say that perhaps death prevented him: for according to R. Ber Kohen this bond
+was paid while my father was still sitting on the rabbinical seat of Amsterdam, so that there were several years between the
+payment and my father's death.
+
+Harder still, R. Ber Kohen could not clarify the payment — how and when and through whom it was made — and it was not even
+recorded in his ledger at all; for otherwise he would have shown it. And more than this: why did he not ask for, or at least seek,
+a receipt from my father at the time of payment, or at least at the time he was in Hamburg for the said lawsuit, if the bonds were
+not ready to be torn up and handed into R. Ber Kohen's hand? R. Ber Kohen was an orderly and precise man, so it is surely a great
+wonder that he should be careless in such a matter, which came to a considerable sum, and not worry at all that he might be sued a
+second time unlawfully. So I am forced to say that there was surely some condition in the matter that was not fulfilled, or the
+payment was not properly completed. Even so I could not agree to have R. Ber Kohen confirmed in judgement, since he seemed a very
+trustworthy man, with a presumption of [honesty], and I feared a stumbling-block — although I could have sworn the oath "my father
+did not instruct me", and so on, or brought him to an oath; at least he would not have escaped that. I did not want to concern
+myself with it; I left it as a "bad bond", which we neither collect nor tear up, in case the matter is cleared up later — especially
+since it is not mine alone: [and the brothers' share], who will forgive it? So I could not release him or tear up the bond. It lies
+like this, in doubt, until Elijah comes; I did not agree to sue by force in court.
+
+But the second debt, on the said R. Hendele: here I was "within", and it is certain to me that it is a complete debt, without doubt
+or hesitation, for it was made in my presence, when my father was in Hamburg for the said lawsuit. At that time he refined and
+cleared his accounts with R. Hendele, and my father lent him more then, beyond what he owed him before, at the time of his loss;
+and he gave him a new bill of exchange in the year 5475 [1715], at the time he was there, as said — on the strength of collecting
+it from the payments of Mordecai Kohen, which were about to be made.
+
+Also the said vow of R. Aberle London, who instructed his sons to give my father's heirs a hundred ducats, flew in the air. Although
+R. Ber Kohen tried to carry it out, and wrote to R. Aberle reminding him to keep his vow, "he brought up a potsherd in his hand".
+Meanwhile R. Aberle's ledger was broken: for he sent his eldest son to Paris ⟨S: a short note, perhaps "a market of heretics"⟩ and
+hung a purse on his neck — though he meant only to train him in trade, he was already marked to be called a destroyer of property —
+with merchandise of precious stones **[a]**, a huge sum, and he was
+
+**Kahana's notes**
+- [a] The abbreviation means "precious stones".

@@ -17,3 +17,11 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 80	66	עכ"ז לא עלתה בידו ^ ע"י שמושא הרב	caret; one word	להבחין(?) (Kraken: לקו)	uncertain	view s080_full
 84	70	בערך ארבעים שנה ומקצת יותר ב) ^	caret pointing to the typed sheet "for p. 70" (scan 85)	(see typed insert, scan 85)	sure	view s085_full
 87	71	מעזבונו של מרדכי כהן ג) ^	caret; one or two words in right margin	not read	not read	view s087_full
+88	72	זולת בפפד"ש ^ ובברלין	caret; one word	not read	not read	view s088_full
+88	72	אכלוהו ויכלוהו הוציאוהו לטמיון ^	caret; 2-word note	למקום הטנופת	fairly sure	view s088_full
+88	72	חוץ מבן אחד ר' יוזפא כהן ^	caret; 3-line note	ששני בניו ג"כ / מומרים מושמדים / בין הנכרים	fairly sure	view s088_full
+89	73	יצאו לתרבות רעה ^, כאשר הם רוב בני שלשת האחים	caret; 3-line note	או(?) מומרים או ... / ... או גויים(?) / וזונות מופקרות	partial (last line fairly sure)	view s089_full
+89	73	כמו האיש ^ הלז	caret; short note (on Eybeschütz)	אמן(?) שר"י	fairly sure	view s089_full
+89	73	חוץ מעטים שלא הגיעו עדיין למדרגה זו הנ"ל ^	caret; 3-line note	וזונות כת ... / ... מנאפים / ... דת וקדושה(?)	partial	view s089_full
+89	73	רק שקרוע בכפליו מרוב ישנו ^	caret; 5-line note	partly read (Kraken: שהיה שוה ... / ... כאשר ...)	partial	view s089_full
+90	74	כי שלח בנו הגדול לפאריז ^	caret; short note in parentheses	(שוק של מינים(?))	uncertain	view s090_full
