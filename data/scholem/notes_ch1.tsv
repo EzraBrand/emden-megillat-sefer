@@ -12,3 +12,16 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 36	26	הנקצב מן הקהל ^ בעד הכנסת של הרב	caret; one letter or short word in right margin	-	not read	view s036_full
 38	28	ור"א המפורסם בעולם (the hazzan R. A.)	x mark over ר"א; note in right margin	נ"א (= variant reading; the variant itself not written or not read)	fairly sure (marker only)	view s038_full
 38	28	lines 12-14 and 26	marks at the scan edge (cut off)	-	not read	view s038_full
+40	30	ופסלו את רבם ר"ש אאילין x בראשונה	x mark; one word in right margin	אאיליון (spelling of the name Ayllon)	fairly sure	view s040_full
+41	31	שבא בה חיון ^,	caret; one word in right margin (Kraken read it as a line)	הרשע	sure	view s041_full
+41	31	זוהמת אמונה כוזבת של ש"ץ ^	caret; short note	שר"י (= שם רשעים ירקב)	sure	view s041_full
+41	31	ואע"פ שכבר x נפרד מהם	x mark; one word	not read (Kraken: שאחכ / חיאש)	not read	view s041_full
+41	31	ענין הרע הלז של חיון ^	caret; one word	תמ"ו(?) / ימ"ש(?) (Kraken: תהGמו)	uncertain	view s041_full
+41	31	ומסרו בידו הספר ^ לעיין בו	caret; one word	הטמא(?) / הארור(?)	uncertain	view s041_full
+41	31	לעשות דין האיש x ההוא	x mark; one word	הרשע(?) (second instance)	uncertain	view s041_full
+41	31	עשות משפט באיש ^ ההוא	caret; one word	הבליעל (Kraken: תבלידל)	fairly sure	view s041_full
+42	32	ודחו לחיון ^ מבה"כ	caret; short note	שר"י	fairly sure	view s042_full
+42	32	בבזיון גדול x והרחיקו אותו	x mark; 2-line note	ובזיון(?) ... / ושנואה(?) (partly read)	partial	view s042_full
+42	32	אף ^ הוא חוטא ואשם	caret; short note	שר"י(?)	uncertain	view s042_full
+42	32	היותו מכת ש"ץ ^	caret; short note	שר"י	fairly sure	view s042_full
+42	32	כמעט x שנעשית מדינת הולאנד	x mark; one word	not read	not read	view s042_full
