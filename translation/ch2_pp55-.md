@@ -209,3 +209,116 @@ for the gaon R. Naftali Katz, of blessed memory, was then living in the city of 
 affection(?) and a strong love known between him and my father, of blessed memory; and they agreed between them to bind
 themselves together, that I would take as wife his granddaughter, the daughter of his son R. M[ordecai], head of the court
 of the holy community of Brody; and he vowed to give me a thousand Reichstaler as a dowry, and maintenance for three years.
+
+## Page 60 (scan 74)
+
+that the doctors too did not understand the nature of my illness. After many years in which this strange ailment
+afflicted me, I felt that it came from an excess of blood, which needed to be lightened in me; so it did not let go of
+me until the "golden vein" opened for me, with God's help, and then it left me a little. Only there [melancholy] grew
+strong on me, and I was prone to the black humour. I travelled to Hamburg in this distress and stayed there until the
+rainy season was over; and at the beginning of the summer my father went back with me from Hamburg to Breslau and made
+my wedding **[a]** ⟨S: a three-line note, partly read⟩.
+
+After my wedding, time separated me from my father; I never had the merit to see him again. Parting from him was as hard
+for me as the parting of the soul from the body ⟨S: a long note of some thirteen lines beside this passage, partly read.
+It seems to go on with the wedding night of p. 42: "… not even the taste of intercourse … I did not taste the taste of
+joy … grief …"⟩ — above all because I was a boy of seventeen, and tender, and lacked the perfection I longed for; and I
+had not taken from my father and teacher even as much as a dog laps from the sea, in the hard times that passed over me
+at the beginning of my growing up, as said, most of which went by in sorrow, grief and sighing, wandering and moving from
+land to land for a long time. Now my face was set towards a land I had not known before, to live in the country of
+Moravia, among a people and a language I did not know, and customs of the country I was not used to.
+
+And above all, my heart was troubled within me that I had not been worthy to serve my father as I should. For in my
+childhood and youth I said in my heart, there is still time; so "I did not listen to the voice of my teachers, nor
+incline my ear to my instructors" (Prov. 5:13). And when I did want and desire to learn, I found no master, teacher or
+guide. My father was mostly occupied in the hard war, as said; nor could he keep teachers for his young sons at home by
+themselves, especially as living in a great city like Amsterdam is hard; and he accepted no gifts and presents, so the
+money was gone from his vessels. So I, in my early youth, at about fifteen, had to teach my two little brothers — not
+only did I myself have no teacher or instructor any longer, but it was not in his power to keep for them a special
+teacher who would be right in his eyes.
+
+When I parted from my father, I travelled with my wife and my father-in-law, of blessed memory, to the land of Moravia.
+When we arrived, tired and weary from the road, in the first year of the joy of my wedding, the plague spread in the land
+of Moravia, and came also to the town of Brod, the town in which we lived, just after my father-in-law had come home and
+had hardly settled in his house. After a few days the plague began among the people. We fled the town and moved out to
+the villages to find escape, and we were cast out on the face of the field. In the winter days we had to lodge under a
+tent spread in the forest, in the frost of the night,
+
+**Kahana's notes**
+- [a] See above (p. 42).
+
+## Page 61 (scan 75)
+
+for several weeks, until by the Lord's mercy the villagers' compassion was stirred and they let us come into the
+villages to live with them under their roofs, at a high price.
+
+When this trouble had passed, I saw a new world, a new nature and new customs. In my father-in-law's house, too, the
+living was hard at that time, and I had to make do with the barest necessities, against the tenderness of my nature and
+the habits I had learned in my father's house. And at once I tasted a taste more bitter than death, for my wife, of
+blessed memory, was hard and stubborn, though she was gentle in speech and lovely; only my sins did this to me. Besides,
+"when the barley is finished from the jar, strife comes knocking at the house" **[a]** in my father-in-law's house; and
+they "ploughed with my heifer to find out my riddle" (Judg. 14:18) — the place where I had hidden my purse, the little
+money I had received. I did not agree to give an outlet for the money and throw coins away for nothing; and they made
+quarrels with me and almost separated me from my wife, so that I had no rest, no quiet and no peace.
+
+Never in my life did I sit one day in tranquillity. When the flower of my youth blossomed, "from the womb of the morning,
+the dew of my youth" (Ps. 110:3), the days of my boyhood and youth passed in poverty; all the times came in sorrow,
+trouble and suffering; "from within and without my sighs are many" (Lam. 1:22), and all my joy was darkened (Isa. 24:11).
+With all this, "the precepts of the Lord are right, rejoicing the heart" (Ps. 19:9), the broken and contrite heart; they
+were to me the joy of my heart and the restoring of my soul: "unless Your law had been my delight, I should then have
+perished in my affliction" (Ps. 119:92). Only the main thing was missing: books. I had then only the four *Ṭurim*, which
+I had brought with me, given me by my uncle ⟨S: a name, not read⟩, of blessed memory, as a wedding present. In them I
+studied, as the good hand of the Lord was upon me, according to my understanding; besides them I did not have even a
+volume of the Gemara as I wished, except on loan and with great difficulty. Though my father-in-law, of blessed memory,
+had several sets of the Talmud, and his house was full of precious and honoured books, my eye had no access to them, and
+I had no permission to take any of them to study as I needed.
+
+With all this pressure and want, young men of desire at once set their eyes on me: scholars married and unmarried longed
+to study with me. I wanted more to learn than to teach; even so I could not make their word and their pressing void and
+refuse them, God forbid, also because I said: "from my students more than from all" (b. Ta'anit 7a) — they will keep my
+learning in my hands. So I bent my shoulder and became "a servant under tribute" (Gen. 49:15), serving the service of the
+Lord with companions who listened to my voice. Young men of the people and important scholars gathered to me, and I
+studied with them Gemara, Rashi and Tosafot, the *Ṭur Oraḥ Ḥayyim* with the *Beit Yosef*, Bible, halakhah and aggadah; my
+words were sweet to those who heard them, and their company was pleasant and agreeable to me, good fellowship. They even
+wanted to provide the needs of my household amply, for their fathers were rich merchants, notables of the land
+
+**Kahana's notes**
+- [a] After the saying of the Sages (b. Bava Metzia 59a): "When the barley is finished from the jar, strife comes knocking
+  at the house."
+
+## Page 62 (scan 76)
+
+of Hungary; and I would not at all. The faithful witness in the sky (Ps. 89:38) knows that I took no money or money's
+worth of any kind.
+
+But my days of rest and joy did not last. For within three years, "as the years of a hireling" (Isa. 16:14), in which I
+was a day-labourer ⟨S: a five-line note, partly read: "diligent … as if I were …"⟩ — for I did not let them leave me
+having heard a lesson from my mouth only once, but they repeated their learning before me, especially the lessons in the
+rabbinic codes, the *Ṭur* with the *Beit Yosef*; they did not leave me until it was fluent in their mouths, what they had
+heard and received day by day; and sometimes I toiled with them so much that "I am weary of my crying, my throat is dried"
+(Ps. 69:4), and I had to bind my head with a cloth from the great labour, to explain to them and set their learning in
+order in their mouths, so that it would be arranged in the heart and kept on the tongue, without mistake and without error
+in understanding — suddenly "the spoiler came upon my tent, and all my cords are broken" (Jer. 10:20); "my purposes are
+broken off, the thoughts of my heart" (Job 17:11); "horror has overwhelmed me, trembling has seized me; the twilight I
+longed for He has turned into trembling for me" (Isa. 21:4), when the news of my father's death reached me. "Terrors are
+turned upon me" (Job 30:15): the wheel turned upon me and rolled me backwards; "He will toss me like a ball into a large
+country" (Isa. 22:18), the land of Poland.
+
+I went on a long road on which I had never travelled before. I travelled alone with men of Poland, in hard wandering,
+much more than a hundred leagues, in many dangers. Once we saw it plainly: as we left the inn, two robbers on horseback
+joined us and rode beside our wagon as far as the forest, back and forth, looking at us as if plotting against us, until
+we came upon another wagon, of armed gentile traders, going ahead of us. When the riders saw that wagon going before us
+they turned back at once, and no evil touched us. Blessed is the Rescuer!
+
+I came, thank God, to the holy community of Lwów at the end of the summer of 5478 [1718], and found my father's household
+in heavy mourning, and the whole land weeping for its precious loss, which had no replacement, refusing to be comforted,
+as said **[a]**. I opened my mouth to lament him anew, and preached at my father's grave before a great gathering; for all
+the dear and honoured men of the community came to hear my words, and a great multitude with them, in honour of the dead.
+They heard my words, for they were pleasant, and I won a very good name, for the words were very pleasant to the ears of
+the hearers. I called the sermon *Yatziv Pitgam*, after the setting up of the gravestone that I made for my father on his
+grave on the very day I preached and lamented him. The subject of the sermon was this making of a gravestone, woven into
+the verses of the weekly portion with much invention, depth and sweetness, and well-settled words
+
+**Kahana's notes**
+- [a] The gaon Ḥakham Tzvi died on the night of Monday, the New Moon of Iyar 5478 [1718], aged 58. See *Yatziv Pitgam* by
+  Emden (fols. 16b and 26b).
