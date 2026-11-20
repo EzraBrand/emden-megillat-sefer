@@ -322,3 +322,109 @@ the verses of the weekly portion with much invention, depth and sweetness, and w
 **Kahana's notes**
 - [a] The gaon Ḥakham Tzvi died on the night of Monday, the New Moon of Iyar 5478 [1718], aged 58. See *Yatziv Pitgam* by
   Emden (fols. 16b and 26b).
+
+## Page 63 (scan 77)
+
+ground very fine, so that everyone recognised that the sermon was new — Torah novellae that no ear had heard — and that
+its subject matched the weekly portion with great precision. They urged me to set it down as a separate pamphlet, and it
+has already come out in print, with God's help.
+
+There too I did not cease to give "my sweetness and my good fruit" (Judg. 9:11). I studied with my young brothers, the
+youths, and also with the bridegroom, the rabbi R. L., head of a yeshivah, who was in Lwów at that time. He was the son of
+the rabbi R. Bezalel, brother of my father-in-law the rabbi, who was head of the court in Ostróg; and this son of his was
+afterwards head of the yeshivah in Ostróg.
+
+The holy community of Lwów honoured me at that time by making me head of their court; and they would already have wanted
+to receive me as rabbi and head of the court, had I had a full beard. So strong was their love, fixed in their hearts and
+kept for my father's house; for they said, his sons will surely walk in his ways. But I was still young in years — "the
+multitude of years should teach wisdom" (Job 32:7) — and I was the lowliest of men, though I was great in the eyes of all
+the people. It did not enter my mind to seek or pursue any greatness or honour. Only out of the strength of their great
+love and affection did they do this, to give me a mantle of praise and the honour of judge of the court, which is next to
+rabbi and head of the court; and they thought that I would settle with them and make my home in Lwów. All the members of
+the community blessed themselves by me and by my father's house — would that the blessings my ears heard behind me were
+fulfilled in me. Every time I passed through the street where women sat in shops selling goods, food and drink, they
+blessed themselves by us as we went by.
+
+The holy rabbi R. Ḥ. Reitzes, may God avenge his blood **[a]**, also set his eyes on me to keep me there, and asked me to
+make my home in Lwów, in order to study with his brother, his son-in-law, the holy rabbi, may God avenge his blood. The
+famous leaders, the learned R. Henikh and his brother-in-law R. Nathan, of blessed memory, also wanted me to settle in
+Żółkiew and study in their house of study, and to make good provision for me.
+
+Truly, I was already content to make my home in Lwów, seeing the great affection and the great honour for my father's
+house, and a good and wide land before us — both in the cheapness of living and in the fitting matches to be found for
+the sons and daughters, who were still small. For although my father left seven young orphans, four sons and three
+daughters, had we been eager for money they would have made us rich: all the leaders of the land of Poland wanted to join
+themselves to my father's descendants and to settle on them dowry and gift as we pleased, and also to give great presents
+to my mother the rebbetzin. Even if we had had seventy sons to marry off, they would not have been enough to satisfy the
+longing of the whole land, which desired my father's sons. And not only would we not
+
+**Kahana's notes**
+- [a] See Buber, *Anshei Shem* (p. 64, § 165).
+
+## Page 64 (scan 78)
+
+have needed to give them anything as a dowry; they were willing to take all their wants on themselves and to add gifts and
+presents — to me too, the young one, the eldest of the brothers, if I would agree to make a match with them — besides what
+they promised my mother, of blessed memory. But we did not want to enter into matches with all the great moneyed men who
+ran after us and sent us many friends and messengers, intercessors and matchmakers, to turn our hearts to money. Even when
+they wanted to open their hand wide and win us with a purse of gold coins, it counted for nothing with us when the match
+was not suited to our honour. As my father had despised money in matters of marriage, as said, in the way he acted with me
+and with my elder sisters, so we acted after him: we did not set our eyes on money, but on family. Because of this
+several of the powerful men of the land turned into our enemies.
+
+Once my mother, of blessed memory, and I stood in a great trial. One of the "rams" of the land pursued us to make a match
+with us at all costs, for his soul greatly longed for one of our brothers for his son's [daughter](?), and he wanted to
+heap up dowry and gift, and did not let us sleep for the many go-betweens. We could not agree to it, for a reason we knew
+concerning that match: out of worry that my father's descendants should not stumble, God forbid, in a matter for which that
+righteous man had given his life. What did we do to rid ourselves quickly of the trouble of that honoured man's pressing?
+We agreed to match my brother with the daughter of a rabbi of an honoured and high family, with wealth and honour, though
+he gave nothing to our purse. That man, who had exerted himself and made great efforts to get his wish, turned into our
+enemy when he saw that he had toiled with us in vain and had not achieved what he planned. He opposed us also in the matter
+of a bond we held on the district; and even so he did not rest or keep quiet in trying to undo the binding of the match we
+had made. Though we thought that nothing could be done after the deed, he did not think so; and, as we will tell, in the
+end he got his wish.
+
+And it was from heaven: after this my mother, of blessed memory, died, after a severe illness — it seems from much grief
+and sighing, for she would not be comforted for the husband of her youth. She was still young compared with my father, for
+she was his second wife, as said; after my father's death she was about forty-one, and several of the great rabbis of
+Poland wanted to take her as a wife. But God forbid that anyone should open his mouth to speak even by a hint of a match
+before her: she would almost strike him, out of great bitterness, from her great piety and her love for her husband, of
+blessed memory, whom she knew for a piety and holiness that had no equal in his generation. So her tear was always on her
+cheek from the time that her husband, faithful to her, was taken from her; and she was faithful to him, and would not
+choose another man even if they had given her all the money in the world. And though they comforted her with her children
+and said to her: "Why do you worry and weep so much? Have you not,
+
+## Page 65 (scan 79)
+
+thank God, every joy in your children and descendants? You need not worry for your orphaned children; on the contrary,
+they will restore your soul and sustain your old age with much good, since everyone runs after them, and you can gain
+wealth through them" — even so she did not take it to heart. She was always in grief and sighing, and all joy was darkened
+for her, until she fell into a very severe illness. I was in sorrow and great distress for her, for parting from her was
+very hard, and our cries went up on high. For our many sins she died, at the end of three quarters of a year after the death
+of our father, of blessed memory; and on the following day my little sister died, a girl of three; and a great thing
+happened at her burial. After this I fell ill and took to my bed, and they almost despaired of me; and the Lord saw my
+affliction, "sent His word and healed" me.
+
+When the news of my mother's death reached Dukla, where my brother-in-law the rabbi R. L., husband of my elder sister, of
+blessed memory, sat on his rabbinical seat, he at once set out and came to Lwów, and found me still lying on my sickbed.
+At once my brother-in-law took all the affairs of the house, and my brother, into his own hands. He undid the match I had
+made for my brother, took the boy with him and travelled to Żółkiew. There he pitched his tent and made a new match for my
+brother, who was already betrothed: he cancelled the first conditions and bound himself there with that man who had pressed
+me, as said, and who spent much money on it to get his will and his wish. He also promised my brother-in-law to exert
+himself to get him an important rabbinate; and through this he got his desire and his wish this time, after he had given
+up hope.
+
+I had become guarantor for the boy in the first match, and I remained in Lwów. When the new binding made by my
+brother-in-law for my brother there became known, the family of that rabbi who had first made the match with us sued me
+before the rabbi R. Joshua, of blessed memory, who had then come there and sat on the rabbinical seat of Lwów. The suit was
+held on the holy Sabbath, for they had been told that I meant to move from Lwów too, and to travel from there on Saturday
+night; so the rabbi allowed it. Yet my guarantee did not apply to the person of the boy, who was grown and his own master,
+but only to fulfilling the obligation of some gifts, clothes and wedding needs according to the conditions. With
+difficulty I got away from them in peace, since they knew I had been forced.
+
+By the way, I will mention the matches my father made in his lifetime for his three daughters who were older than me. My
+elder sister Miriam, of blessed memory, he matched with my brother-in-law R. L., of blessed memory, son of the rabbi
+R. Saul, of blessed memory, of the line of the gaon R. Heschel, of blessed memory. Him he "bought" at a very high price:
+he gave him seventeen hundred Reichstaler as a dowry, though he could have matched her with several exceedingly rich men of
+Germany, who had desirable young men and ran after him to take his daughter for nothing, and even to pay into his purse.
+For this sister of mine was great in beauty, the fairest
