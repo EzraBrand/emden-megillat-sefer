@@ -74,3 +74,17 @@ Pipeline: `scripts/ocr_kraken.py` (Kraken PP-OCRv6, 17 pages in 19 min, 3 worker
 - Scholem did not mark "ובשעות פנויות" (p. 17), so his collation is selective, not complete.
 - Margin crops: render the page with pymupdf, crop with PIL (pymupdf clip at x=0 gave blank crops). The notes are
   in the RIGHT margin (beside line starts).
+
+## Chapter 2 (20-Nov-2026): book pp. 54-99, scan 66-115
+
+- Done and pushed: 101 reader sections in total (pp. 3-99 plus inserts). Chapter 3 starts on scan 115, line 37
+  ("אחר זאת נסעתי מאמשטרדם"); Kraken OCR of scan 116+ not yet run.
+- Inserts in Scholem's copy: typed sheets at scan 17 (for p. 8), 52 (for p. 41), 85 (for p. 70); a sheet in
+  Scholem's own hand at scan 72 (for p. 59). Blank pages: scan 18, 51, 71, 86. Inserts are flagged "manual" in
+  data/fixes.json; their text is data/text/sNNN.he.txt (edited by hand).
+- Scholem marks: 168 logged in all (pilot 21, ch1 69, ch2 78); 44 sure or fairly sure.
+- Pattern in chapter 2: the same censorship as chapter 1 (ערלים, גויה, כלבים, הפושעים for gentiles; curses on
+  Eybeschütz and his circle; the converted sons of Mordecai Kohen; "whores"); more long notes that are only partly
+  read (pp. 60, 82, 98, 104-105).
+- Workflow per batch: align_pninim.py -> read data/view/sNNN_full.png -> fixes JSON in scratchpad ->
+  merge_fixes.py -> apply_fixes.py -> append translation -> build_site.py -> commit + push.
