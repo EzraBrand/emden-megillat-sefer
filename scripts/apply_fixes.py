@@ -30,6 +30,8 @@ def main(a, b):
         body = (ROOT / "data" / "body" / f"s{n:03d}.txt").read_text(encoding="utf-8")
         notes = (ROOT / "data" / "notes_kahana" / f"s{n:03d}.txt").read_text(encoding="utf-8")
         f = FIX.get(str(n), {})
+        if f.get("manual"):  # transcribed by hand (typed inserts): data/text/sNNN.he.txt is the master
+            continue
         for line in f.get("move_to_notes", []):
             if line in body:
                 body = body.replace(line + "\n", "").replace(line, "")
