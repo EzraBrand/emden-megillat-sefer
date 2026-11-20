@@ -428,3 +428,109 @@ R. Saul, of blessed memory, of the line of the gaon R. Heschel, of blessed memor
 he gave him seventeen hundred Reichstaler as a dowry, though he could have matched her with several exceedingly rich men of
 Germany, who had desirable young men and ran after him to take his daughter for nothing, and even to pay into his purse.
 For this sister of mine was great in beauty, the fairest
+
+## Page 66 (scan 80)
+
+among women and learned; and they offered great wealth. He did not turn to the proud, nor to those who turn aside after
+silver (cf. Ps. 40:5), and gave his young daughter more than he could afford, in order to join her to a family of lineage
+— besides great expenses and maintenance for several years — while the groom's father bound himself only to clothes and
+gifts. While they were on the way to come ⟨S: a word, not read⟩ to the wedding of this youngest of their sons, the rabbi
+R. Saul died on the road, in the holy community of Glogau **[a]**. He had already been received as rabbi in Amsterdam
+too, and wanted to go there after his son's wedding; he did not live to see his son's joy, for his hour was cut off. My
+brother-in-law came with his mother, his brother and his brother-in-law, and my father made the wedding at his own
+expense, with great outlay, as said.
+
+The bridegroom, a boy, was left in my father's charge after his mother, brother and brother-in-law left, like a newborn
+child, and all his care fell on my father: to study with him, and to give him a good companion to fill his hands with
+reviewing his studies and to guide him on a good way. My father did not rest until he made a great man of him. For several
+years my brother-in-law sucked at the breasts of the understanding of his father-in-law, my father, and "poured water on
+his hands" (2 Kgs. 3:11); he was also his scribe, copying his writings and letters; and he studied grammar and other
+things with him. Even so he did not succeed ⟨S: a word, not read⟩, through serving the rabbi, in becoming a man of pure
+style and good Hebrew diction; but in reasoning, ruling and leading a community he gained something from him **[b]**, and in
+any case he did not lack much. At the beginning he was very diligent at his studies, with a broad heart and in great
+comfort, such as great scholars do not have, not one in a thousand. For he had a very good wife, with lovely qualities, love
+of moral teaching, fear of Heaven and modesty, very pious, with strong love for her husband together with submission and
+humility — besides her great beauty and charm — and skilled in women's work and in keeping a clean house. Added to this was
+the great affection of his father-in-law and mother-in-law, my parents, of blessed memory, who did all his heart's desire;
+all my father's eyes and thought were on him, to raise him, make him wise and make him prosper in every way he could, and to
+give him good companions — for he was their first son-in-law, of their beloved daughter, and in him truly was set all his
+toil and labour. Not only in my father's lifetime but also after his death: for he arranged that my brother and my two
+sisters, among the orphans, should be supported by him.
+
+After he left Poland I handed over to him the whole estate of my father, of blessed memory — money and money's worth,
+movables, books and bonds of the province, which came to a certain sum. Several thousand Reichstaler went to waste; much
+sank in this way. And I, the eldest of the brothers,
+
+**Kahana's notes**
+- [a] He was buried on Thursday, 17 Iyar 5467 [1707]. See Zunz, *Ir ha-Tzedek* (p. 159).
+- [b] Emden here uses the word *me'umah* for "something", like the German *etwas*.
+
+## Page 67 (scan 81)
+
+took a bond on R. Hendele, of blessed memory, in Altona, which was due to be collected **[a]**, and so he removed me from the
+whole recorded estate, as said; for he said that it would come to account afterwards, when everything was collected and the
+movables, money and books were gathered together — they were still scattered in other places, in Breslau and Danzig — and
+the money of the provincial debt. All this was collected after I moved from Poland. True, he also had expenses for my
+brothers and sisters for some years, until they were all married, with God's help; but he had no need to give a dowry
+except to one sister, Mrs. Leah. She was betrothed to the son of the rabbi and leader R. Ḥ. Leizerl, who had a pleasant son,
+and he too settled some money on him; and he had helped towards the rabbinate of Lwów. My father, of blessed memory, had
+bound himself in his lifetime to settle a thousand Reichstaler as a dowry, and other things as customary. This was a hard
+creditor, and he had to be paid in any case; though to this day I do not know how much he gave this sister of mine. But to
+my four brothers, not only did he not need to give anything; on the contrary, he took much from them — above all from the
+leader R. Yozpa of Ostróg, with whom I made a match, to marry my little brother to his daughter: my said brother-in-law drew
+great benefit from him all the time my young brother was in his charge. Likewise from the second relative by marriage, with
+whom my brother-in-law made the second match, as said, he had great benefits too. And this was what caused him afterwards
+to be caught up in the business of rabbinates; for he promised to give him real help, to bring him up the steps of high
+office.
+
+For this reason hatred and rivalry reigned between him and the gaon R. Joshua mentioned above, who had then been received
+in Lwów through the great efforts of the relatives he had there **[b]**. In truth R. Joshua was received somewhat by force,
+and with pieces of silver, through the judges and the heads of the province, not according to the law of the Torah; and
+there were many people in Lwów whose minds were close to our father's house, who leaned towards my brother-in-law, to
+receive him as rabbi of Lwów and the province, had not the hand of the strong-armed prevailed, together with the giving of
+money. So after the rabbi and leader R. Nathan of Żółkiew also bound himself to our father's house and to my
+brother-in-law — who had obtained for him his heart's desire, my brother R. David — he wished to be [a helper] to him in
+the matter of the rabbinate of Lwów. Rivalry and strife arose between my brother-in-law and R. Joshua, who pursued each
+other for many days. That leader, his relative by marriage, also exerted himself to find him a place of honour meanwhile in
+the community of Tarnopol, where a rabbi, one of my brother-in-law's relatives, sat;
+
+**Kahana's notes**
+- [a] His name was Hendele ha-Kohen; see below (p. 71). Emden also says in his *Torat ha-Kena'ot* (p. 56): "There died to
+  us the learned parnas and leader R. Hendele, of blessed memory, aged 86, son of the perfect and famous sage R. Moses
+  R. Lipsch, of blessed memory, who was the right-hand pillar of the community of Altona."
+- [b] He is the gaon R. Joshua, author of *Penei Yehoshua*, who was received as head of the court in Lwów in 5477 [1717].
+  See S. Buber, *Anshei Shem* (p. 105).
+
+## Page 68 (scan 82)
+
+and that rabbi had to be pushed out before him through the efforts of the relative R. Nathan, whose hand was strong there
+with the authorities. So the former rabbi was removed and my brother-in-law installed there. I heard that there was a
+pretext in this matter: they said that the former rabbi was not learned and not fit to sit on the seat of ruling. Be that as
+it may, this made him many enemies, also in the district, among members of my brother-in-law's own family, who had first
+been his friends and helpers. Afterwards they opposed him greatly and were among his troublers, for in their view he had
+taken part in an ugly business, troubling his own flesh for his own benefit. So they did not rest or keep quiet until they
+put him out of that rabbinate too; as he had done, so it was done to him. And they said: "Is this why we needed him in
+Poland? At first, that he should walk in the ways of his master, who was like his father, Ḥakham Tzvi, of saintly memory,
+all of whose deeds were for the sake of Heaven, who loved uprightness and justice to every man, [without] any leaning or
+motive, and did not seek his own honour and benefit." So many of his former friends turned into enemies, and he did not
+obtain the rabbinate of Lwów — especially as R. Joshua was already sitting there with great and strong power.
+
+All the days he sat in his first rabbinate, in the holy community of Dukla, a small town, he was diligent at his studies
+and prospered. Afterwards he was caught up in the pursuit of the honour of rabbinates. He was received in Rzeszów, and did
+not sit in peace there either; afterwards he was received in Glogau, and the like. In all these places he did not gain much
+in knowledge of the Torah, except what the office of the rabbinate necessarily brought with it — the leading of a community
+and practice in ruling and judging — especially as he had in those places important scholars, judges and elders who loved
+him. In any case he also rolled about in sorrow many times, besides matters of controversy, for he needed great expenses and
+outlay and did not find enough for his needs in those places.
+
+But in his old age he succeeded [in finding] the place and the honour of his father and master: he was received as rabbi of
+the Ashkenazi community in Amsterdam without opposition, and stayed there about fifteen years. There he had all the good of
+this world in fullness and great sufficiency — though he did not escape rivalry several times then either, because of the
+two old sides that were there, as said. And though they were united in his hand for a while, still several times the old
+hatred awoke against him, and a new one too; for in his days the city of Amsterdam was divided a second time over new
+cantors — first over the cantor who was afterwards cantor of Glogau, after him the cantor from Schwersenz. All these were
+causes of new division of hearts. Even so they could not prevail over him, for he knew how to put away the claims and
+complaints that his opponents found against him. He also renewed the house of study, as he had seen his master, my father,
+do, as said, though he could not spread Torah much, for he was weak at the end of his days and chastened with pains. When I
+wandered far from my home [to Amsterdam], it was after despair; even so he became like a new creature at once when I came to
+his house, and he was until
