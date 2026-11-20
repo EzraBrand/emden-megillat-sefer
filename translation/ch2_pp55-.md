@@ -534,3 +534,133 @@ complaints that his opponents found against him. He also renewed the house of st
 do, as said, though he could not spread Torah much, for he was weak at the end of his days and chastened with pains. When I
 wandered far from my home [to Amsterdam], it was after despair; even so he became like a new creature at once when I came to
 his house, and he was until
+
+## Page 69 (scan 83)
+
+the year [5515 (1755), still alive] **[a]**, about two years after the death of my sister, of blessed memory, his wife the
+rebbetzin **[b]**; and he left his abundance to his little ones, his sons and daughters, and bequeathed his seat to his eldest
+son. His praise must also be told: he was generous with his money, and my sister was as generous as he, doing much
+kindness to near and far; a book could not hold the story of her good deeds. Not for nothing did they gain what the pillars
+of the earth did not. In my brother-in-law was fulfilled: "greater is the serving of [Torah] than its study" (b. Berakhot
+7b); for he stood and served my father like a servant, and that is what stood by him, and he merited two sons who are
+scholars and scribes, somewhat like their mother's brothers, all of whom are great scholars, great scribes and pious men —
+may the Lord be upon them and may they live. With his second daughter he married into the family of the son of the gaon
+R. Meir, head of the court of Prostějov, who also prospered in rabbinates in the provinces of Lithuania; they have only one
+son, tender and good, a scholar and scribe. She too stood him in much money. May the Lord lengthen their days and years in
+pleasantness.
+
+My third sister married the grandson of R. H. Witschitz, but did not prosper at all: after some years her husband was killed
+on the road, in a forest, by murderers. It seems that he had to pay the debt of his grandfather and his sons, who had caused
+the killing of two righteous and good men, as said. He left no son or offspring, and my sister, may she live, remained a
+widow and alone. She would not marry another man, although several great men of the generation wanted to take her as a wife;
+she chose to remain a widow all her life.
+
+These three sisters older than me my father married off in his lifetime; and me too, his first son, the fourth child, he
+married, as said. My little sister, Mrs. Leah, he betrothed in his lifetime to the son of the rabbi and leader R. Ḥ.
+R. Leizers, and he settled on her too a large sum as a dowry; he did not live to marry her off, but she married him after my
+father's death, and money from the estate sank into it. He did not live long, but she has from him a pleasant son, may God
+keep him. Afterwards she married the rabbi R. M., son of the gaon **[c]**, head of the court in Amsterdam; from there he went
+to the Land of Israel. He too did not live long, but she has from him too a worthy son, may God keep him. My youngest sister,
+Deborah, may she live, married the grandson of the rabbi R. Joel of Ostróg; her husband's father and his son are rabbis in
+Volhynia. My four brothers, may they live, all married after my father's death, to daughters of leaders — except my brother
+R. Nathan, who married the daughter of an outstanding rabbi; and to all of them the Lord has graciously given good and worthy
+children, wise and understanding,
+
+**Kahana's notes**
+- [a] He was received as rabbi in Amsterdam in 5500 [1740] and died on the night of the seventh day of Passover 5515 [1755];
+  see *She'erit Yisrael* in Judeo-German (fols. 140b and 146b). The learned Emden left a blank space here in the manuscript,
+  and I have added this detail.
+- [b] Her name was Miriam, and she died in the month of Tammuz 5513 [1753]. See *Toledot Ya'avetz* (p. 51).
+- [c] The name of this gaon is left out in the manuscript. Perhaps it is R. Eleazar of Brody, whose name is also left out in
+  the manuscript earlier (see p. 47); he was rabbi in Amsterdam and went from there to the Land of Israel.
+
+## Page 70 (scan 84)
+
+sons and sons-in-law, may God keep them; only, since I am not familiar with them and their names, I will not dwell on them.
+
+I return now to the order of the story of my life, with God's help, to the place where I broke off above between the
+sections. My soul longed very much to settle in the provinces of Poland with my father's household: "how pleasant for
+brothers to dwell together" (Ps. 133:1). I stayed in Poland from the end of the summer of 5478 [1718], when I came there,
+until after Passover 5479 [1719]. In that time I wrote to my wife to come to me in Poland, for the land is good before us;
+above all, men of Torah find in it everything they want, both an honourable living and matches for sons and daughters —
+especially for families of lineage: everyone runs after them and gives money to their fathers' house. But I did not succeed,
+and my fitting request was not granted, as it seems. But "the counsel of the Lord, that shall stand", and the Lord meant it
+for good, as I will write with God's help. For she was then young in years and could not agree to this, to leave her father
+and mother and travel to another land; so I was forced to go back to my home — after I had been sated with many evils and
+troubles.
+
+The days I spent in Lwów in the year of mourning for my father were not like these. Not even sleep was granted us all year;
+"we had no quiet, and trouble came" (Job 3:26). There I buried [on Monday, 3 Shevat 5479 (1719)] **[a]** Sarah Rebecca, of
+blessed memory, my mother and teacher, the pious woman, who was still young in years, about forty and a little more **[b]**
+⟨S: a caret, pointing to the typed sheet that follows⟩. Several times her soul had already flown from her, and through our
+many cries it came back to her for some days after. All the household also took to their beds; I too fell ill and was like
+one of them, and more than them I reached the gates of death; and the Lord sent His word and healed me and restored me to my
+strength, "and my life was given me for a prey" (Jer. 45:5).
+
+I left my father's house after I had made a match for my youngest brother with the daughter of the leader R. Y. of Ostróg. I
+also left my father's estate — money, vessels, movables, books and debts, which came to a certain sum — all of it remained
+in the hands of my brother-in-law the rabbi, of blessed memory, as the property of my father's house; for everything was
+scattered and divided in other places, as said, and I could not stay longer until everything came together to one place, to
+my father's house. Into my hands were given the copies of my father's book of responsa, printed in his lifetime, of which
+only very few had been sold. My father's household laid on me, as the eldest of the brothers, the task of taking on the
+travelling to "divide them in Jacob" (Gen. 49:7), to take them for distribution and spread them in Israel. Along with them
+they gave me bills of exchange **[c]**
+
+**Kahana's notes**
+- [a] This is left out in the manuscript; in this manuscript there is an empty space, and the gaon Emden left it so in order
+  to write afterwards correctly the day and the year in which his mother died. See *Matzevet Kodesh*, part 1, tombstone 122;
+  see there.
+- [b] See above (p. 64).
+- [c] (See the note on the next page.)
+
+## Typed insert for p. 70 (scan 85)
+
+*A third typewritten sheet in Scholem's copy, headed "for p. 70". It belongs after "about forty and a little more" on p. 70,
+where Scholem put a caret, and expands on the death of Emden's mother. Kahana tells the same story more briefly on p. 64.
+The typescript has some damaged letters; uncertain readings are marked (?).*
+
+The great men of the land of Poland desired her. But whoever wanted to try to speak with her of matters of a match, even from
+afar, by roundabout words that came round of themselves, put himself in danger: she would almost strike anyone who said in her
+ear a word or half a word of it. From the great bitterness of her soul she wasted away in the tears of her eyes, which ran
+without ceasing; she refused to be comforted for the husband of her youth. Everyone, near and far, tried with cunning and
+effort to speak to her heart and to comfort her with her sons and daughters, in whom she saw every honour and the hope of
+seeing much more. For all that she did not take it to heart, and would not be comforted for the living one(?) in the Garden of
+Eden […], to whom she was faithful, knowing that he had not left his like; and she was great in piety, in holiness and in
+extra modesty. So she could not forget, "and the dove found no rest" (Gen. 8:9) in all the comforts they made for her to calm
+her. It was all in vain and for nothing, until she fell into a very severe illness from the greatness of her grief and sighing.
+
+## Page 71 (scan 87)
+
+which my father, of blessed memory, held on R. H. K. and his brother and brother-in-law in Hamburg **[a]**, which they thought
+I would collect. So I went on my way at the beginning of the summer of 5479 [1719], and returned in peace from my father's house
+to my own home in Brod, and stayed there a few days. Hardly had I settled in my house when I fell again into a hard and heavy
+illness; the servant I had taken from Poland and brought with me also fell very ill; and the Lord in His kindness healed me
+and gave me life.
+
+When my spirit came back to me I had to think about a new journey, far, heavy and hard, in order to keep my promise to my
+father's household: to turn the books into money, and to gather "handfuls of blessing" from collecting the debts mentioned,
+to help my orphaned brothers and sisters towards fitting marriages — for they despised money that is not honest, a nature
+they inherited from my father and mother. I also thought that some sum would come to my share, after accounts were settled on
+both sides; and on that condition I took on myself to pay my father's debt, which was to Mrs. Malkah, of blessed memory,
+daughter of the gaon R. M., of blessed memory, who died in Altona, and who had deposited her estate with my father until her
+heirs grew up. So I paid a hundred Reichstaler from my own pocket, on the security of the [books] and debts I had taken into
+my hands.
+
+So I set out on the road a second time, after first writing to Hamburg. I exchanged letters with the leader R. Ber Kohen,
+mentioned above, on whom everything depended in all the affairs there, and set out my case to him in writing about the said
+debt of R. H. K. **[b]**, which at first was sure to come to collection. For the leader [R. H. K.] had grounds to collect a
+huge sum from the estate of Mordecai Kohen **[c]** ⟨S: a word, not read⟩, very great money; Mordecai Kohen had already agreed
+in his lifetime to give him nearly thirty thousand by compromise, and he would not, for much more was due to him. Because
+Mordecai Kohen was a violent man, R. H. K. could not get it out of him by Jewish law, for he was much more powerful than him in
+the community and the court, so that R. H. K. could not obtain just judgement in the Jewish court, to make him disgorge what
+he had swallowed; he was forced to bring him to judgement before His Majesty. I asked the leader R. Ber Kohen by letter by the
+post to tell me how the matter stood, and he answered that the affair still depended on the king's final judgement, and that
+when judgement came out, my debt, which was nearly a thousand Reichstaler, was sure to come into my hands.
+
+At that time too, when the news of my father's death came to Germany and the provinces
+
+**Kahana's notes**
+- [a] *Reh"kh* abbreviates R. Hendele Kohen, mentioned above (p. 67); *Ḥ"K* abbreviates *ḥiluf ketavim*, bills of exchange,
+  *Wechselbriefe* in German. See the memoirs of Glückel of Hameln (p. 80, note 1).
+- [b] The abbreviation means R. Hendele Kohen, mentioned above.
+- [c] In my opinion this is the man Mordecai Kohen mentioned in the memoirs of Glückel of Hameln; see there (pp. 122 and 145).
