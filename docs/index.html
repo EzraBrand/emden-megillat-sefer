@@ -1,0 +1,770 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Megillat Sefer Reader</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Noto+Serif+Hebrew:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1c1a;--muted:#6b665e;--line:#e3dfd6;--accent:#8a3b12;--sch:#f4e7c8;--card:#fff}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#17161a;--fg:#e9e6df;--muted:#a19b90;--line:#34313a;--accent:#e39a6c;--sch:#3a3220;--card:#1f1e23}}
+:root[data-theme="dark"]{--bg:#17161a;--fg:#e9e6df;--muted:#a19b90;--line:#34313a;--accent:#e39a6c;--sch:#3a3220;--card:#1f1e23}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 "Noto Serif",Georgia,serif}
+.wrap{max-width:1250px;margin:0 auto;padding:0 16px}
+.top{border-bottom:1px solid var(--line);padding:24px 0 12px}
+h1{font-size:1.7rem;margin:0 0 4px}.sub{color:var(--muted);margin:0 0 12px}
+.toc{font-size:.9rem;color:var(--muted);line-height:2}.toc a{color:var(--accent);text-decoration:none}
+details.about{margin:12px 0;font-size:.95rem}details.about summary{cursor:pointer;color:var(--accent)}
+.page{border-bottom:1px solid var(--line);padding:24px 0}
+.page header{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.page h2{font-size:1.15rem;margin:0}.scan{font-size:.85rem;color:var(--muted)}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:32px;margin-top:12px}
+.he{font-family:"Noto Serif Hebrew",serif;font-size:1.12rem;line-height:1.9;order:2}
+.en{order:1}
+.fn{color:var(--accent);font-size:.7em}
+.knotes{font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padding-top:8px;list-style:none;padding-right:0}
+.knotes-en{font-size:.88rem;color:var(--muted);border-top:1px solid var(--line);margin-top:12px}
+.knotes-en h3{font-size:.9rem;margin:8px 0 0}
+.sch{background:var(--sch);border-radius:3px;padding:0 3px}
+blockquote{margin:12px 0;padding:4px 12px;border-left:3px solid var(--accent);color:var(--muted);font-size:.92rem}
+.schbox{margin-top:12px;font-size:.85rem}.schbox summary{cursor:pointer;color:var(--accent)}
+.schbox table{border-collapse:collapse;width:100%;margin-top:6px}.schbox td,.schbox th{border:1px solid var(--line);padding:4px 6px;vertical-align:top;text-align:left}
+.themebtn{float:right;background:none;border:1px solid var(--line);color:var(--fg);border-radius:4px;padding:2px 8px;cursor:pointer;font:inherit;font-size:.85rem}
+@media (max-width:800px){.cols{grid-template-columns:1fr;gap:16px}.he{order:1}.en{order:2}}
+</style></head><body>
+<div class="wrap">
+<div class="top">
+<button class="themebtn" id="tb" type="button">Theme</button>
+<h1>Jacob Emden, <i>Megillat Sefer</i></h1>
+<p class="sub">Hebrew (Kahana, Warsaw 1896/97) with an English draft translation · work in progress</p>
+<details class="about"><summary>About this text</summary>
+<p><b>Hebrew:</b> David Kahana's edition (Warsaw 1896/97), from the HebrewBooks scan no. 37017, which is Gershom
+Scholem's copy (his library stamp is on scan p. 196). OCR by Kraken with the PP-OCRv6 model, then checked line by line
+against the scan by Claude. Running heads and page numbers are removed; Kahana's footnote calls are shown as small
+letters.</p>
+<p><b>English:</b> draft translation by Claude (Anthropic), not yet reviewed. Biblical phrases are given in standard
+wording with the reference. Kahana's own footnotes are translated under each page.</p>
+<p><b>Scholem's copy:</b> the margins carry handwritten insertions, most of them words that Kahana left out of the
+manuscript text (often harsh terms for non-Jews). They are shown as <span class="sch">⟨S: …⟩</span> where his caret
+points, and listed with their certainty under each page. A typed sheet bound in after p. 8 copies a slip of the Oxford
+manuscript. Some notes are cut off at the edge of the scan.</p>
+<p><b>Not the manuscript:</b> Kahana's text is not a full transcription of the Oxford manuscript (Bodleian, Neubauer
+1723:2). A critical edition by Jacob J. Schacter has been announced.</p>
+<p>Source and scripts: <a href="https://github.com/EzraBrand/emden-megillat-sefer">github.com/EzraBrand/emden-megillat-sefer</a>.</p>
+</details>
+<nav class="toc"><a href="#p3">p. 3</a> · <a href="#p4">p. 4</a> · <a href="#p5">p. 5</a> · <a href="#p6">p. 6</a> · <a href="#p7">p. 7</a> · <a href="#p8">p. 8</a> · <a href="#s17">insert</a> · <a href="#p9">p. 9</a> · <a href="#p10">p. 10</a> · <a href="#p11">p. 11</a> · <a href="#p12">p. 12</a> · <a href="#p13">p. 13</a> · <a href="#p14">p. 14</a> · <a href="#p15">p. 15</a> · <a href="#p16">p. 16</a> · <a href="#p17">p. 17</a></nav>
+</div>
+
+<section class="page" id="p3">
+  <header><h2>Page 3 (scan 11)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=11" target="_blank" rel="noopener">scan 11 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>אבי! ישמרכם השומר אמת לעולם, באור ה&#x27; הקבצו ושמעו אל יעקב וישמע אליכם אלהים, אלהי אלהיכם ואלהי אבותיכם. אספרה אל חוק ולפועלי אתן צדק, ואומרה רבות עשית אתה ה&#x27; אלהי עמדי, אגידה ואדברה עצמו מספר, ולחקקם בספר איה שוקל ואיה סופר <sup class="fn">א</sup>, אף כי לא ראיתי בטובה <sup class="fn">ב</sup>, וא&quot;א לכוף את הדין והשעה לדחוק. ה&#x27; אלהי ארוממך, אודה שמך כי עשית פלא עצות מרחוק <sup class="fn">ג</sup>. ה&#x27; נראה לי ממעשיו ועלילותיו אשר הראני נגד צוררי, מי יתן בספר ויכתבון מלי, לעד בצור יחצבון בכתב בית ישראל, בנים יולדו יקומו ויספרו לבניהם ליום אחרון. אז ימלא שחוק פינו ולשונינו רנה, כי אפס רשע ועולה. ואתחיל מאבי זקני אבי אבא זצ&quot;ל אשר אני נקרא בשמו, ה&quot;ה הגאון מו&quot;ה יעקב במוה&quot;ר בנימין זע&quot;י אשכנזי מגזע ז&quot;ק <sup class="fn">ד</sup>, כך היו נוהגין לחתום שם משפחתם, כי היו זרע קדש בני בחונים וצרופים בימי הגזרות ושמדות והמה נשארים נאמנים לה&#x27; מכמה דורות מגדולי חסידי אשכנז הקדמונים, ואבי זקני הנ&quot;ל היה אחד מחכמי ווילנא המסוימים באותן הימים לפני גזרת חמיל <sup class="fn">ה</sup>, והיה תלמידו של הגאון מו&quot;ה יעקב אב&quot;ד בלובלין, אביו של הגאון מוה&quot;ר העשיל זצ&quot;ל. אצלו שמש בישיבה ונתן לו בתו לאשה <sup class="fn">ו</sup>. אבא רבה הוא הגאון החסיד שבכהונה בעל ס&#x27; שו&quot;ת שער אפרים ז&quot;ל, ראש ב&quot;ד בק&#x27; ווילנא המעטירה אז בהיותה בשלותה, והיה לו כתב יחוסו עד אהרן הכהן, וחתן לאחד</p><ol class="knotes"><li>[א] ע&quot;ד זה אמר יעב&quot;ץ בספרו התאבקות (דף ע&#x27; ע&quot;ב, שורה ב&#x27;) דפוס לבוב,</li><li>[ב] כן אמר בתפלתו, עיין בספרו עדות ביעקב (דף ס&quot;ה ע&quot;ב).</li><li>[ג] שם בתפלתו הנזכרת.</li><li>[ד] זע&quot;י ר&quot;ת: זכותו עלי יגן, ז&quot;ק ר&quot;ת: זרע קדש.</li><li>[ה] כונתו באמרו: ואבי זקני הנ&quot;ל, על אביו הר&quot;ר בנימין הנזכר מקודם.</li><li>[ו] ר&#x27; בנימין היה תלמיד הגאון מו&quot;ה יעקב אב&quot;ד בלובלין, והוא נתן את בתו לבנימין לאשה. עיין בס&#x27; קריה נאמנה לפין (צד פ&quot;ח) ועיין עוד בס&#x27; עיר הצדק לצונץ (צד קי&quot;ג והערה נ&quot;ה).</li></ol></div>
+    <div class="en" lang="en"><p>My father! May the Keeper of truth guard you forever, in the light of the Lord.
+"Gather together and hear, O Jacob" (Gen. 49:2), and may God hear you — the God of your gods, the God of
+your fathers.</p>
+<p>I will tell of the decree (Ps. 2:7) and ascribe righteousness to my Maker (Job 36:3), and I will say:
+"Many things have You done, O Lord my God, with me; were I to declare and speak of them, they are too many
+to be numbered" (Ps. 40:6) — and to engrave them in a book: "where is he who weighs, where is the scribe?"
+(Isa. 33:18) <strong>[a]</strong> — though I have not seen good <strong>[b]</strong>, and one cannot bend judgement or press the hour.
+"O Lord, You are my God; I will exalt You, I will praise Your name, for You have done wonders, counsels from
+afar" (Isa. 25:1) <strong>[c]</strong>. The Lord has appeared to me through His deeds and the acts that He showed me
+against my adversaries. "Oh that my words were now written, oh that they were inscribed in a book, … that
+they were engraved in the rock for ever" (Job 19:23–24), in the writing of the house of Israel, so that
+"children yet to be born may arise and tell them to their children" (Ps. 78:6) at the last day. "Then will
+our mouth be filled with laughter and our tongue with song" (Ps. 126:2), for wickedness and iniquity will be
+no more.</p>
+<p>I will begin with my grandfather, my father's father, of blessed memory, whose name I bear: the gaon
+R. Jacob son of R. Benjamin — may his merit shield me — an Ashkenazi of the stock of <em>Z"K</em> <strong>[d]</strong>. So they
+used to sign their family name, for they were <em>zera kodesh</em>, "holy seed": tested and refined men in the days
+of the persecutions and forced conversions, who remained faithful to the Lord for many generations, of the
+greatest of the early Ashkenazi pietists.</p>
+<p>My grandfather's father, mentioned above <strong>[e]</strong>, was one of the distinguished scholars of Vilna in those
+days, before the decree of Chmiel, and he was a disciple of the gaon R. Jacob, head of the court in Lublin,
+father of the gaon R. Heschel of blessed memory. He served him in the yeshiva, and R. Jacob gave him his
+daughter as a wife <strong>[f]</strong>.</p>
+<p>My father's grandfather [on his mother's side] was the gaon, the pious priest, author of the responsa
+<em>Sha'ar Efraim</em>, of blessed memory, head of the court in the community of Vilna the crowned city, then in its
+tranquillity. He had a genealogy reaching back to Aaron the priest, and he was son-in-law to one of the</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] Emden says the same in his <em>Hit'avkut</em> (fol. 70b, line 2), Lemberg printing.</li>
+<li>[b] So he says in his prayer; see his <em>Edut be-Ya'akov</em> (fol. 65b).</li>
+<li>[c] Ibid., in the same prayer.</li>
+<li>[d] <em>Z"Y</em> stands for <em>zekhuto alai yagen</em> ("may his merit shield me"); <em>Z"K</em> stands for <em>zera kodesh</em>, "holy seed".</li>
+<li>[e] By "my grandfather's father mentioned above" he means his grandfather's father, R. Benjamin, named just before.</li>
+<li>[f] R. Benjamin was a disciple of the gaon R. Jacob, head of the court in Lublin, and R. Jacob gave his
+  daughter to Benjamin as a wife. See Fuenn, <em>Kiryah Ne'emanah</em> (p. 88), and Zunz, <em>Ir ha-Tzedek</em> (p. 113 and note 55).</li>
+</ul></div></div>
+  </div>
+  
+</section>
+
+<section class="page" id="p4">
+  <header><h2>Page 4 (scan 12)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=12" target="_blank" rel="noopener">scan 12 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>מן בני בניו של הגאון ר&#x27; אליהו בעל שם הזקן ז&quot;ל, שהיה אב&quot;ד בק&quot;ק חעלם בימים ההם <sup class="fn">א</sup>. עיין בס&#x27; תשובותיו של אבא מרי הגאון ז&quot;ל (סי&#x27; צ&quot;ג) דברא גברא, וספר ממנו מעשה כי הנוצר ההוא היה בלי דבור, והיה משמשו כעבד, וכראות הרב שיצור כפיו הולך וחזק וגדול מאד, ע&quot;י השם הכתוב בנייר שדבקו במצחו, באופן שהיה מתירא ר&quot;א בעל שם שלא יזיק וישחית, נתחזק עליו מהרה וקרע מעליו הגליון שהיה כתוב עליו השם ונתקו ממצחו, ונפל גוש עפר כשהיה, אבל הזיק לרבו כי סרט אותו בפניו, כשלקח הכתב ונתק השם מעליו <sup class="fn">ב</sup>. וא&quot;א זקני הגאון בעל שער אפרים ז&quot;ל, החסיד הגדול הנ&quot;ל, היה כל ימיו יושב בתענית חוץ משבת ויום טוב, לבד מכמה פעמים בשנה שהיה מתענה משבת לשבת, ושארי תעניות רצופים, ובכל זאת היו פניו מאירות כחמה כאלו כל יום שותה שכור, ולא פסיק פומי&#x27; מגרסא יום ולילה. והרוצה עוד לידע ממעשיו והרבצת תורתו ועומק למודו והוראותיו וקורותיו ואשר פדה נפש בנו יחידו יעיין בהקדמת הספר שער אפרים, שכתבה בנו הרב המובהק כמו&quot;ה יהודה ליב ז&quot;ל, שהביא הספר הלז של אביו לדפוס. ונפטר זקני הגאון החסיד במקום כבודו ק&quot;ק אובין, והיא נקראת בודין והיתה גדולה ועשירה, ונפטר בן ששים ושתים שנה <sup class="fn">ג</sup>, קודם שכבש הקיסר שם <sup class="fn">ד</sup>. ובנו יהודה ליב תקע אהלו של תורה בירושלים תוב&quot;ב ומת שם בשם טוב, והניח אחריו בן חכם גדול הרב ר&#x27; ידידיה ז&quot;ל, אשר נשא בת הרב יצחקי ז&quot;ל, מרא דארעא ישראל בימיו <sup class="fn">ה</sup>. ובת אחת היתה לאא&quot;ז הגאון בש&quot;א, ושמה נחמה ז&quot;ל, היא היתה אם אבי מורי הגאון, אשת זקני הרב מוה&quot;ר יעקב הנ&quot;ל שהשיא אותה לו, כי הוא היה מושלם בתורה וביראה. וספרו לי הגאון ר&#x27; דוד אופנהיים ועוד איש אחד, שהיו שניהם מכיריו ותלמידיו מובהקים,</p><ol class="knotes"><li>[א] עיין בס&#x27; כלילת יופי לדעמביצער (דף ע&quot;ח ע&quot;ב).</li><li>[ב] עיין בגמ&#x27; סנהדרין (דף ס&quot;ה ע&quot;ב) רבא ברא גברא וכו&#x27;, ועיין בס&#x27; שה&quot;ג מע&quot;ג (דף ט&#x27; ע&quot;ב סי&#x27; קס&quot;ג), וכן נאמר בפירוש לספר יצירה המיוחס לרס&quot;ג (צד פ&quot;ד) דפוס ווארשא בזה&quot;ל: „ושמעתי כי אבן עזרא ברא בריה לפני רבינו תם, ואמר ראו מה שנתן הקב&quot;ה באותיות הקדושות, ואמר חזור לאחור וחזרה לקדמותה&#x27;, עכ&quot;ד; והספור בדבר הגולם הוא עתיק יומין ונמצא ג&quot;כ אצל העמים הקדמונים, עיין פיערערס אונ לעקס&#x27; ערך Automat. בכ&quot;י נאמר &quot;כי סר אותו בפניו&quot;, ותקנתי על סרט.</li><li>[ג] עיין בהקדמת הספר שער אפרים, ונפטר י&quot;ג סיון שנת תל&quot;ח.</li><li>[ד] בשנת תמ&quot;ו לכדו חיל עסטרייך המבצר אובין מיד הישמעאלים. עיין הקדמת חכם צבי לספרו שו&quot;ת ח&quot;ץ; ועיין בספר גנזי נסתרות לקאבאק (קובץ ג&#x27; צד י&quot;ז).</li><li>[ה] עיין שה&quot;ג מע&quot;ג (דף ה&#x27; סי&#x27; ס&#x27;, ודף נ&quot;ב סי&#x27; ט&quot;ז).</li></ol></div>
+    <div class="en" lang="en"><p>grandsons of the gaon R. Elijah Ba'al Shem the Elder, of blessed memory, who was head of the court in the
+holy community of Chełm in those days <strong>[a]</strong>. See the responsa of my father and master the gaon, of blessed
+memory (§ 93): he created a man. He told a story about him: the creature was without speech and served him
+like a slave. When the rabbi saw that the work of his hands was growing ever stronger and very large through
+the Name written on a paper that he had stuck to its forehead, R. Elijah Ba'al Shem feared that it would do
+harm and destroy. He quickly overpowered it and tore off the sheet on which the Name was written, pulled it
+from its forehead, and it fell down a lump of earth, as it had been. But it injured its master: it scratched
+his face as he took the writing and tore the Name off it <strong>[b]</strong>.</p>
+<p>My lord, my great-grandfather, the gaon author of <em>Sha'ar Efraim</em>, the great pious man mentioned above,
+sat fasting all his days except on Sabbath and festivals; besides that, several times a year he fasted from
+Sabbath to Sabbath, and other fasts on consecutive days. For all that, his face shone like the sun, as if he
+drank like a drunkard every day; and his mouth did not cease from study day and night. Whoever wants to know
+more of his deeds, his teaching of Torah, the depth of his learning, his rulings and his history — and how he
+redeemed the life of his only son — let him read the introduction to <em>Sha'ar Efraim</em>, written by his son, the
+distinguished rabbi R. Judah Leib, of blessed memory, who brought his father's book to print. My
+great-grandfather, the pious gaon, died in his seat of honour, the holy community of Ofen, which is called
+Buda, and which was then great and wealthy. He died aged sixty-two <strong>[c]</strong>, before the emperor conquered it
+<strong>[d]</strong>. His son Judah Leib pitched the tent of Torah in Jerusalem — may it be built and established speedily
+in our days — and died there with a good name. He left a son, a great scholar, the rabbi R. Yedidiah, of
+blessed memory, who married the daughter of the rabbi R. Isaac Tsaḥaki, of blessed memory, the master of the
+Land of Israel in his day <strong>[e]</strong>.</p>
+<p>My great-grandfather, the gaon of <em>Sha'ar Efraim</em>, had one daughter, named Neḥamah, of blessed memory. She
+was the mother of my father and teacher the gaon, and the wife of my grandfather R. Jacob mentioned above;
+her father gave her to him in marriage, for he was perfect in Torah and in the fear of Heaven. The gaon
+R. David Oppenheim and one other man, both of whom knew him and were his close disciples, told me</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] See Dembitzer, <em>Kelilat Yofi</em> (fol. 78b).</li>
+<li>[b] See b. Sanhedrin 65b, "Rava created a man", etc., and <em>Shem ha-Gedolim</em>, Ma'arekhet Gedolim (fol. 9b,
+  § 163). Similarly the commentary on <em>Sefer Yetzirah</em> attributed to Saadia Gaon (p. 84, Warsaw printing) says:
+  "I heard that Ibn Ezra created a creature in the presence of Rabbenu Tam, and said: See what the Holy One,
+  blessed be He, has given in the holy letters; and he said: Turn back — and it returned to its former state."
+  The golem story is very old and is found also among the ancient peoples; see Pierer's <em>Lexikon</em>, s.v.
+  <em>Automat</em>. <strong>The manuscript reads "for he <em>removed</em> it (<em>sar</em>) from his face"; I have emended to <em>serat</em>,
+  "it scratched".</strong></li>
+<li>[c] See the introduction to <em>Sha'ar Efraim</em>. He died on 13 Sivan 5438 [1678].</li>
+<li>[d] In 5446 [1686] the Austrian army took the fortress of Ofen from the Turks. See the introduction of
+  Ḥakham Tzvi to his responsa, and <em>Ginzei Nistarot</em> (vol. 3, p. 17).</li>
+<li>[e] See <em>Shem ha-Gedolim</em>, Ma'arekhet Gedolim (fol. 5, § 60, and fol. 52, § 16).</li>
+</ul></div></div>
+  </div>
+  
+</section>
+
+<section class="page" id="p5">
+  <header><h2>Page 5 (scan 13)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=13" target="_blank" rel="noopener">scan 13 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>והגידו להפליא איך ידע ארבעת חלקי ש&quot;ע שהיו שגורים לו על פיו, ונעשה לו נס גדול כאשר אספר הנה הדברים בפרטות: ויהי בשנת ת&quot;ח לפ&quot;ק, עת צרה לישראל בארץ פולין וואליניה ואוקריינה ע&quot;י חמיל, ומשם נתפשטה הגזרה ונמשכה לקהלות ליטא <sup class="fn">א</sup>, וק&quot;ק ווילנא המהוללה והעדינה נדדה מקנה, אחרי שהיתה יושבת בטח ושאנן ועשירה מאד, עד כי כלי בית שלהם היו של כסף, בחכמה ומעלה לשם ולתהלה על כל ק&quot;ק, ולכן, בכל מקום שהגיעו לשם בנודם וטלטולם בארץ אשכנז והמדינות, חכמי ווילנא היה נחשבים למאד, כך סח לי הישיש הק&quot;ה ר&#x27; בער כהן ע&quot;ה <sup class="fn">ב</sup>, כי עלו לשם ולתפארת על כל אנשי פולין בכלל. אמנם חכמיה אנשי השם לומדים גדולים, שלא משו מתוך האהל הבית המדרש הגדול, שהיה שם לומדים כל היום, וכל הלילה לא יחשו ללמוד הלכות ופוסקים, לדרוש ולחקור באמתה של תורה בתלמוד בהוראה, ולא היה ישנים בבתיהם כל ימות השבוע, כי אם משבת לשבת, ונעשו גבורי חיל אריות בתורה, כולם זכו להיות מורי הוראות בישראל, מלבד שאר לומדים מופלגים קצינים ומנהיגים; מהם היה החכם המושלם הרב הגאון החסיד שבכהונה בעל שער אפרים ז&quot;ל, שהיה ראש ב&quot;ד בווילנא, והגאון בעל ברכת הזבח ושאר חבורים, כאמרו עליו שהיה יודע טורים וב&quot;י בעל פה <sup class="fn">ג</sup>, הרב בעל הש&quot;ך והרב החסיד ובעל הוראה בית הלל זצ&quot;ל <sup class="fn">ד</sup>, מלבד שאר גאונים כולם הלכו בגולה נפוצו בארץ להרביץ תורה בישראל, והיו למאורות גדולים. מהרש&quot;ק נעשה אב&quot;ד בפיורדא, ומשם נתעלה לישב על כסא הרבנות בפפד&quot;מ וקראקא, והרב בית הלל נתקבל לאב&quot;ד בהמבורג ואלטונא, והרב ש&quot;ך בהעלישויא בארץ מעררין, והגאון יעקב אבי אבא עם כל בני ביתם נתישבו גם כן במעררין. מתחלה היה לאב&quot;ד בטריבש ולן צדק בבית הקצין המפורסם בשם רייך קויפמאן&#x27; ע&quot;ה, ושם למד אצלו בנו של העשיר הלז, והיה אח&quot;כ אב&quot;ד בק&quot;ק ברודא, ואח&quot;ז נתקבל שוב</p><ol class="knotes"><li>[א] בעל הש&quot;ך בספרו מגילת עיפה שכתב בדבר ת&quot;ח ות&quot;ט, יאמר שם בזה&quot;ל: &quot;גם מקצה ארץ ליטא עקרו תחומינו והרבו חללינו&quot;, ועיין בס&#x27; קריה נאמנה לפין (צד ש&quot;ב סי&#x27; ט&quot;ז).</li><li>[ב] אודותיו עיין להלן מה שהגיד באריכות.</li><li>[ג] בעל ברכת הזבח נקרא בשמו: ר&#x27; אהרן שמואל קאידנובר, ונודע בשם מהרש&quot;ק.</li><li>[ד] הרב בעל הש&quot;ך נקרא בשמו רבינו שבתי כהן, וספרו המפורסם על יורה דעה נקרא שפתי בהן; והרב בעל בית הלל היה שמו רבינו הלל כמוה&quot;ר נפתלי הירץ. עיין בס&#x27; קריה נאמנה לפין (צד פ&quot;ב).</li></ol></div>
+    <div class="en" lang="en"><p>— and they told it as a marvel — how he knew all four parts of the <em>Shulḥan Arukh</em> by heart. A great
+miracle happened to him, as I will now tell in detail.</p>
+<p>In the year 5408 [1648], a time of trouble for Israel in the land of Poland, Volhynia and Ukraine through
+Chmiel, the decree spread from there and reached the communities of Lithuania <strong>[a]</strong> <span class="sch">⟨S: "the holy …"(?)⟩</span>.
+The holy community of Vilna, the praised and delicate, was driven from its nest. Before that it had dwelt
+in safety and at ease and was very rich — their household vessels were of silver — and in learning and
+standing it was renowned and praised above all the holy communities. Therefore, wherever they came in their
+wandering and displacement, in the German lands and the provinces, the scholars of Vilna were held in very
+high esteem — so the aged notable R. Ber Kohen, of blessed memory, told me <strong>[b]</strong> — for they rose to renown
+and glory above all the men of Poland.</p>
+<p>Its scholars were men of renown, great students of Torah, who never departed from the tent, the great house
+of study, where they learned all day; and all night they did not rest from learning <em>halakhot</em> and the codes,
+expounding and searching out the truth of the Torah in Talmud and in practical ruling. They did not sleep in
+their own houses all the days of the week, only from Sabbath to Sabbath; and they became mighty warriors,
+lions in Torah, every one of them worthy to rule on law in Israel — besides the other outstanding scholars,
+officers and leaders. Among them were the perfect sage, the rabbi, the gaon, the pious priest, author of
+<em>Sha'ar Efraim</em>, of blessed memory, who was head of the court in Vilna; the gaon author of <em>Birkat ha-Zevaḥ</em>
+and other works, of whom they said that he knew the <em>Ṭurim</em> and the <em>Beit Yosef</em> by heart <strong>[c]</strong>; the rabbi
+author of the <em>Shakh</em>; and the pious rabbi and legal authority, author of <em>Beit Hillel</em>, of blessed memory
+<strong>[d]</strong>; besides other geonim. All of them went into exile, scattered over the earth to spread Torah in
+Israel, and they became great lights. MaHaRShaK became head of the court in Fürth, and from there he rose
+to the rabbinical seat of Frankfurt am Main and of Cracow. The rabbi of <em>Beit Hillel</em> was received as head of
+the court in Hamburg and Altona; the <em>Shakh</em> in Holešov in the land of Moravia; and the gaon Jacob, my
+father's father, with their whole household, also settled in Moravia. At first he was head of the court in
+Třebíč (Triebitsch) and lodged in the house of the well-known notable called Reich Kaufmann, of blessed
+memory, and there he taught this rich man's son. Afterwards he was head of the court in the holy community of
+Uherský Brod, and after that he was received again</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] The author of the <em>Shakh</em>, in his <em>Megillat Eifah</em>, written about the events of 1648–49, says: "Also
+  from the end of the land of Lithuania they uprooted our borders and multiplied our slain." See Fuenn,
+  <em>Kiryah Ne'emanah</em> (p. 302, no. 16).</li>
+<li>[b] On him see below, what he tells at length.</li>
+<li>[c] The author of <em>Birkat ha-Zevaḥ</em> was called R. Aaron Samuel Kaidanover, and was known as MaHaRShaK.</li>
+<li>[d] The author of the <em>Shakh</em> was R. Shabbetai Kohen, and his famous book on <em>Yoreh De'ah</em> is <em>Siftei
+  Kohen</em>; the author of <em>Beit Hillel</em> was R. Hillel son of R. Naftali Hirz. See <em>Kiryah Ne'emanah</em> (p. 82).</li>
+</ul></div></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (2)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>ונמשכה לקהלות ליטא א)</td><td>caret after ליטא, insertion in left margin</td><td dir='rtl'>הקדוש... (or הקודש...; ends with &quot;...&quot;)</td><td>uncertain</td></tr><tr><td dir='rtl'>וקה&quot;ק ווילנא / שהיתה (יושבת / שלהם / ולכן / חכמי ווילנא / עלו / ע&quot;ה</td><td>pen brackets [ in the text (8 places), no margin text</td><td dir='rtl'>-</td><td>sure (marks only)</td></tr></table></details>
+</section>
+
+<section class="page" id="p6">
+  <header><h2>Page 6 (scan 14)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=14" target="_blank" rel="noopener">scan 14 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>לאב&quot;ד בק&quot;ק אובין, בהיותה עדיין עומדת על תלה, וגדולה מאד בעושר ובמעלה, וקבע שם ישיבה ושמעו הולך גם בכל ארץ טירקייא הסמוכה לשם, גם בארץ ישראל <sup class="fn">א</sup>. אך בטרם בואם אל המנוחה והנחלה, עברו עליהם רעות רבות וצרות צרורות על שכמם, כמעט שכנה דומה נפשם בחרב היונה. וכה אירע לאבי זקני הרב כמהו&quot;ר יעקב ז&quot;ל שהיה אז בחור בשנים, ובהחפזם לנוס ולהמלט על נפשם מפני חרב היונה, נפרד האיש השלם הלז מאחיו&#x27; ומאשתו הילדה, שנשארה אצל אביה שברח עם בנו ואשתו לארץ אחרת שלא יטבעו בבור צרה, ופגעו בו באא&quot;ז מוה&quot;ר יעקב ז&quot;ל הפוחזים, אשר הרבו חללים, עקרו כמה קהלות ישראל, לא השאירו פרסה, שפכו דם צדיקים נקיים נאמנים לאלהים לאלפים ורבבות, אשר היו כצאן לטבח בידי הצרים, וכאשר פגעו באיש צדיק הלזה, וגזר עליו השבאי שיכרע לחרב להתיז ראשו <sup class="fn">ב</sup>, וכן עשה, פשט צוארו לחרב חדה לשחיטה, ולמסור נפשו להריגה על קדושת השי&quot;ת, ובעודנו על ברכיו לקבל המיתה במכת חרב, וכמעט פרחה נשמתו, הנה זה מלאך ה&#x27; נוגע בו, כי נתן ה&#x27; רחמים בלב הצר הצורר וחמל על רכות שניו, ותחת שהיה רוצה להוליך החרב על צואר הנ&quot;ל בצד החד, נכמרו רחמיו ועשה לו דחיפה בצד בקרנא של כלי חפצו בדרך בזיון, ואמר לו: קום לך כלב בחור ולך לנפשך! ויצילהו ה&#x27; מחרב רשע באופן נפלא מאד, ויהי לנס ולפלא גדול, ויתחבא אח&quot;כ בין ההרוגים, ולא נכר להעוברים דרך שמה אם הוא חי, היה לחורב ביום, מוטל בין המתים הנהרגים על קדוש השם, ובין בצעי המים מתכסה בשק, ולקרח בלילה, היה נודד לבקש איזה מחיה וללקט עשבים מפרי מר הגדל בעשבים באגם, ולהחיות את נפשו. במצב הלז נשאר כשמונה ימים, עד תם כל הצמא לדם לעבור, אז ברח על נפשו וימלט מיד הפוחזים; והנה בהיותו בין ההרוגים הקדושים, היו שם איזה אנשים מבני עמנו מתחבאים גם הם, ועמדו מרחוק וראו כל מעשי של אבי זקני, איך שחה לעפר נפשו תחת יד הצורר ברצותו לפגוע בו, כסבורים שכבר הותז ראשו בכרעו לטבח, וכראותם חרב הצר מונחת על צוארו, חשבו כי לא יחיה אחרי נפלו</p><ol class="knotes"><li>[א] ובראשם הגאון ר&#x27; משה גאלנטי אב&quot;ד מירושלים. עיין בספרו ש&quot;א (ע&quot;א, ק&quot;ב) והגאון ר&#x27; משה בן הביב מירושלים (שם ע&quot;ד).</li><li>[ב] מלשון התלמוד (סנהדרין ק&quot;ד) היה שבאי הורך אחריהם, ופירושו משגיח על השבוים.</li></ol></div>
+    <div class="en" lang="en"><p>as head of the court in the holy community of Ofen, while it still stood on its foundations, very great in
+wealth and standing. He set up a yeshiva there, and his fame spread through all the land of Turkey nearby,
+and also in the Land of Israel <strong>[a]</strong>.</p>
+<p>But before they reached the rest and the inheritance (Deut. 12:9), many evils and dire troubles passed over
+them; their soul had almost dwelt in silence (Ps. 94:17) by "the oppressing sword" (Jer. 46:16)
+<span class="sch">⟨S: "the accursed Greeks, the oppressors, the Ishmaelites(?), the cruel ones, may their name be blotted
+out(?)"⟩</span>. Thus it happened to my grandfather, the rabbi R. Jacob, of blessed memory, who was then a young
+man. As they hurried to flee and escape for their lives from the oppressing sword, this perfect man was
+separated from his brothers <span class="sch">⟨S: a word, not read⟩</span> and from his young wife. She stayed with her father, who
+fled with his son and his wife to another land, so as not to sink into the pit of trouble.</p>
+<p>And they met my grandfather R. Jacob, of blessed memory — the reckless ones <span class="sch">⟨S: "the unclean, the
+uncircumcised"⟩</span>, who multiplied the slain, uprooted many communities of Israel, "left not a hoof behind"
+(Ex. 10:26), and shed the blood of righteous, innocent men, faithful to God, by thousands and by myriads,
+who were like sheep for the slaughter in the hands of the oppressors <span class="sch">⟨S: a five-line note, partly cut off by
+the edge of the scan: "of the sons [one word struck out] / in the decree of Ukraine / they sat down to die
+(?) / … / … and Poland …"⟩</span>. When they met this righteous man, the overseer of the captives <strong>[b]</strong> ordered him
+to kneel to the sword, to have his head cut off. And so he did: he stretched out his neck to the sharp sword
+for slaughter, to give his life to be killed for the sanctification of the Blessed Name.</p>
+<p>While he was still on his knees to receive death by the stroke of the sword, and his soul had almost flown
+away, behold, an angel of the Lord touched him. For the Lord put mercy into the heart of the oppressing foe,
+and he pitied his tender years. Instead of drawing the sword across his neck with the sharp edge, his
+compassion was stirred, and he gave him a shove with the back of his weapon, in contempt, and said to him:
+"Get up, you dog of a boy, and go for your life!" So the Lord saved him from the sword of the wicked in a very
+wonderful way, and it became a great sign and wonder.</p>
+<p>Afterwards he hid among the slain, so that those who passed by could not tell whether he was alive. By day,
+in the heat (Gen. 31:40), he lay among the dead who had been killed for the sanctification of the Name, and
+among the pools of water, covered with sackcloth; and by night, in the frost, he wandered about to look for
+something to live on, gathering herbs, the bitter fruit that grows among the grasses of the marsh, to keep
+himself alive.</p>
+<p>He stayed in this state about eight days, until all those thirsty for blood <span class="sch">⟨S: "the gentile, uncircumcised
+and unclean"(?)⟩</span> had passed on; then he fled for his life and escaped from the reckless ones. Now while he
+lay among the holy slain, some men of our people were hiding there too. They stood at a distance and saw
+everything that happened to my grandfather: how he bowed his soul to the dust under the hand of the
+oppressor when he wished to strike him. They thought that his head had already been cut off as he knelt for
+the slaughter; and when they saw the oppressor's sword lying on his neck, they thought that he would not live
+after he fell</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] Among them the gaon R. Moses Galante, head of the court in Jerusalem; see his [great-grandfather's]
+  book <em>Sha'ar Efraim</em> (§§ 71, 102); and the gaon R. Moses ibn Ḥabib of Jerusalem (ibid., § 74).</li>
+<li>[b] From the Talmudic phrase (Sanhedrin 104a) "a <em>shabbai</em> was following behind them", meaning the man in
+  charge of the captives.</li>
+</ul>
+<p><strong>Translator's note.</strong> Kahana prints <em>ḥerev ha-yonah</em>, "the oppressing sword" (Jer. 46:16). Scholem's
+margin begins <em>ha-yevanim ha-arurim</em>, "the accursed Greeks", which suggests that the manuscript named the
+Cossacks as "Greeks" (i.e. Greek Orthodox) and that Kahana softened the passage. The same pattern recurs
+below (pp. 6–7): Scholem restores insulting epithets for the attackers ("the unclean, the uncircumcised")
+that Kahana's printed text lacks. This is a censorship layer of Kahana's edition not described in the
+secondary literature we read.</p></div></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (5)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>כמעט שכנה דומה נפשם בחרב היונה* וכה</td><td>x mark after היונה; 3-line note in right margin</td><td dir='rtl'>היונים הארורים / הצוררים הישמעאלים(?) / האכזרים יע&quot;ש(? ימ&quot;ש)</td><td>uncertain (line 1-2 fairly sure)</td></tr><tr><td dir='rtl'>הלז מאחיו&#x27; ומאשתו</td><td>x mark after מאחיו; note</td><td dir='rtl'>מאחיו (letters unclear; perhaps a variant of the word)</td><td>not read</td></tr><tr><td dir='rtl'>ופגעו בו ... הפוחזים&#x27; אשר הרבו חללים</td><td>mark after הפוחזים; note</td><td dir='rtl'>הטמאים הערלים</td><td>fairly sure</td></tr><tr><td dir='rtl'>היו כצאן לטבח בידי הצרים</td><td>caret before כצאן(?); 5-line note in right margin, partly cut by scan edge</td><td dir='rtl'>מבני [word struck out] / בגזרת אוקריינ[א] / ישבו למת[...] / שם ... מא[ד] / ל... ופולין...</td><td>partial</td></tr><tr><td dir='rtl'>כמצב הלז ... עד תם כל ^ הצמא לדם ^ לעבור</td><td>2 carets; 2-line note in right margin</td><td dir='rtl'>הגוי ערל וטמא(?) / כצאני(?) ...</td><td>uncertain</td></tr></table></details>
+</section>
+
+<section class="page" id="p7">
+  <header><h2>Page 7 (scan 15)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=15" target="_blank" rel="noopener">scan 15 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>בדחיפה על הארץ באחורי החרב, שלא היה מכת מות כלל, אך האנשים ההמה העומדים בית המרחק ורואים בבהלה ואימת מות נפלה עליהם, דימו שהורם ראשו מעליו והושלך לארץ, בענין שאמרו חז&quot;ל בגמרא <sup class="fn">א</sup>, דחזו דמחי ליה בגירא או ברומחא וסברו ודאי מת, וא&quot;ת עד אחד במלחמה אינו נאמן, אבל כאן שנים הם ואמרי ג&quot;כ בדדמי, לפיכך כשהגיעו אלה האנשים לעיר טריבש למקום הגאון בעל ש&quot;א, אחר שנמלטו מיד האויבים בחמלת ה&#x27; עליהם ובאו למדינת מעררין למקום שוקט ובוטח, ויפקד מקום אבי זקני מוה&quot;ר יעקב ז&quot;ל, וחקרו אחריו אצל פליטי חרב הנ&quot;ל, אם ראו אותו חי או מת, ויענו האנשים הנמלטים ההם, הכשרים והולכים לתמם, ויאמרו יעקב מת, כי ראינו בעינינו שכרע להריגה והותז ראשו, העידו על מה שלא ראו לנכון, ועל פי דבריהם התיר הגאון הגדול בדורו המפורסם כמוה&quot;ר העשיל זצ&quot;ל את אשתו נחמה להנשא, ע&quot;פ שאלת חכם והוראה להתיר, כי היה דבר פשוט מאד, ברור כתורה על פי שנים עדים יקום דבר, אף כי בעגונה שהקילו חז&quot;ל אצלה; אך אשתו, כי היתה ילדה היפה בנשים, לא רצתה לקבל תנחומין על החי בעל נעוריה; הצדקת עמדה בטהרתה להוציא ממנה שלשלת גדולה, דור ישרים יבורך מטע להתפאר, כי אחר חצי שנה בא ההרוג ברגליו, ויהי לאות ולמופת בישראל. מן אז והלאה לא רצה הגאון הנ&quot;ל להתיר שום עגונה בדור ההוא ובצוק העתים, שהיו שם עגונות רבות מבעליהן הנאבדים ברעש ההוא משוד הפוחזים, ונתירא ממכשול, על כן קבל עליו שלא להזדקק לשום התרת אשה, מאחר שהמכשלה הזאת תחת ידו, שהתיר אשת איש גמורה, ואמר שבעת רעה כמוה אין לסמוך כלל אפילו על שני עדים גמורים, ונתקיים בו לא יאונה לצדיק כל און. אחר זאת נולד אבא מארי הגאון ז&quot;ל צבי תפארת ישראל, מהזוג הנבחר עודם בארץ מעררין, ומשם בא אא&quot;ז הגאון בעל שער אפרים עם חתנו אא&quot;ז מוהר&quot;י ז&quot;ל עם כל ביתם לבודין, היא אובין ראש מלכות אונגרין, והיה שם רב אב&quot;ד כמה שנים לקהל החשוב, אשר היה שם בעת ההיא, והנהיג נשיאתו בכבוד גדול, והתחתן בעשירי הקהלה עם בניו ונכדיו, והרביץ תורה לרוב, ויהי שמעו בכל ארץ טורקייא ובארץ ישראל גדול שמו; רבים מגדולי הארץ מריצים אליו אגרותיהם בשו&quot;ת כאשר ישאל איש בדבר האלהים. ואמ&quot;ה ז&quot;ל עודנו נער רך בשנים, למד תורה אצל אביו ואבי זקנו ז&quot;ל בשקידה רבה, והיה לו לב חרוץ</p><ol class="knotes"><li>אן עיין במס&#x27; יבמות (דף קי&quot;ד ע&quot;ב).</li></ol></div>
+    <div class="en" lang="en"><p>— with a shove to the ground with the back of the sword, which was no mortal blow at all. But those men,
+standing at a distance and watching in panic, with the terror of death fallen upon them, imagined that his
+head had been lifted off him and thrown to the ground — like the case the Sages discuss in the Gemara <strong>[a]</strong>,
+where people saw a man struck by an arrow or a spear and thought he was certainly dead. And if you object
+that a single witness in time of war is not believed — here there were two; and they too spoke from
+assumption.</p>
+<p>So when these men came to the town of Třebíč, the place of the gaon author of <em>Sha'ar Efraim</em> — after they had
+escaped from the enemies through the Lord's mercy and come to the land of Moravia, a quiet and secure place —
+my grandfather R. Jacob's place was empty (1 Sam. 20:25). They inquired about him among those survivors of
+the sword, whether they had seen him alive or dead; and those escaped men, honest men who went "in their
+simplicity" (2 Sam. 15:11), answered: "Jacob is dead, for we saw with our own eyes that he knelt to be killed
+and his head was cut off." They testified to what they had not truly seen. On their word, the great gaon of
+his generation, the famous R. Heschel, of blessed memory, permitted his wife Neḥamah to remarry, by way of a
+question and a ruling that permitted it, for the matter was very simple and as clear as Torah: "at the mouth
+of two witnesses shall the matter be established" (Deut. 19:15) — all the more so in the case of an <em>agunah</em>,
+for whom the Sages were lenient.</p>
+<p>But his wife, a young woman and the fairest among women, refused to be comforted (Gen. 37:35) over the
+husband of her youth, who was alive. The righteous woman stood firm in her purity, to bring forth from
+herself a great chain, "a generation of the upright that shall be blessed" (Ps. 112:2), "a planting in which
+to glory" (Isa. 60:21). For after half a year the slain man came back on his own feet, and it became a sign
+and a wonder in Israel. From then on that gaon would not permit any <em>agunah</em> to remarry, in that generation
+and in the distress of those times, when there were many women chained by husbands lost in that upheaval,
+from the ravages of the reckless ones <span class="sch">⟨S: "the accursed Greeks"⟩</span>. He feared a stumbling-block; so he took it
+upon himself never again to deal with releasing a woman, since such a stumbling-block had come about through
+him — that he had permitted a woman who was fully married. He said that in an evil time like that one may not
+rely even on two proper witnesses. And in him was fulfilled: "No mischief shall befall the righteous"
+(Prov. 12:21).</p>
+<p>After this my father and master the gaon, of blessed memory, Tzvi, the glory of Israel, was born to the
+chosen couple, while they were still in Moravia. From there my great-grandfather, the gaon author of
+<em>Sha'ar Efraim</em>, came with his son-in-law, my grandfather R. Jacob [<em>Mohari</em>], of blessed memory, and their
+whole household, to Buda, which is Ofen, the capital of the kingdom of Hungary. He was rabbi and head of the
+court there for some years, for the important community that was there at that time. He held his office with
+great honour, married his sons and grandsons into the wealthiest families of the community, and spread Torah
+widely. His fame was great in all the land of Turkey and in the Land of Israel; many of the great men of the
+land sent him their letters with questions, as a man inquires of the word of God (2 Sam. 16:23).</p>
+<p>My father and master, of blessed memory, while still a tender youth, studied Torah with his father and his
+grandfather, of blessed memory, with great diligence. He had a sharp mind</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] See b. Yevamot 114b.</li>
+</ul></div></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (1)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>משוד הפוחזים&#x27; ונתירא</td><td>mark after הפוחזים; note in right margin</td><td dir='rtl'>היונים הארורים</td><td>fairly sure</td></tr></table></details>
+</section>
+
+<section class="page" id="p8">
+  <header><h2>Page 8 (scan 16)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=16" target="_blank" rel="noopener">scan 16 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>וזכרון גדול עצום מאד, והלך לסאלוניקי בימי חרפו ללמוד גם דרכי חכמי הספרדים, אשר היו שם בעת ההיא חכמים גדולים ועצומים, ושמש את הרב אליהו קובו זצ&quot;ל ביחוד, ומשם חזר לבודין אל בית אביו, ולו שם כשם הגדולים בעודו ילד בחור בשנים. ומצאתי ראיתי בין כתביו אגרות כ&quot;י הקדושה של אבי זקנו הגאון החסיד בעל ש&quot;א ז&quot;ל שכתב לו לסאלוניקי להזכירו על שקידת למודו והתמדת חקירתו את חכמי הספרדים, לעמוד לפניהם לשמשם, ולדעת לב כל אחד מהם וחכמתו, ולהביא אתו מחידושיהם, ובו הרבה לנכדו אמ&quot;ה ז&quot;ל הלולים ותוארים, כדרך שכותבים לגדולים אנשי השם, ואמ&quot;ה ז&quot;ל מאז בילדותו החל רוח ה&#x27; לפעמו, וכתב וחבר שאלות ותשובות ארוכות ורחבות, בעשרה ידות נייר או יותר, ואחת שהיא הראשונה, שהתחיל להשיב שואלו דבר בתורה, וכן האחרת, והמה היו מונחים עד הנה בבית גנזיו, ונראה מפני גודל כמותן הניחן, ולא הביאן לדפוס בספרו ח&quot;א, גם אנכי כבד ממני הדבר לעבור עליהן ולשום עיוני בהן, ביחוד שבאו לידי שלא בעונתן, שמתחלה עברו ע&quot;י זרים שנים רבות, ומי יודע מה נפקד מהם וגם הכתב היא ספרדית ובקושי אוכל לקרותן, מצורף לטרדותי המרובות, והנם למשא עלי, לכן בהכרח הונחו אל הצד, עד שיבוא הגואל להם ויוציאם לאור, ושוב בא הנה ב&quot;א ר&#x27; הירשל מגליגיו, והפציר בי לתתם לו, כדי לזכות בהם שיוציאם לאור ויביאם בדפוס, ונעתרתי לו ומסרתי בידו. גם היה אמ&quot;ה יפה תאר ויפה מראה, ועם זה היה נוהג חסידות עצומה מנעוריו, לכן חשקו בו גבירים כבירים, ונשתדך ונשא בת עשיר גדול מעשירי קהל בודין הישנה, שהפריז לו ממון רב, והיה אמ&quot;ה בבודין עשיר מסוים. אח&quot;כ היה רב וחכם בקהל שאראי בארץ בוזנא, שהיו שם ג&quot;כ עשירים מופלגים, וכאשר נלכדה העיר בודין מאנשי הקיר&quot;ה, הלכו כל הקהל שבי, וזקני וזקנתי רגליהם לנחושתים הוגשו, והוליכם לברלין שר החיל של אנשי צבא פרייסן, ששבה אותם ונפלו לחלקו, ונפרדו בברלין, ואמ&quot;ה נעתק משם בדרך נס ופלא, שנעשה לו בתחלה כאשר באה העיר במצור, ויבוא כדור של אש מקנה השרפה הגדול שקורין קאנאן, ויפול בבית שהיה דר שם אמ&quot;ה ז&quot;ל, ויך את הבית רסיסים ובקיעים, ויקח הכדור את אשתו הראשונה עם הילדה שהיה לו ממנה, והוא היה בחדר אחר הסמוך אתה בבית, ולא הזיק לו מאומה, ונצל בחמלת ה&#x27; עליו ויהי לנס, ומשם ברח וימלט. ובפרק ההוא כתב התשובה הנדפסת בספרו, על אודות אשה שנפטרה ולא חי</p></div>
+    <div class="en" lang="en"><p>and a great and very powerful memory. In his youth he went to Salonica to learn also the ways of the
+Sephardi sages, for there were great and mighty scholars there at that time, and he served above all the
+rabbi Elijah Covo, of blessed memory. From there he returned to Buda, to his father's house, already bearing
+a name like the great ones while still a young man.</p>
+<p>Among his papers I found holy autograph letters of his grandfather, the pious gaon author of <em>Sha'ar Efraim</em>,
+of blessed memory, which he wrote to him in Salonica, urging him to diligence in his study and to constant
+inquiry with the Sephardi sages: to stand before them and serve them, to know the mind and the wisdom of each
+of them, and to bring back with him some of their novel teachings. In them he lavished praises and titles on
+his grandson, my father and master, as one writes to great men of renown.</p>
+<p>From his childhood "the spirit of the Lord began to move" my father (Judg. 13:25). He wrote and composed long
+and broad responsa, of ten sheets of paper or more. One of them was the very first, when he began to answer a
+questioner on a matter of Torah, and there was another as well. They lay until now in his archive; it seems
+that because of their great length he set them aside and did not bring them to print in his book, part one.
+I too found it too heavy a task to go through them and study them — above all because they came into my hands
+out of season, having first passed through strangers' hands for many years, and who knows what is missing
+from them; and the script is Sephardi, and I can read them only with difficulty; add to that my many burdens.
+They were a load on me, and so of necessity they were laid aside, until a redeemer should come for them and
+bring them out to the light. Then there came here a young man, R. Hirschel of Glogau(?) <span class="sch">⟨S: "perhaps: of
+Glogau"⟩</span>, and he pressed me to give them to him, so that he might have the merit of bringing them out to the
+light and to print. I agreed and handed them over to him.</p>
+<p>My father and master was also of fine form and fair to look at, and with this he practised great piety from
+his youth. So mighty magnates sought him. He was betrothed to and married the daughter of a great rich man,
+one of the rich of the community of Old Buda, who settled much money on him, and my father was a man of
+standing and wealth in Buda. Afterwards he was rabbi and sage in the community of Sarajevo in the land of
+Bosnia, where there were also very rich men.</p>
+<p>When the city of Buda was taken by the men of the emperor, may his majesty be exalted, the whole community
+went into captivity. My grandfather and grandmother — "their feet were put into fetters" (2 Sam. 3:34), and
+the commander of the Prussian troops, who had taken them captive and to whose share they fell, led them to
+Berlin; and they were parted in Berlin. My father was carried away from there by a miracle and a wonder,
+which had happened to him at the beginning, when the city came under siege. A ball of fire came from the
+great fire-tube that they call a cannon, and fell on the house where my father lived; it smote the house
+"into fragments and splinters" (Amos 6:11), and the ball took his first wife together with the little girl he
+had from her. He himself was in another room next to hers in the house, and it did him no harm at all; he was
+saved by the Lord's mercy, and it was a miracle. From there he fled and escaped. At that time he wrote the
+responsum printed in his book, about a woman who died and did not</p></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (3)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>ר&#x27; הירשל מגליגיו*</td><td>x mark; note in right margin</td><td dir='rtl'>אולי: מגלוגא (Scholem&#x27;s conjecture &quot;perhaps: from Glogau&quot;? not a MS reading)</td><td>fairly sure</td></tr><tr><td dir='rtl'>lines 5-14 (כ&quot;י הקדושה ... ח&quot;א)</td><td>6 short marks at the scan edge, cut off</td><td dir='rtl'>-</td><td>not read (cut by scan edge)</td></tr><tr><td dir='rtl'>בקהל שאראי בארץ בוזנא</td><td>caret and v mark, short note cut by scan edge</td><td dir='rtl'>-</td><td>not read</td></tr></table></details>
+</section>
+
+<section class="page" id="s17">
+  <header><h2>Typed insert in Scholem&#x27;s copy (scan 17), &quot;belongs between pp. 8 and 9&quot;</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=17" target="_blank" rel="noopener">scan 17 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>שייך בין עמ&#x27; 8 ועמ&#x27; 9 (בין הדפים 3 ו-4 של מ&quot;ס נמצאת פתקא בגודל של חצי דף, המסומנת בתור דף 117 של כה&quot;י, ובה כתובים הדברים הבאים, שהם השלמה לתולדות חייו של הסב של יעב&quot;ץ:) וא&quot;ז עם אשתו א&quot;ז(?) אחר שעברו עליהם כמה גלגולים (typed: ולגולים; Pninim: גילגולים) באו לאלטונה וראו את בנם החביב א&quot;ה(?) ז&quot;ל בכבוד אחר שכבר נשא את מורתי הרבנית ע&quot;ה כמש&quot;ל בס&quot;ד. ומשם נסעו (Pninim: נסע) לארץ הקדושה דרך ארץ פולין וזכו להתיישב בירושלים תוב&quot;ב. ואחר שנה נפטרה אשת נעוריו [של] א&quot;ז והוא כבר זקן יותר משבעים שנה והכריחוהו החכמים אשר היו שם ישא אשה בזקנותו כי אין מניחין בעיר הקדושה שבת אד[ם] (Pninim: שבת אדם) בלי אשה ואפילו יהא זקן ושבע ימים מאד. וזימן לו הקב&quot;ה שם זווג שני הגון ג&quot;כ אשה כהנת ממשפחה מיוחסת שבישראל היא היתה הזקנה המלומדת המופלגת שהיתה שמה מלפנים ושמה יהודית בת הגאון המפורסם כמ&#x27; נפתלי שהיה בלובלין זקנה של חותני הזקן כמו&#x27; נפתלי כץ אב&quot;ד בפפד&quot;מ. ונפטר אבי זקני כמוהר&quot;י גם הוא בירושלים בשיבה טובה בן ע&quot;ג שנ<sup class="fn">ה</sup> ונכתב משם לאמ&quot;ה ז&quot;ל. בעת פטירת הצדיק נעתר השם ל<sup class="fn">א</sup>רץ הקדושה והיה [נ]ס גדול (Pninim: נס) כי השמים נעצרו מלתת מימיהם ונתנו לו עמו בקברו חתיכת בגד טבול במים להודיע צערם שצריכים למים לבקש רחמים על החיים לא ימותו בצמא ובשובם מקבורתו בא מטר לרוב והרוה את הארץ הצמאה ואמרו כולם זכותו הגין בעדו....</p></div>
+    <div class="en" lang="en"><p><em>A typewritten sheet bound into the volume. It is not part of Kahana's edition. Its heading says:</em> "Between
+leaves 3 and 4 of <em>Megillat Sefer</em> there is a slip half a page in size, numbered as leaf 117 of the
+manuscript, on which the following is written; it completes the life story of Emden's grandfather." <em>Who
+typed it is not stated (probably made for Scholem from the Oxford manuscript). Bick's edition (Pninim
+text) prints the same passage in brackets at the end of book p. 10; its readings settled the doubtful words
+of the typescript.</em></p>
+<p>My grandfather, with his wife my grandmother(?), after many wanderings had passed over them, came to Altona
+and saw their beloved son, my father and master(?), of blessed memory, in honour, after he had already
+married my mother, the rebbetzin, of blessed memory, as told above, with the help of Heaven. From there they
+travelled to the Holy Land by way of Poland, and were granted to settle in Jerusalem, may it be built and
+established speedily in our days.</p>
+<p>A year later the wife of my grandfather's youth died. He was already an old man of more than seventy, and
+the sages who were there compelled him to take a wife in his old age, for in the holy city a man is not
+allowed to live without a wife, even if he is old and full of days. The Holy One, blessed be He, provided
+him there with a fitting second match, also a woman of a priestly family, of a family of distinguished
+lineage in Israel: she was the learned and outstanding old woman who had been there(?) before, and her name
+was Judith, daughter of the famous gaon R. Naftali who was in Lublin — the grandfather of my aged
+father-in-law, R. Naftali Katz, head of the court in Frankfurt am Main.</p>
+<p>My grandfather R. Jacob also died in Jerusalem, at a good old age, seventy-three years old, and it was
+written from there to my father and master, of blessed memory. At the time of the righteous man's death God
+answered the Holy Land, and a great miracle happened. For the heavens had held back their waters; so they put with him in his grave a piece of cloth soaked in water, to make known their distress,
+that they needed water — so that he would plead for mercy for the living, that they might not die of thirst.
+And as they came back from his burial, rain came in abundance and watered the thirsty land, and everyone
+said: his merit protected them….</p></div>
+  </div>
+  
+</section>
+
+<section class="page" id="p9">
+  <header><h2>Page 9 (scan 19)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=19" target="_blank" rel="noopener">scan 19 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>הזרע קימא אחריה שלשים יום בשנות החזרה <sup class="fn">א</sup>; ונתקבל לרב בק&quot;ק שאַראי הנ&quot;ל, ועמד לשרת את הצבור הלז עד תם מצור אובין, והנהיגו בו כבוד גדול. וכאשר קרבה פקודת העיר שאראי, ותבוא גם היא במצור מאנשי חיל הקיר&quot;ה, גם כשמעו כי נשבו אביו ואמו, הלך לו אמ&quot;ה ופנה מאותה מדינה, ובא לו לארץ אשכנז, ובכל הדרך הארוכה והטלטול הכבד לא רצה לקבל מתנה משום אדם, אע&quot;פ שהיה לו שם גדול, ובכל מקום שהגיע לשם חרדו לקראתו, והיה מסתפק במעט הכסף הנמצא בידו. ובבואו לויניציאה התארח בביתו של הגאון החסיד המופלג כמהו&quot;ר רש&quot;א זצ&quot;ל, וחיבה יתירה נודעת לאמ&quot;ה ממנו. שם אזל הכסף מכליו, כמעט כלתה פרוטה מן הכיס, והזמין לו הקב&quot;ה דרך פלא אחד מחורי ארץ הגר שהיה חייב לו סך מסוים, שבא לשם ונזדמן לפונדק אחד, ופרע לאמ&quot;ה כל חובו משלם, באופן שלא היה צריך לעזוב מדת החסידות, שהחזיק בה מנעוריו להיות שונא מתנות, כענין שאמרו חז&quot;ל: בדרך שאדם רוצה לילך מוליכין אותו, באשר ה&#x27; אתו. משם עבר אל מדינת אנשבאך. בעת ההיא אירע המקרה בלתי טהור עם העשיר המפורסם מאד באנשבאך, שהיה קצת אנוס ע&quot;פ הדבור ובכפיה של השררה שלו, שבקש ממנו שישא שניה דרבנן לאשה, ובקש לכמה רבנים שיתירוה לו, ומצא כמה מהם בארץ פולין, ששלח לשם שליח לדבר עבירה וצרור הכסף בידו, ונתפייסו לו איזה מהם ברצי כסף, להפקיע חבל האיסור; קצתם קנה בכסף מלא והשיג חתימתם, ובקצתם שקר ענה. ובעבור כבוד אמ&quot;ה ז&quot;ל שם, השתדל הוא אצלו ג&quot;כ, וחלה פניו שיחתום לו ג&quot;כ על פסק ההיתר, ורצה להתיר לו פס ידו, למען השיג מבוקשו, ואמ&quot;ה גער בו והוציאו בנזיפה, ורקק בפניו על ששאל ממנו דבר שאינו הגון כזה. מאי סלקא ביה במאד, דבר זה ידוע ומפורסם בעולם, כי אחר מעשה שעשה ונשאה, ]נחלה מאד[ ונשול איברים, באופן שמן השמים הפרישום שלא יזדקקו זה לזה בעבירה, והיה קדוש השם גדול, כי עין בעין נראה כמה גדולים וחמורים דברי חכמים ודברי סופרים מד&quot;ת; שבכל יום אנו רואים עוברי עבירה בידים וכו&#x27;, ומלוי ברבית והגזלנים וחומסים ונשבעים לשקר והמגלחים זקנם והעוברים על התורה, והקב&quot;ה מאריך אפו, רואה עלבונו ושותק, אינו גובה מהם חובו</p><ol class="knotes"><li>[א] עיין שו&quot;ת חכם צבי (מי&#x27; ס&quot;א), וז&quot;ל השאלה: ראובן נשא אשה בבודין ושם אין נוהגין תקנת שו&quot;ם וכו&#x27;, אלא כותבין שטר חזרה וקורין אותו שטר עידור וכו&#x27;, ע&quot;ש.</li></ol></div>
+    <div class="en" lang="en"><p>[… about a woman who died, and whose child did not live] after her thirty days, within the years of
+"return" <strong>[a]</strong>. He was then received as rabbi in the holy community of Sarajevo, mentioned above, and he
+served that congregation until the end of the siege of Ofen; they treated him with great honour.</p>
+<p>When the visitation of the city of Sarajevo drew near, and it too came under siege by the troops of the
+emperor, may his majesty be exalted — and also when he heard that his father and mother had been taken
+captive — my father left and turned away from that country and came to the German lands. On all that long
+road and heavy wandering he would not accept a gift from anyone, although he had a great name, and everywhere
+he came they hurried out to meet him; he made do with the little money he had with him. When he came to
+Venice he lodged in the house of the pious and outstanding gaon R. Samuel Aboab, of blessed memory, and great
+affection was shown to my father by him. There the money ran out of his vessels, and the last penny was
+almost gone from his purse. Then the Holy One, blessed be He, arranged for him, in a wonderful way, that one of
+the nobles of the land of Hungary, who owed him a certain sum, came there and happened to stay at the same
+inn, and he repaid my father his whole debt in full. So he did not have to abandon the trait of piety that he
+had held from his youth, to hate gifts — as the Sages said, "In the way a man wishes to go, he is led"
+(b. Makkot 10b) — for the Lord was with him. From there he passed on to the land of Ansbach.</p>
+<p>At that time there happened the unclean affair of the very famous rich man in Ansbach. He was somewhat
+compelled by the word and the coercion of his ruler, who demanded that he marry a woman forbidden to him in
+the second degree by rabbinic law. He asked several rabbis to permit it to him, and found some of them in the
+land of Poland: he sent an agent there on a sinful errand, with a bag of money in his hand. Some of them were
+placated with pieces of silver (Ps. 68:31) to loosen the bond of the prohibition; some he bought with full
+money and obtained their signatures; and about some he lied.</p>
+<p>Because of my father's standing there, he pressed him too, and entreated him to sign the ruling of permission
+as well; and he was ready to open his hand wide to him, to get what he wanted. But my father rebuked him and
+sent him away in reproof, and spat in his face for asking such an improper thing of him. What became of him
+in the end is known and famous in the world: after he had done the deed and married her, [he became very ill]
+and his limbs withered, so that Heaven kept them apart, and they could not come together in sin. It was a
+great sanctification of the Name, for it was seen eye to eye how great and weighty are the words of the
+Sages and the words of the Scribes, more than the words of the Torah. For every day we see men who transgress
+with a high hand, etc., and lenders at interest, robbers, extortioners, false swearers, men who shave their
+beards and transgress the Torah — and the Holy One, blessed be He, is long-suffering, sees His insult and keeps
+silent, and does not exact His debt from them</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] See the responsa <em>Ḥakham Tzvi</em> (§ 61). The question reads: "Reuben married a woman in Buda, where they do
+  not follow the enactment of Speyer–Worms–Mainz, etc., but write a deed of return, which they call a <em>shtar
+  idur</em>, etc." See there.</li>
+</ul></div></div>
+  </div>
+  
+</section>
+
+<section class="page" id="p10">
+  <header><h2>Page 10 (scan 20)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=20" target="_blank" rel="noopener">scan 20 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>בעוה&quot;ז, אדרבה משלם להם שכרם על פניהם להאבידם, ובגזירות חז&quot;ל ותקנותיהם אינו מוותר ואינו ממתין, אין הפורענות שוהא לבוא ר&quot;ל, כדי להראות חבתן, שכל דבריהם כגחלי אש, וכן מצינו בפ&#x27; שהחמיר בכבוד צדיקים יותר מכבודו, וכזה אירע פעמים רבות, כאשר יוכלדעת כל איש יהודי פקח, אשר ישגיח על תולדות הימים, ולא יחשבם למקרים, וכאשר אשמיעך עוד להלן שראינו וידענו בבירור, שסוף העובר על ד&quot;ח - מיתה שלא בעונתה, או עוני ויסורים מכוערים דקשה ממיתה. נחזור לתולדותיו של צדיק: משם בא אמ&quot;ה ז&quot;ל לפראג והיה שמו הולך וגדול, ורצה הרב ר&quot;י אב&quot;ד דמדינות פיהם לתת לו לאשה בתו שפרה עם ממון רב, (שנשאת אח&quot;כ להגאב&quot;ד מפרא <sup class="fn">ג</sup> ולא אבה לקחתה מחמת היותה אלמנה, ובא לו עד ברלין, ועם היות שרצו כמה עשירים גדולים, אשר שמעו שמעו הגדול, ביחוד בק&#x27; המבורג, להשתדך עמו, ולהפריז לו ממון רב, לא נתן עיניו בממון ובחר במשפחה מיוחסת. נתקשר עמו דודי הרב כמוהר&quot;ר זאב ע&quot;ה, לקחת את אחותו בת אבא רבה הגאב&quot;ד דג&quot;ק בעת ההיא, ה&quot;ה כמו&quot;ה משלם זלמן ניימרק זצ&quot;ל <sup class="fn">א</sup>, היא אמי מורתי החסידה הרבנית מ&#x27; שרה ע&quot;ה, כי מה&#x27; היתה לו לאשה משכלת יראת ה&#x27; טהורה, מגזע הנבחר משפחת מירלש המפורסמת, מחסידי ק&quot;ק ווינא הישנה המלאה לה אנשים נכבדים נדיבי ארץ אנשי מעשה וחסידים גדולים, בעלי תורה מופלגים, וכל הגאונים שבאותו דור דעה דבקו בהם והתחתנו עמהם, כי גדלה מאוד מעלתם בתורה ביראה במעשים בעושר ובנכסים, בגדולה בשם טוב וביחסים. ואבא רבה מר קשישא הנ&quot;ל האריך ימים על ממלכתו בג&quot;ק בשלום ושלוה, והנהיג את הציבור במישור ובחכמה, וכן גדלו הג&quot;ק בימיו, רבו למעלה ראש בעשירות ובכבוד, והוא ז&quot;ל ראה בערך מאה וחמשים יוצאי חלציו או יותר, גם דור חמישי יולדו לו בארץ ליטא, וכל אחי אמי ובעלי אחיותי אנשים גדולים בתורה ובמעשים, מהם רבנים, מהם קצינים במדינת פולין וליטא מלאו פני תבל והארץ האירה מכבודם. ואמ&quot;ה הוליד מאמי הרבנית ז&quot;ל בק&quot;ק אלטונא חמשה בנים</p><ol class="knotes"><li>[א] נוסח מצבתו עיין בס&#x27; אגודת פרחים לוויטטקאווער (צד רפ&quot;ד), ונפטר כ&quot;ב כסלו שנת תס&quot;ז באלטונא, ועיין בס&#x27; כלילת יופי לדעמביצער ז&quot;ל (ד&#x27; צ&quot;א ע&quot;ב).</li></ol></div>
+    <div class="en" lang="en"><p>in this world; on the contrary, "He repays them to their face, to destroy them" (Deut. 7:10). But with the
+decrees and enactments of the Sages He does not forgo and does not wait: the punishment does not delay its
+coming, God save us, to show how dear they are — that all their words are like coals of fire. So we find in
+the chapter [of the Talmud] that He was stricter about the honour of the righteous than about His own honour.
+Such things have happened many times, as every clear-sighted Jew can know, who watches the history of the
+times and does not count them as chance; and as I will tell you further below, we saw and knew for certain
+that the end of one who transgresses the words of the Sages is death before its time, or poverty and ugly
+sufferings that are harder than death.</p>
+<p>Let us return to the history of the righteous man. From there my father came to Prague, and his name kept
+growing. The rabbi R. Y., head of the court of the lands of Bohemia, wanted to give him his daughter Shifrah
+as a wife, with a great deal of money (she later married the head of the court of Prague); but he would not
+take her, because she was a widow. He went on as far as Berlin. And although many great rich men who had heard
+of his great fame — above all in the community of Hamburg — wanted to make a match with him and to settle much
+money on him, he did not set his eyes on money, and he chose a family of lineage. My uncle, the rabbi R. Ze'ev,
+of blessed memory, made the bond with him, that he should take his sister, the daughter of my grandfather, then
+head of the court of the Three Communities, namely R. Meshullam Zalman Neumark, of blessed memory <strong>[a]</strong>. She
+is my mother and teacher, the pious rebbetzin Mrs. Sarah, of blessed memory: for "a prudent wife is from the
+Lord" (Prov. 19:14), pure in the fear of the Lord, of the chosen stock of the famous Mirels family, of the
+pious of the old holy community of Vienna. That community was full of honoured men, nobles of the land, men of
+good deeds and great pietists, outstanding masters of Torah; and all the geonim of that generation of
+knowledge clung to them and married into them, for their standing was very great in Torah, in the fear of
+Heaven, in deeds, in wealth and property, in greatness, in good name and in lineage.</p>
+<p>And my grandfather, the venerable elder mentioned above, lived long upon his reign in the Three Communities
+in peace and quiet, and led the community with uprightness and wisdom. The Three Communities grew in his days
+and rose to the top in wealth and honour. He saw about a hundred and fifty descendants or more; a fifth
+generation was also born to him in the land of Lithuania. All my mother's brothers, and the husbands of my
+[mother's] sisters(?), were men great in Torah and in deeds — some of them rabbis, some leaders in the lands of
+Poland and Lithuania. They filled the face of the world, "and the earth shone with their glory" (Ezek. 43:2).</p>
+<p>My father had by my mother, the rebbetzin, of blessed memory, in the holy community of Altona, five sons</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] For the text of his tombstone see Wittkower, <em>Agudat Peraḥim</em> (p. 284). He died on 22 Kislev 5467 [1706]
+  in Altona. See also Dembitzer, <em>Kelilat Yofi</em> (fol. 91b).</li>
+</ul></div></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (1)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>lines 4-12 and 25</td><td>marks at the scan edge (cut off), caret and v at line 25</td><td dir='rtl'>-</td><td>not read</td></tr></table></details>
+</section>
+
+<section class="page" id="p11">
+  <header><h2>Page 11 (scan 21)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=21" target="_blank" rel="noopener">scan 21 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>וחמש בנות. בשנת תקי&quot;ב הזאת עודם חיים וקימים ת&quot;ל, ה&#x27; יאריך ימיהם ושנותיהם בטוב ובנעימים; ושם באלטונא בנה לו הי&quot;ת בית נאמן, והקים לו בה&quot;מ הגדול קלויז, שיסדו לו גבירי ועשירי הג&quot;ק, להרביץ בו תורה אמתית לשמה. ונאספו אליו שמה לומדים ורבנים מופלגים מארץ פולין וליטא, שהיו עוסקין שם בתורה בשקידה רבה, יום ולילה לא ישבותו ללמוד גפ&quot;ת ופוסקים הלבות ואגדות. גם מלאו ידיהם לה&#x27; בשאר ידיעות, עד שנעשו שלמים בתורה ובחכמה, כמה פעמים גמרו אצלו ש&quot;ם וטורים מקרא ומדרש וספר דקדוק. גם למדו ממנו ז&quot;ל פרישות וזהירות, ומנהג חסידות אמיתית ויראה פנימית, באשר היה ז&quot;ל שונא בצע, ומואס אפילו בממון שהוא של יושר אצל רבנים אחרים, ומימיו לא קבל מתנות ממון מב&quot;ו מיחידים, עם שפעמים הרבה רצו להעשיר אותו קציני עם עשירי דורו, שהיו אנשים גדולים חשובים כמו שרים ודוכסים, ופעמים רבות הביאו לו דורונות, כלי כסף וכלי זהב יקרים, והשיב פניהם ריקם, ולא אבה לקבל מהם מאומה. מי יוכל לספר גדולות מעשיו לא יאומן כי יסופר, אם לא מי שראה וידע ושמש אותו, כאשר עדיין לעת הזאת שכתבתי מגלה זו נמצאים בג&quot;ק איזה אנשים זקנים ששמשו אותו, וזוכרים מעשיו והנהגתו הקדושה והישרה ולמודי תורתו, המה מתמלאים שמחה וצהלה בדברם ממנו: לשמו ולזכרו תאות נפש מכיריו ויודעיו מלפנים, כי לא נשמע ולא נראה כמוהו בארצות הללו משנים קדמוניות; על כן גדל והצליח בתורה ובחכמה שלמד ולימד, כי כל תורתו לשם שמים היתה, לא להתגדל ולמצוא חן בעיני בני אדם, רק כל מגמתו וחפצו להרבות כבוד בוראו ולהקים עמודי התורה, בכל לבבו ובכל נפשו ובכל מאדו. והיה לו לב אריה להציל עשוק מיד עושקו, ולא נשא פנים בתורה, וקיים לא תגורו מפני איש. ומפני מדה זו היו לו תמיד איזה מתקיפי אילי העיר מתנגדים כמ&quot;ש בס&quot;ד, לא שונאים בנפש ח&quot;ו (חוץ מאיזה קלי עולם חצופי הדור), כי הכל ידעו והכירו היותו איש אלקים, קדוש נאמן לאלהים, רק לסברה זו בעצמה נתיראו ממנו, לפי שלא נשא להם פנים בדבר בלתי ישר; ואין להפלא מזה, כי האיש, אשר אם היו נותנים לו כל כסף וזהב ומרגליות שבעולם, לא היה מקבל מבן אדם, ודאי לא יכיר פנים במשפט, ולא יעשה רק הישר בעיני ה&#x27; בלבד. והפלא הגדול שלא יכלה תאות הממון ואהבת הכסף, אשר יענה את הכל, להטות לבבו אליה, עם היותו ז&quot;ל מטופל בבנים ובבנות, וביתו ריקן מהכנסה מרובה; כל ימי היותו רב בקלויז, לא היה לו רק ששים ר&quot;ט לשנה, דבר קצוב והוצאה מרובה הכרחית עצומה מאד, בכל</p></div>
+    <div class="en" lang="en"><p>and five daughters. In this year 5512 [1752] they are still alive and well, thank God; may the Lord lengthen
+their days and years in goodness and pleasantness.</p>
+<p>There in Altona the Blessed One built him "a sure house" (1 Sam. 2:35), and set up for him the great house of
+study, the Klaus, which the magnates and rich men of the Three Communities founded for him, to spread true
+Torah, for its own sake. Outstanding students and rabbis from the lands of Poland and Lithuania gathered to
+him there, and studied Torah there with great diligence; day and night they did not cease to learn Gemara,
+Rashi and Tosafot, the codes, halakhot and aggadot. They also "filled their hands to the Lord" with other
+knowledge, until they became perfect in Torah and in wisdom. Many times they completed with him the whole
+Talmud and the <em>Ṭurim</em>, Bible and Midrash, and a book of grammar.</p>
+<p>They also learned from him abstinence and caution, the way of true piety and inward fear of Heaven. For he
+hated unjust gain, and despised even money that other rabbis counted as honest. Never in his life did he take
+gifts of money from flesh and blood, from private persons, although many times the leaders of the people, the
+rich men of his generation — men great and important like princes and dukes — wanted to make him rich. Many
+times they brought him presents, precious vessels of silver and gold, and he sent them away empty-handed and
+would take nothing from them.</p>
+<p>Who can tell the greatness of his deeds? They would not be believed if they were told — except by one who saw
+and knew and served him. Even now, at the time I write this scroll, there are still in the Three Communities
+some old men who served him and remember his deeds, his holy and upright conduct and his teaching; they are
+filled with joy and gladness when they speak of him. "To his name and to his memory is the desire of the soul"
+(Isa. 26:8) of those who knew him of old, for none like him was heard or seen in these lands since ancient
+years. Therefore he grew and prospered in the Torah and wisdom that he learned and taught; for all his Torah
+was for the sake of Heaven, not to make himself great or to find favour in the eyes of men. All his aim and
+desire was to increase the glory of his Creator and to raise up the pillars of the Torah, with all his heart,
+all his soul and all his might.</p>
+<p>He had the heart of a lion to rescue the oppressed from the oppressor; he showed no favour in matters of
+Torah, and kept the command "You shall not be afraid of any man" (Deut. 1:17). Because of this trait some of the
+powerful "rams" of the city were always opposed to him, as I will write, with God's help — not enemies of his
+person, God forbid (except some worthless men, the insolent of the generation); for everyone knew and
+recognised that he was a man of God, holy and faithful to God. For this very reason they feared him: because
+he would not show them favour in anything that was not upright. There is no wonder in this. A man who would
+not take from a human being even if they gave him all the silver, gold and pearls in the world will surely not
+show partiality in judgement, and will do only what is right in the eyes of the Lord alone.</p>
+<p>And the great wonder is that the lust for money and the love of silver, which "answers all things"
+(Eccl. 10:19), could not turn his heart towards it, although he was burdened with sons and daughters, and his
+house was empty of any large income. All the years he was rabbi in the Klaus he had only sixty Reichstaler a
+year, a fixed sum, against very great and necessary expenses — in every</p></div>
+  </div>
+  
+</section>
+
+<section class="page" id="p12">
+  <header><h2>Page 12 (scan 22)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=22" target="_blank" rel="noopener">scan 22 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>שתי שנים לידה, זה היה ממש כסדר (כל ימי הורתי לא פקד <sup class="fn">ה</sup>, ובפרטות שהיה ז&quot;ל אדם ענוג ורך מאד, חלוש הטבע ורפה המזג, באופן שלא היה יכול לאכול מאכלים גסים ועבים. וכן הנהיג לבניו, עם שלא הרגילם בתענוגים, כדי שלא יהיה טבעם עכור וגם עבי השכל, לכן מנע אותם ממאכלים גסים, עם עזיבת המותרות, ונהג בהסתפקות האפשרית, למען לא יצטרך למתנת ב&quot;ו, באשר היה בעל בטחון ואמונה אין כמוהו בכל הארץ, ורק דבר אחד בלבד אספר מכל מעשיו הגדולים בשנאת מתנות. פעם אחת נזדמן שבא לאלטונא הקצין הנדיב המפורסם כ&quot;ה הירץ הנובר ע&quot;ה <sup class="fn">א</sup>, שהיה עשיר עצום מאד מכמה פעמים מאה אלפים ר&quot;ט כידוע, ועם זה היה נדיב לב גדול ותרן בממונו בשפע רב, ואוהב לומדי תורה ההגונים כנפשו, וקרה שבא לבקר את אמ&quot;ה ז&quot;ל בביתו, לשמע גדולתו תורתו וחכמתו ויראתו, ושהה אצלו כמה שעות, ודבר עמו דברים בעסקיו לשמוע עצתו ג&quot;כ; סוף דבר בקש ממנו שיתרצה ללמוד בשבילו שעה אחת בכל יום, והוא יתן שכרו, וא&quot;צ לזה לא טרחה ולא יגיעה, ואין בו העדר כבוד כלל, כי בלא&quot;ה הוא שוקד על התורה יום ולילה לא ישבות, ואין אדם זולתו יודע מזה ולא משגיח עליו; לא היה חסר כי אם דבור אחד בלבד, להשיב אליו ולומר: טוב הדבר כן אעשה, כי אז היה מעשירו בוודאי; אך ישמע נא דבר התשובה, כה דבר אליו: חלילה לי מעשות זאת, ללמוד בשביל בני אדם להרבות שכר ח&quot;ו, אינני לומד תורה אלא לאהבת הבורא, לידע התורה לשמור לעשות ולקיים. ורצה הק&#x27; הנ&quot;ל לתת לו מתנה גדולה, ושם לאל מלתו ויאמר לו: מתנתך לך להויין ונבזביתך לאחרן הב, ויצא מלפניו בפחי נפש, כי לא מצא מבוקשו אצלו, שהיתה כוונתו להקריב מנחת בכורים לת&quot;ח גדול כזה. ויתמה האיש הנכבד הלז על גודל לבבו של אמ&quot;ה ז&quot;ל, ואמר באכסניא שלו לר&#x27; זעקלי ווינר פו&quot;מ דק&#x27; וואנזבעק <sup class="fn">ב</sup>: הנמצא כזה איש אשר רוח אלהים בו, אינני מניח ראשי ולא מזיגנא אבי סדיא עד שאעשירנו, כי חשב מחשבות לסבב לו עשירות באיזה אופן שיהיה, כי היה להק&#x27; הלזה לב רחב אין דומה אליו בזמנו, אך לא יצא רביע שנה ונפטר הנדיב ר&quot;ה ע&quot;ה. אמנם לא יצאו דבריו לבטלה, אך על דבר זה</p><ol class="knotes"><li>[א] עיין בספר זכרונות מרת גליקל האמיל שהוציא הפראפ&#x27; ר&quot;ד קויפֿמאַנן (צד רנ&quot;ח).</li><li>[ב] ר&#x27; זעקלי ווינר נזכר ג&quot;כ בספר זכרונות של גליקל הנ&quot;ל (צד רנ&quot;ו).</li></ol></div>
+    <div class="en" lang="en"><p>two years a birth; this was quite regular (in all the days of [my mother's] childbearing there was no gap)(?).
+Above all, he was a very delicate and tender man, weak by nature and of a feeble constitution, so that he could
+not eat coarse and heavy foods. He trained his sons in the same way: he did not accustom them to luxuries, so
+that their nature should not become turbid and their minds dull; therefore he kept them from coarse foods.
+Together with giving up superfluities, he lived with all the frugality he could, so as not to need the gift of
+flesh and blood; for he was a man of trust and faith like none in all the land. I will tell only one thing out
+of all his great deeds in hating gifts.</p>
+<p>Once the famous and generous leader, the honoured R. Hirtz Hanover, of blessed memory <strong>[a]</strong>, happened to
+come to Altona. He was exceedingly rich — worth many times a hundred thousand Reichstaler, as is known — and
+with this he was very generous and free with his money in great abundance, and he loved worthy students of
+Torah as himself. He happened to come to visit my father in his house, having heard of his greatness in Torah,
+wisdom and fear of Heaven, and he stayed with him several hours and spoke with him about his business, to hear
+his advice as well. In the end he asked him to agree to study one hour every day on his behalf, and he would
+pay him for it. It would have cost him no trouble or toil and no loss of dignity at all, for in any case he was
+diligent in Torah day and night without rest; and no one but he would know of it or check on him. Only one word
+was lacking — to answer him, "Good, I will do so" — and then he would certainly have made him rich.</p>
+<p>But hear now the answer; this is what he said to him: "Far be it from me to do this — to study for the sake of
+human beings, to increase my reward, God forbid! I study Torah only for the love of the Creator: to know the
+Torah, to keep it, to do and to fulfil it." The said leader wanted to give him a great gift, and he made his
+word as nothing, and said to him: "Let your gifts be to yourself, and give your rewards to another"
+(Dan. 5:17). And he went out from him disappointed, for he had not found what he sought from him: his intention
+had been to bring an offering of first-fruits to so great a scholar.</p>
+<p>That honoured man wondered at the greatness of my father's heart, and said at his lodging to R. Zekli Wiener,
+parnas and leader of the community of Wandsbek <strong>[b]</strong>: "Can such a man be found, in whom is the spirit of God
+(Gen. 41:38)? I will not lay down my head nor lie down on a bed until I make him rich." For he devised plans to
+bring him wealth in some way or other, since this leader had a broad heart without equal in his time. But not
+a quarter of a year passed before the generous R. Hirtz, of blessed memory, died. Yet his words did not go out
+in vain; on this matter</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] See the memoirs of Glückel of Hameln, published by Prof. David Kaufmann (p. 258).</li>
+<li>[b] R. Zekli Wiener is also mentioned in Glückel's memoirs (p. 256).</li>
+</ul></div></div>
+  </div>
+  
+</section>
+
+<section class="page" id="p13">
+  <header><h2>Page 13 (scan 23)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=23" target="_blank" rel="noopener">scan 23 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>נתקיימה מחשבתו קצת בלי כונה, כי בסבת פטירתו נפלו הפרשות ומריבות בין אלמנתו, שהניח לה כל עזבונו בידיה, ובין חתנו שבקש העזבון תחת ידו, שהוא נשא בת יורשת יחידה של הק&#x27; הנ&quot;ל, ונדבר אמ&quot;ה ז&quot;ל לתקן הענין ע&quot;פ בקשת האלמנה, ונסע אמ&quot;ה ז&quot;ל להנובר ושהה שם איזה ימים, ועשה סדר ותיקון אשר ישר בעיניו, ונתקבלו דבריו, באופן שנשאר הדבר בלי קטרוג, ונתנו לו אלף ר&quot;ט או יותר בשכר טרחו. ואחר עבור איזה שנים, בנסוע אמ&quot;ה ז&quot;ל דרך הנובר על הרבנות דאמשטרדאם, חזרו ונמלכו בו כאשר ישאל איש בדבר האלהים, באשר בפעם הראשון מצאו תועלת גדולה בעצתו ותיקונו; ואח&quot;כ נפלו עוד הפרשות חדשות ביניהם, ובקשוהו עוד בעברו דרך אליהם, לחזור לתמוך הענין לעשות מעמד ומצב להבא, שלא יתחדש עוד דבר קלקול, ועשה את שלו והצליח גם בפעם ההיא; גם המה נתנו שכרו משלם, אבל לא התמידו להתנהג ע&quot;פ עצתו וסדרו, לכן אח&quot;ז נתקלקל הענין מאד, ושוב נתחרטו על שלא שמעו לעצתו הטובה, וחזרו לבקשו על זאת פעם שלישית, בנסעו העתקתו מאמשטרדאם ועבר ג&quot;כ דרך שם, ולא עלתה בידם בעת ההיא במש&quot;ל <sup class="fn">א</sup>. ואשוב למקום שהייתי בו. אמ&quot;ה קבע ישיבה ומדרש בקלויז דאלטונא קרוב לעשרים שנה, שהרביץ בו תורה וחכמה ויראת שמים, תושיה לרוב הודיע, וקנה שם טוב לא לבד בג&quot;ק, כי שמו הולך עד סוף העולם, ושמעו גדול בכל הארצות, ומצודתו פרוסה בירושלים, ורבים מחכמי אשכנז ופולין מריצים אליו אגרותיהם ושאלותיהם בכל דבר הקשה להם בתורה בהוראה בין דין לדין, דברי ריבות וספיקות שנתחדשו להם, והיה חשוב דינו ופסקו כאלו נפסק ונגזר בבית דין הגדול; גם מקהלות ספרדים שואלים אותו ודורשים דבר ה&#x27;, מאתו תצא תורה לכל ישראל, אחר דברו לא ישנו; גם צרכי צבור דג&quot;ק אשכנז וק&#x27; ספרדים שבהמבורג היו מוטלים עליו לדון ולהורות בין איש ובין רעהו, ובין קהל לקהל לא סרו מאחריו; גם בהיות חמיו מר אבא רבה הגאב&quot;ד מהר&quot;ז מירלש הנ&quot;ל מלך בג&quot;ק, ואמה&quot;ג רב בקלויז, הוא היה המוציא והמביא, מחמת היות חותנו הרב זקני זקן נכבד מאד, כמה שנים מוטל בעריסה, וכל מילי דמתא עליה דמר אבא רמיין, וכל זה בלי שום שכר ונטילת פרס היה עבד לעם הזה בג&quot;ק, עבד אותם בכל כחו בחנם אין כסף,</p><ol class="knotes"><li>[א] ר&quot;ת: כמו שאכתוב להלן, ועיין (צד 73) הדברים בפרטות.</li></ol></div>
+    <div class="en" lang="en"><p>his intention was partly fulfilled, without design. For through his death disputes and quarrels broke out
+between his widow, to whom he had left his whole estate, and his son-in-law, who wanted the estate under his
+own control; he had married the only daughter and heiress of the said leader. My father was asked to set the
+matter right at the widow's request. He travelled to Hanover, stayed there some days, and made an order and
+settlement as seemed right to him. His words were accepted, so that the matter remained without dispute, and
+they gave him a thousand Reichstaler or more for his trouble.</p>
+<p>Some years later, when my father passed through Hanover on his way to the rabbinate of Amsterdam, they again
+took counsel with him, as a man inquires of the word of God, since the first time they had found great benefit
+in his advice and settlement. Afterwards new quarrels broke out between them, and they asked him again, when he
+passed their way, to come back and support the matter and to set up a lasting arrangement for the future, so
+that no new damage would arise. He did his part and succeeded that time too, and they paid him his fee in
+full. But they did not keep to his advice and order, so afterwards the matter went badly wrong; they regretted
+that they had not listened to his good advice, and asked him about it a third time, when he left Amsterdam on
+his removal and again passed that way; but they did not succeed at that time, as I will write below <strong>[a]</strong>. And
+I return to where I was.</p>
+<p>My father held a yeshiva and house of study in the Klaus of Altona for nearly twenty years. There he spread
+Torah, wisdom and fear of Heaven, "and declared sound wisdom in abundance" (Job 26:3). He won a good name, not
+only in the Three Communities: his name went to the end of the world, his fame was great in all lands, and his
+net was spread even to Jerusalem. Many sages of Germany and Poland sent him their letters and questions on every
+matter that was hard for them in Torah and in practical ruling, "between judgement and judgement" (Deut. 17:8),
+matters of dispute and doubts that had newly arisen for them; and his judgement and ruling were held as if they
+had been decided and decreed in the Great Court. Sephardi communities too asked him and sought the word of the
+Lord: from him went forth Torah to all Israel, and "after his words they spoke not again" (Job 29:22). The
+public needs of the Three Communities of the Ashkenazim and of the Sephardi community in Hamburg were also laid
+upon him — to judge and rule between a man and his fellow, and between one community and another; they did not
+let him go.</p>
+<p>Also when his father-in-law, my grandfather, the head of the court R. Zalman Mirels, mentioned above, reigned
+in the Three Communities, and my father was rabbi in the Klaus, it was my father who went out and came in [and
+ran their affairs]. For his father-in-law, my grandfather, was a very honoured old man, and for some years he
+lay in his bed; all the affairs of the town rested on my father. All this was without any salary or fee: he was
+a servant to this people in the Three Communities, and served them with all his strength, for nothing, without
+money,</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] The abbreviation means "as I will write below"; see (p. 73) the matters in detail.</li>
+</ul></div></div>
+  </div>
+  
+</section>
+
+<section class="page" id="p14">
+  <header><h2>Page 14 (scan 24)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=24" target="_blank" rel="noopener">scan 24 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>נשא משאם וטרחם, אף תקן להם תקנות רבות וטובות. הוא היה ראשון לדבר שבקדושה לזכותם ביין לקידוש ולהבדלה, שלא היה נמצא לפניו יין כשר במקום הלז, והוא התחיל לשלוח אנשים לאיטליא ולצרפת לעשות יין כשר למצוה, ולהסיר מכשול, כי מן אז והלאה היה מצוי יין כשר וטוב ומובחר ובזול; ותקן להם הטמנת חמין לשבת בתנורים סגורים בבית האופים, כי עד הימים ההם היו מקילים להטמין ברמץ בביתם, והיו נכשלים באיסורי שבת החמורים; ועד ימיו היו מזלזלים בתקון המצות, שכמעט היו אוכלים חמץ בפסח, ותקן תקנה גדולה להעמיד אצל כל שאופים שם היהודים מצות, למדן אדם כשר וירא שמים שישגיח על עשיית המצות בהכשר כדין וכהלכה, וכדי שיהיו עניים ועשירים שוין בכך, בלי הכבדה יתירה על העני שאינו מוצא פועלים, סדר לגבות מכל ליטרא שיאפו דבר מועט, רק העשיר יתן כפל. אעפ&quot;כ עמד גם לעשירים בזול יותר מאלו היו שוכרים פועלים בפני עצמן, ומן המעות הללו היו שוכרים פועלים כוללים, לעשות לכל הבא לאפות מצות יחד עשיר ואביון, מכולם היו נוטלים הפועלים שכרם בשוה; הוא בטל המנהג הרע שהיו הנשים שוהות מלטבול כמה חדשים אחר טהרתן מלידתן, ומעכבות עונתן שגורמות רעה רבה; הוא סלק איסורי רבית, רבים שהיו נכשלים בהם עד עתה. הוא היה אב לאביונים ולכל איש מצוק, והיה מרגיל לעשירים בהרבות צדקה וג&quot;ח, כי היו דבריו נשמעים, ביחוד שלא היה דורש כבוד עצמו, באשר ה&#x27; אתו ולא היה מקבל מתנה מיחידים, ועם היות בני הקהלות אז ברום המעלות כמ&quot;ש, כמעט אין כסף נחשב. ולהיותם בטוחים בצדקתו ונאמנותו, היו כמה עשירים מוסרים בידו סך מסויים, לחלק לעניים בני טובים ולישרים בעיניו, כדי לזכות במעלה הגדולה שבמעלות הצדקה, שהנותן לא ידע למי נתן והמקבל לא ידע ממי מקבל. וכן היו מפקידים בידו ממון מזומן, להלות לעניים על משכנות הלואת חן וחסד, כמו שיש בידי להראות ע&quot;י קוויטונג. והיתה מצודתו פרוסה בירושלים ג&quot;כ, עיני השקפתו היה עליהם לטובה, שיגיעו מעות א&quot;י הנגבים בג&quot;ק ליד עניי ירושלים, ושיתחלקו כסדר וביושר, לא כשאר קהלות אשכנזים; שכל מעות א&quot;י הלכו לטמיון, ואוכלים הגבאים הכוללים שלהם (הגנבים הגדולים המעשירים עצמם ממעות צדקה זו, ועניי א&quot;י מתדלדלים מוכרחים לעזוב דירת א&quot;י, ולהיות נודדים ללחם גולים ומטולטלים), שהיו ממונים על כך בפפד&quot;מ בווינא ובוויניציאה ובירושלים, כל אלו היו חברי גנבים, ביניהם נתאכלו כל</p></div>
+    <div class="en" lang="en"><p>bearing their burden and their trouble. He also made many good enactments for them.</p>
+<p>He was the first in a matter of holiness, to give them the merit of wine for Kiddush and Havdalah. Before him
+there was no kosher wine to be found in that place. He began to send men to Italy and France to make kosher
+wine for the commandment and to remove a stumbling-block <span class="sch">⟨S: "of gentile wine"⟩</span>; and from then on kosher wine
+was to be had, good, choice and cheap.</p>
+<p>He enacted for them that food for the Sabbath be kept hot in closed ovens in the bakers' houses; until those
+days they were lenient and kept food hot in embers in their houses, and stumbled into grave Sabbath
+prohibitions.</p>
+<p>Until his days they were careless in the preparation of matzot, so that they almost ate leaven on Passover. He
+made a great enactment: to place at every <span class="sch">⟨S: "oven"⟩</span> where the Jews bake matzot a learned man, fit and
+God-fearing, to supervise the making of the matzot in a kosher way, according to law and halakhah. And so that
+poor and rich would be equal in this, without an undue burden on the poor man who cannot find workers, he
+arranged to collect a small amount for every pound that was baked; only the rich man paid double. Even so it
+came out cheaper for the rich than if they had hired workers on their own. With this money they hired common
+workers to make matzot for all who came to bake, rich and poor together, and the workers took their wage from
+all alike. <em>[This sentence about the fee is missing in Bick's edition (Pninim text).]</em></p>
+<p>He abolished the bad custom by which women delayed immersion for some months after their purification from
+childbirth, and withheld their marital times, which causes great harm. He removed prohibitions of interest in
+which many had stumbled until then.</p>
+<p>He was a father to the needy and to every man in distress, and he got the rich used to giving much charity and
+doing kindness, for his words were heeded — all the more since he did not seek his own honour, for the Lord was
+with him, and he took no gift from private persons. And though the members of the communities were then at the
+height of prosperity, as I have written, silver was almost of no account (1 Kgs. 10:21). Because they trusted
+his righteousness and faithfulness, several rich men placed a certain sum in his hands, to distribute to poor
+people of good family and to the upright in his eyes, so as to gain the great merit that is highest of the
+levels of charity: the giver does not know to whom he gives, and the receiver does not know from whom he
+receives. They also deposited ready money with him, to lend to the poor on pledges as a loan of grace and
+kindness, as I can show by a receipt (<em>Quittung</em>).</p>
+<p>His net was spread to Jerusalem too: his watchful eyes were upon them for good, that the money for the Land of
+Israel collected in the Three Communities should reach the hands of the poor of Jerusalem, and be distributed
+in order and honestly — not as in the other Ashkenazi communities, where all the money for the Land of Israel
+went to waste. It was eaten by their general treasurers (the great thieves, who enrich themselves from this
+charity money, while the poor of the Land of Israel grow poorer and are forced to leave their home in the Land
+and become wanderers for bread, exiles and drifters), who were appointed over it in Frankfurt am Main, in
+Vienna, in Venice and in Jerusalem. All of these were "companions of thieves" (Isa. 1:23); among them were
+consumed all</p></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (3)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>ולהסיר מכשול ^, כי מן אז והלאה</td><td>caret; note in right margin</td><td dir='rtl'>של סתם יינם</td><td>sure</td></tr><tr><td dir='rtl'>להעמיד אצל כל ^ שאופים שם היהודים מצות</td><td>caret; note in right margin</td><td dir='rtl'>תנור</td><td>sure</td></tr><tr><td dir='rtl'>lines 3-12 and 27</td><td>marks at the scan edge (cut off)</td><td dir='rtl'>-</td><td>not read</td></tr></table></details>
+</section>
+
+<section class="page" id="p15">
+  <header><h2>Page 15 (scan 25)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=25" target="_blank" rel="noopener">scan 25 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>הממונות הרבים, ההולכים מדי שנה בשנה מכל ארץ אשכנז, פיהם, מעררין, אוסטרייך, הואלאנד, ענגלאנד, צרפת, פולין, רייסין, ליטא, ומכללות הגולה בארצות המערביות הללו הנכללות בעאוראפי, שהיה עולה לסך גדול עצום מאד, ואבד העושר ההוא בענין רע אצל גוזלי הרבים, אוכלי שוד עניים הנ&quot;ל, וע&quot;י זה השתרגו עלו חובות גדולים על צוארי העניים האשכנזים שבא&quot;י. על זה בעו&quot;ה כמעט בטלה ישיבת הארץ הקדושה מן האשכנזים, ולא נשארה אחוזת דירה לשום אשכנזי בירושלים תוב&quot;ב, בפרטות לעת הזאת נעקרה אותה קהלה אשכנזית לגמרי, מפני עול החובות שלא יכלו לצאת ידי חובתם; והיה בבוא אחד מבני האשכנזים לשם, נתפס מן הב&quot;ח הישמעאלים שיפרע החובות של האשכנזים, תחת אשר ראויים להיות כל בני אשכנז עשירים, כל דרי א&quot;י האשכנזים היותם מתי מעט, מן הממון הגדול שהיה הולך לשם, ע&quot;י הגבאים הגדולים הנ&quot;ל מדי שנה בשנה, אם היה בא ליד העניים ומתחלק כראוי. אך אמה&quot;ג ז&quot;ל באשר היה אביהן של ישראל ומפקח על צרכיהן, פקח עיניו גם על זאת, שיהא הדבר מתוקן בראוי מצד מקומו עכ&#x27;פ כאשר תשיג יד האפשרית, ושלח הכסף הנתן על ידו ממקום הלז דרך ליגורנה, לגביר מסוים עשיר בטוח ונאמן, וסדר לו שישלחנו משם לחברון לחכם הגון וכשר הידוע לו, שיומסר אליו בחשאי ובסוד, בלי יודע הדבר לישמעאלים יושבי ירושלים, וכתב לחכם ההוא של חברון ובקש ממנו שיטפל במצוה רבה זו, וסדר לו איך יתנהג בחכמה ובהצנע, לחלק המעות לעניי אשכנזים בירושלים באופן הנאות, כדי שיגיע לכל אחד מהעניים הנצרכים חלקו הראוי לפי כבודו וצרכו וטפולו, ובקש ממנו שיעשה המצוה בשלימות, ליסע לירושלים ולתת לכל אחד חלקו המגיעו כפי היושר, ושיקח לו כתב ראיה מכל אחד מהמקבלים, כתוב וחתום בשמו של המקבל כמה קבל, וכן עשה הציר נאמן לשולחיו בשלמות האפשרי; כה עשה אמה&quot;ג ז&quot;ל ובאמשטרדאם בהיותו רב ואב&quot;ד שם, ואנכי ראיתי הפתקות של הקבלת כסף, מי ומי העניים והאביונים, שנשתלחו משם והגיעו לידו הקדושה על הפאסט מליגורנה, וחתומים עליהם כל אחד מעניים לומדים יתומים אלמנות, איש את שמו על פתקו בכתב ידו, מודיע ומעיד כמה קבל ע&quot;י החכם מחברון מן המעות הנשלחים לידו מאלה המקומות, כל אחד רשום בכתב אמת וחתם שמו; דבר כזה לא נעשה מיום שהלכו ישראל בגולה, ואלו היו זוכים כללות ק&quot;ק אשכנזים שבגולה המערבית הלז, ולפקח על כך מאז, ודאי היתה ישיבת א&quot;י הולכת ומתחזקת מהאחים האשכנזים, והיו יכולים לקבוע שם קהלות חשובות ומדרשות, ולהרבות</p></div>
+    <div class="en" lang="en"><p>the many funds that went year after year from all the land of Germany, Bohemia, Moravia, Austria, Holland,
+England, France, Poland, Red Ruthenia, Lithuania, and from the whole Diaspora in these western lands that are
+included in Europe — a very great sum. That wealth "perished by an evil adventure" (Eccl. 5:13) with the robbers
+of the public, the devourers of the spoil of the poor, mentioned above. Through this, great debts were knotted
+together and came up upon the necks of the Ashkenazi poor in the Land of Israel. Because of this, for our many
+sins, the settlement of the Holy Land by Ashkenazim almost came to an end; no Ashkenazi was left with a holding
+or dwelling in Jerusalem, may it be built and established; and at this present time that Ashkenazi community has
+been uprooted altogether, because of the yoke of debts that they could not pay. Whenever one of the Ashkenazim
+came there, he was seized by the Ishmaelite creditors to pay the debts of the Ashkenazim — whereas all the
+Ashkenazim ought to have been rich, all the Ashkenazi dwellers in the Land being few in number, from the great
+money that went there year after year through the great treasurers mentioned above, had it come into the hands
+of the poor and been distributed properly.</p>
+<p>But my father, being a father of Israel who looked after their needs, opened his eyes to this too: that the
+matter should be put right, at least as far as it depended on him and as far as possible. He sent the money
+given through him from that place by way of Livorno, to a certain rich magnate, reliable and trustworthy, and
+arranged with him to send it on from there to Hebron, to a worthy and fit sage known to him, so that it would be
+handed to him quietly and in secret, without the Ishmaelites living in Jerusalem knowing of it. He wrote to that
+sage of Hebron and asked him to take on this great commandment, and arranged for him how to act wisely and
+discreetly: to distribute the money to the Ashkenazi poor of Jerusalem in a fitting way, so that each of the
+needy poor would get his proper share according to his dignity, his need and his dependants. He asked him to do
+the commandment completely — to travel to Jerusalem and give each his due share fairly, and to take a written
+receipt from each of the recipients, written and signed in the recipient's name, stating how much he had
+received. And so the envoy did, faithful to those who sent him, as completely as possible.</p>
+<p>So my father did <span class="sch">⟨S: "in the Three Communities"(?)⟩</span> and in Amsterdam, when he was rabbi and head of the court
+there. I myself saw the receipt slips of the poor and needy, whoever they were, sent from there, which reached
+his holy hand by the post from Livorno. Each of the poor — scholars, orphans, widows — had signed his name on his
+slip in his own hand, declaring and testifying how much he had received through the sage of Hebron from the money
+sent into his hand from these places; each one recorded in true writing and signed with his name. Such a thing
+had not been done since Israel went into exile. Had the communities of the Ashkenazim in this western Diaspora had
+the merit to see to this from then on, the settlement of the Land of Israel by our Ashkenazi brothers would surely
+have grown ever stronger; they could have established important communities and houses of study there, and
+multiplied</p></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (2)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>כה עשה אמה&quot;ג ז&quot;ל ובאמשטרדאם</td><td>caret after ז&quot;ל, note in left margin</td><td dir='rtl'>2 cursive letters, perhaps זט / זצ (not read)</td><td>not read</td></tr><tr><td dir='rtl'>כה עשה אמה&quot;ג ז&quot;ל ^ ובאמשטרדאם</td><td>caret; short note in right margin (same as row above for p. 25)</td><td dir='rtl'>בג&quot;ק(?) (= in the Three Communities AHW)</td><td>uncertain</td></tr></table></details>
+</section>
+
+<section class="page" id="p16">
+  <header><h2>Page 16 (scan 26)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=26" target="_blank" rel="noopener">scan 26 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>ישיבות ולהרביץ תורה לשמה בארץ הקדושה דאוירא מחכים, ביחוד שהיו יכולים לעסוק בתורה בהתמדה בלי שום טרדה. וכדרך שעשו איזה קהלות וגבירים נדיבים ספרדים מאמשטרדאם ולונדון ומערי טורקייא, שהשגיחו על זה שלא ילכו לאבוד ולהפסד מעות צדקה של א&quot;י הבאות מק&quot;ק שלהם, לכן גדלו והצליחו בתי מדרשיהם וישיבותיהם וקהלותיהם של ספרדים בירושלים חברון וצפת, יושבים בהשקט ושלוה ואין מחריד. אך עוונות הדור גרמו שכלה ואבד ממון הצדקה עם קהל אשכנזים מא&quot;י, ואיזה גרגרים נפרדים שנשארו שם בצרה ובצוקה, המקום ירחם עליהם ועל כל פזורי הגולה בכלל. וכמה פעמים היה אמה&quot;ג צווח על זה, ויציע דבריו לפני גדולי אשכנז, שיתאמצו בכך להסיר המכשלה הזאת, לנעול הדלת בפני עושי עולה, והיה כדאי לקרב הגאולה, אבל צווח ולית דמשגיח, כי אין משפחה שאין בה מוכס, או שכולה מוכסין, והמוכסנים הנ&quot;ל יש להם משפחת תקיפים וגברי אלמי, המחפים עליהם ומחזיקים ידיהם, שלא להוציא בלעם מפיהם, ולקנות מעות של עניים במשיכה מרשות הרבים לרשותם להרבות בכבוד ביתם, וכמה ממון רב ועצום שקע בידי האנשים ההם, וא&quot;י הרבה מכלי משים לנצח, עד שיקנא ה&#x27; לארצו ולעמו למען שמו. ואפילו בק&quot;ק אלטונא היה הק&#x27; רב&quot;ך מתנגד אליו, שלא להוציא לפועל הדבר הגדול הזה, וקם לשטן אל הענין הטוב הלז, ומנע הטוב שלא יזכו במצוה רבה זו (ועתה זרעו נודד ללחם פורש אין להם ולא מנחם). על זאת ידוו כל הדוים. נשוב לענין. הן אלה קצות דרכיו של האיש האלהים אמה&quot;ג ז&quot;ל. לבאר כולן אי אפשר, הרבה יריעות יצטרכון וכמה דיו ישתפך וקולמוסין ישתברון, ולא יספיקו לבארם ולא יגיעו לחצי שבחו, ומקצת שבחו תמצא רשום אצלי מילדותי, והעלתיו על ספר דרוש הספדו אשר קראתי &quot;יציב פתגם&quot;; כללו של דבר שהיה לטובת ולתועלת ישראל במקומו ושלא במקומו, היה נדרש לכל שואל לשבר מלתעות עול, ורובי תורה שבכתב ושבע&quot;פ הוו דמי ליה כדמנחי בקופסא, עם בקיאות נפלאה בכל ס&#x27; שו&quot;ת, גם היה מכיר ויודע לדבר בכמה לשונות, ספרדי, איטליאני, טורקי, הגרי, אשכנז, ומבין בכל חכמה, לפני מלכים יתיצב, ונתן ה&#x27; חנו בעיני השררות בכל מקום אשר עמד שם וכמש&quot;ל קצת מזה בס&quot;ד, גם היה ותרן בממונו ובקי במילי דעלמא ובהנהגה מדינית, והיו נהנין ממנו עצה ותושיה, ועל כולם היה איש קדוש לאלהיו, חסיד גדול בכל דרכיו, וצנוע בכל עניניו. היה</p></div>
+    <div class="en" lang="en"><p>yeshivot and spread Torah for its own sake in the Holy Land, "whose air makes wise" (b. Bava Batra 158b) —
+especially as they could have studied Torah constantly, without any distraction. So did some Sephardi communities
+and generous magnates of Amsterdam, London and the cities of Turkey: they saw to it that the charity money for
+the Land of Israel that came from their communities should not be lost and wasted. Therefore the houses of
+study, the yeshivot and the communities of the Sephardim in Jerusalem, Hebron and Safed grew and prospered,
+dwelling in quiet and ease, with none to make them afraid. But the sins of the generation caused the charity
+money to be used up and lost, together with the Ashkenazi community, from the Land of Israel; and a few scattered
+gleanings remained there in trouble and distress. May God have mercy on them, and on all the scattered of the
+exile.</p>
+<p>Many times my father cried out about this, and laid his words before the great men of Germany, that they should
+exert themselves to remove this stumbling-block and to lock the door against the evil-doers — and it would have
+been worthy to bring the redemption nearer. But he cried out and no one paid attention; for "there is no family
+that has no tax-collector in it, or [else] it is all tax-collectors" (b. Shevu'ot 39a). These extortioners have
+families of powerful and violent men who cover for them and strengthen their hands, so as not to "bring out of
+their mouth what they have swallowed" (Jer. 51:44), and who acquire the money of the poor by "pulling" it from
+the public domain into their own, to increase the honour of their houses. How much great money sank into the
+hands of those men, and the Land of Israel is left desolate for ever, until the Lord is jealous for His land and
+for His people, for His name's sake.</p>
+<p>Even in the holy community of Altona, the leader R. Ber Kohen opposed him, so that this great thing should not
+be carried out. He rose up as an adversary to this good matter, and withheld the good, so that they should not
+have the merit of this great commandment. (And now his descendants wander for bread (Job 15:23); no one breaks
+bread for them (Lam. 4:4), and there is no comforter.) Over this let all who grieve, grieve.</p>
+<p>Let us return to the subject. "Lo, these are but the edges of his ways" (Job 26:14) — of the man of God, my
+father, of blessed memory. To explain them all is impossible: many sheets would be needed, much ink would be
+spilled and pens broken, and still they would not be enough to explain them, nor would they reach half of his
+praise. Part of his praise you will find written down by me from my childhood; I set it in the eulogy that I
+called <em>Yatziv Pitgam</em>.</p>
+<p>The sum of the matter <span class="sch">⟨S: a four-line note, partly read: "he had a heart … great as a lion …"⟩</span>: he was for
+the good and benefit of Israel, in his own place and outside it. He was available to every questioner, "to
+break the jaws of the wicked" (Job 29:17). Most of the Written and the Oral Torah was for him as if lying ready
+in a box, with a wonderful mastery of all the books of responsa. He also knew and could speak several languages
+— Spanish, Italian, Turkish, Hungarian, German — and understood every science. "He stood before kings"
+(Prov. 22:29), and the Lord gave him favour in the eyes of the authorities wherever he stood, as I have written
+a little of this, with God's help. He was also generous with his money and expert in worldly matters and in
+political conduct, and they had the benefit of his counsel and wisdom. Above all, he was a man holy to his God,
+a great pietist in all his ways and modest in all his affairs. He was</p></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (1)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>כללו של דבר ^ שהיה לטובת ולתועלת ישראל</td><td>caret; 4-line note in right margin</td><td dir='rtl'>היה לו לב תורה(?) / גדול כארי ו... / לשמוע(?) ... / דבר</td><td>partial</td></tr></table></details>
+</section>
+
+<section class="page" id="p17">
+  <header><h2>Page 17 (scan 27)</h2>
+  <a class="scan" href="https://hebrewbooks.org/pdfpager.aspx?req=37017&pgnum=27" target="_blank" rel="noopener">scan 27 ↗</a></header>
+  <div class="cols">
+    <div class="he" dir="rtl" lang="he"><p>מקובל גדול ונאמן בכל בית ס&quot;ח <sup class="fn">א</sup>, ותיקונים והאר&quot;י כמעט שגורים על פיו, כמו שהיה בקי בנגלה במקרא ומשנה הלכות ואגדות ש&quot;ס ופוסקים וארבעה טורים בכלל, ובהרבה שו&quot;ת קדמונים ואחרונים חדשים עם ישנים, וס&#x27; קבלה ודקדוק ופלוסופיא ושאר ידיעות היו לו למנה; כל שערי אורה חדרי תורה פתוחים לפניו, והיה צח לשון בדבור ובמכתב, כמו שיתראה מחבורו ס&#x27; שו&quot;ת הנדפס. והניח עוד תכריך כתבים בערבוביא גדולה, והיו מונחים ביד זרים שנים רבות, כי נמסרו ביד כמ&quot;ו אפרים ע&quot;ה ת&quot;י להביאם אלי, ונפטר בליסא ונשארו שם ביד אנשים אשר לא ידעתי, ואחר החקירה והפצרה נשתלחו לידי בערבוב רב, ולא אוכל לידע אם נפקד מהם מאומה; גם לא יכולתי לפקוח עיני עליהם לסדרם ולבררם מרוב טרדות, גם בהיותי עסוק במלאכת שמים שנפלה לחלקי, לסדר חבורים בתורה הקדושה, אשר שערום היותם נצרכים מאד בדורות הללו, ונתן ה&#x27; בלבי לקרבה אל המלאכה אשר נדבה רוחי מאז, לתועלת עצום ורב בעזה&quot;י כאשר יחנני קוני <sup class="fn">ב</sup>. גם יש עוד ביד גיסי הרב באמשטרדאם קצת מכתביו, ביחוד מה שהגיה והוסיף על ס&#x27; שו&quot;ת שלו שהדפיס בחייו. ובשעות פנויות היה מעיין בספרים חיצונים ועניני העולם. וממדותיו האלהיות עוד, אפילו אי יהבי ליה כל חללי דעלמא לא הוה משני בדיבוריה, ולא נשמע על פיו מעולם דבר שחוק וליצנות, אע&quot;פ שהיה בדיהא דעתיה, ומדבר עם כל אדם בסבר פנים יפות, ועם זה היה יראוי ומאוים, ואהוב וחביב לכל מכיריו, ויודעיו חייבו חזוק קדושה וטהרה ורוח יתירא, מיעוט שיחה מיעוט תענוג, מיעוט שנה, מלא רוח חכמה ויראה מוסר וענוה, לא הסתכל חוץ לד&quot;א, בתורת ה&#x27; חפצו כל היום וכל הלילה, בה יהגה, באהבתה ישגה, ואף אם אורייתא מרתחא ליה, מ&quot;מ היה מקובל על הבריות הקרובים אליו ומכירים ענינו, בידעם שכל מעשיו לשם שמים בלי שום פנייה חיצונית, ולכן היו מוסרים נפשם עליו אוהביו ותלמידיו, והיו דואגים עליו וממציאים לו פרנסה בכבוד, באופן שלא היה מוכרח להניח לעזוב מדת חסידתו, שהחזיק בה מנעוריו שלא לקבל מתנה, ולא נהנה מסעודת הרשות, ולא יכלו להעבירו על דעתו, להתרצות ולקבל דורונות, שהיו כמה קצינים רוצים להעשירו, וקדמו פניו בתשורות כלי כסף וזהב, כמו למלך יובילו שי למורא, אבל לא עלתה בידיהם.</p><ol class="knotes"><li>[א] ס&quot;ח ר״ת: ספרי-חן .</li><li>[ב] עיין לעיל (צד 8).</li></ol></div>
+    <div class="en" lang="en"><p>a great and faithful kabbalist in all the house of <em>S"Ḥ</em> <strong>[a]</strong> <span class="sch">⟨S: "<em>S"H</em>"(?), i.e. <em>Sefer ha-Zohar</em>; Bick
+reads "the book of the Zohar"⟩</span>; the <em>Tikkunim</em> and the Ari were almost fluent on his lips. So too he was expert
+in the revealed Torah — Bible and Mishnah, halakhot and aggadot, the Talmud and the codes, and the four <em>Ṭurim</em>
+in general, and in many responsa, early and late, new and old. Books of Kabbalah, grammar, philosophy and other
+knowledge were his portion; all the gates of light, the chambers of the Torah, stood open before him. He was
+eloquent in speech and in writing, as can be seen from his printed book of responsa.</p>
+<p>He also left a bundle of writings in great disorder, which lay in strangers' hands for many years. They had
+been handed to R. Efraim, of blessed memory, his disciple, to bring them to me; but he died in Lissa, and they
+stayed there in the hands of men I did not know. After inquiry and pressing they were sent to me, in great
+disorder, and I cannot know whether anything is missing from them. Nor could I turn my attention to them, to put
+them in order and sort them, because of my many burdens — and also because I was occupied with the work of
+Heaven that fell to my share, to compose works on the holy Torah, which were judged to be very much needed in
+these generations. The Lord put it into my heart to come near to the work for which my spirit had volunteered
+long ago, for great and abundant benefit, with God's help, as my Maker will grant me <strong>[b]</strong>. My brother-in-law,
+the rabbi in Amsterdam, also has some of his writings — above all what he corrected and added to his book of
+responsa, which he printed in his lifetime.</p>
+<p>And in his free hours he would read external books and worldly matters.</p>
+<blockquote>
+<p><em>Translator's note.</em> So Kahana's print. According to Schacter (<em>Ḥakirah</em> 34, 2023), the Oxford manuscript
+(p. 122b) reads <em>u-ve-sha'ei de-veit ha-kisse</em>, "and in his times in the privy" he would read external books.
+Scholem's copy has no mark at this line. Bick (Pninim text) follows Kahana.</p>
+</blockquote>
+<p>More of his godly traits: even if they had given him all the treasures of the world, he would not have gone back
+on his word. No word of jest or levity was ever heard from his mouth, although he was of a cheerful mind and
+spoke to every man with a pleasant face. With all this he was feared and held in awe, and loved and dear to all
+who knew him; and those who knew him held him bound(?) to strengthened holiness and purity and an extra spirit:
+little speech, little pleasure, little sleep (cf. Avot 6:6); full of the spirit of wisdom and fear of Heaven,
+discipline and humility. He did not look beyond his four cubits. "His delight was in the Torah of the Lord"
+all day and all night; in it he meditated, "in its love he was ever ravished" (Prov. 5:19). And though "the
+Torah made him hot" (b. Ta'anit 4a), still he was accepted by the people close to him, who knew his ways,
+because they knew that all his deeds were for the sake of Heaven, without any outward motive.</p>
+<p>Therefore his friends and disciples devoted themselves to him: they cared for him and provided him with a
+livelihood with honour, so that he was not forced to leave the trait of piety that he had held from his youth,
+not to accept a gift. He did not enjoy an optional banquet; and they could not move him against his will to
+agree to accept presents — for several leaders wanted to make him rich, and came before him with gifts of
+vessels of silver and gold, as "they bring presents to a king" (Ps. 76:12) — but they did not succeed.</p><div class="knotes-en"><h3>Kahana's notes</h3><ul>
+<li>[a] <em>S"Ḥ</em> abbreviates <em>Sifrei Ḥen</em>, "books of grace" [i.e. Kabbalah].</li>
+<li>[b] See above (p. 8).</li>
+</ul></div></div>
+  </div>
+  <details class='schbox'><summary>Scholem's marks on this page (3)</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr><tr><td dir='rtl'>מקובל גדול ונאמן בכל בית ס&quot;ח א)</td><td>note in left margin at line 1</td><td dir='rtl'>ס&quot;ה(?) or ס&quot;ג(?); Pninim/Bick reads &#x27;ספר הזוהר&#x27;, so most likely ס&quot;ה = ספר הזהר, against Kahana&#x27;s ס&quot;ח (his note: ספרי חן)</td><td>uncertain</td></tr><tr><td dir='rtl'>כאשר יחנני קוני ב) ^. גם יש עוד</td><td>caret, no margin text visible</td><td dir='rtl'>-</td><td>mark only</td></tr><tr><td dir='rtl'>ובשעות פנויות היה מעיין בספרים חיצונים</td><td>no mark (manuscript reads ובשעי דבית הכסא, per Schacter)</td><td dir='rtl'>-</td><td>checked</td></tr></table></details>
+</section>
+<p class="sub" style="padding:24px 0">Draft. Corrections welcome on GitHub.</p>
+</div>
+<script>
+(function(){var k='ms-theme',r=document.documentElement,b=document.getElementById('tb'),o=['auto','light','dark'];
+function g(){try{return localStorage.getItem(k)||'auto'}catch(e){return 'auto'}}
+function s(v){if(v==='auto')r.removeAttribute('data-theme');else r.setAttribute('data-theme',v);b.textContent='Theme: '+v;try{localStorage.setItem(k,v)}catch(e){}}
+s(g());b.onclick=function(){s(o[(o.indexOf(g())+1)%3])};})();
+</script>
+</body></html>

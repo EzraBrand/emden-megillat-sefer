@@ -1,0 +1,11 @@
+# scan (HebrewBooks PDF) and page images: large, and the scan is HebrewBooks' file
+*.pdf
+*.png
+data/raw/
+data/view/
+pages/
+kraken_test/
+# Pninim text (GFDL with invariant sections): download with scripts/fetch_pninim.ps1
+source/
+logs/
+__pycache__/
