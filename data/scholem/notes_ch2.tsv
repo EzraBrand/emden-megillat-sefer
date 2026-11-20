@@ -30,3 +30,6 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 91	75	נאבדה לי או נגנבה ממני ^ אורלוגין	caret; one word	אורלוגין (spelling)	uncertain	view s091_full
 92	76	שנשארו חייבים לשררות ^ ויועצים	caret; 2-word note (Kraken: מערלים)	מהערלים(?) ונכרים(?)	uncertain	view s092_full
 92	76	באושפיזא אצל נכרי x	x mark; one word	ערל	fairly sure	view s092_full
+94	78	ולפסול את בניו ^, דבר שלא נשמע	caret; 4-line note in right margin	partly read (... ישראל / ... / ... ותשן(?))	partial	view s094_full
+94	78	והרחיקוהו ^ מהסתפח	caret; 3-line note	partly read	partial	view s094_full
+95	79	והוציאני בפחי נפש ^	caret; one word	חור(?)	not read	view s095_full

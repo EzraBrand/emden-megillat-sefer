@@ -869,3 +869,101 @@ one large diamond of great value, the like of which there was not in all the lan
 - [a] R. Mordecai Hamburger was the brother of R. Hendele, who owed Emden a thousand Reichstaler, and also the brother of R. N. D., who owed
   him eight hundred Reichstaler; see below.
 - [b] The abbreviation means "of precious stones".
+
+## Page 78 (scan 94)
+
+he brought with him precious vessels of gold the like of which had not been seen, especially in that they were green in colour.
+The great wonder that happened to this man was printed in the news sheets printed in London every day. The news reached Frankfurt
+am Main while I was there, in a letter to the upright and God-fearing leader R. B. Hamburger, Mordecai's brother-in-law. This
+R. B. loved me very much, and at once sent a great cup of good tidings full of wine to bring me the news with great joy. He
+encouraged me not to go home yet, but first to go and travel to London. He assured me that from now on the money of the bills of
+exchange on R. Hendele and his brother R. N. D. was safe, since R. Mordecai was their brother and had been a partner with his
+brothers, "one purse for all".
+
+He too had been a faithful friend of my father, like all his father's house; and he owed him a special debt for the good my father had
+done him, when that evil teacher, R. Ph. B., and his band plotted evil against him over a bill of divorce that this lying teacher had
+arranged to give secretly by a priest, on condition **[a]**, in which there were several things astonishing to many. R. Mordecai said
+some light word expressing wonder and astonishment at the giving of that divorce, which was considered strange. For R. Mordecai was the
+son of great men, as said, and had grown up in an important community, and the thing was hard in his eyes. Through this, that side which
+was with the teacher, who were his opponents anyway, found an opening to stir up war against him. They meant to kill him and destroy
+his house and his children for nothing. They went down after his life: they expelled him from the synagogue and his children from the
+school, and drove him away ⟨S: a three-line note, partly read⟩ from sharing in the Lord's inheritance, and to disqualify his children
+⟨S: a four-line note, partly read⟩ — a thing never heard or seen in Israel, to persecute a son of the covenant, a simple and upright man,
+for truly nothing. For what he said he said in his innocence, with no ill intention at all.
+
+They would almost have swallowed him alive, "had it not been the Lord who was for him". He put it into his heart to make his distress
+known in Hamburg and to tell my father, of blessed memory, asking him whether he deserved for this a punishment harder than death, as
+said. By the Lord's kindness to him, my father "filled his hand with the inkhorn" and wrote him a clear answer to his question, clearing
+R. Mordecai of this matter entirely. His persecutors let go of him; he separated from them and made a synagogue and congregation of his
+own. A pamphlet was made of this affair, called *Ma'aseh Rav*, and R. Y. of Holešov put it in print.
+
+I return to the matter. Because of all this there was no doubt in the world that R. Mordecai would remember the old love, and acknowledge
+the good he had received from my father without any return; that he would not be ungrateful to my father's orphaned children, and would at
+least pay the said debt, after the great kindness the Blessed One had done him with miracles and wonders, as said. So the words entered my
+ears, and I took on myself the yoke of a new wandering, heavier than I could bear:
+
+**Kahana's notes**
+- [a] The abbreviation means "on condition".
+
+## Page 79 (scan 95)
+
+to go by ship across the sea, on which I had never travelled before. I hired a new servant at a high price and set out. I was sick and fell
+ill on the ship with "a shivering fever" **[a]**. We were also in danger from the ship itself: a breaker rose against us and a stormy wind
+opposed us, so that the ship was about to break. With God's help we came into harbour. I was sick and very weak, and could not stand on my
+feet; I had to hire a covered wagon, and came to the house of R. Mordecai. I was received with honour and good will. His household hurried
+to call an expert doctor to treat me and restore my health, and set aside a room for me for all my needs and wants, with good care. He, his
+honoured wife and all his household gave all this; in general they did everything needful for my comfort, with a pleasant face.
+
+When the Blessed One in His great kindness restored me to my strength and my health, I spoke with R. Mordecai and revealed to him why I had
+come so far — "for need drove me" — and showed him all the said bills of exchange I held on his two brothers. He said to me: "True, I
+recognise my brothers' handwriting; but I do not pay for them. For if I do such a thing, their other creditors will quickly come to me like
+the cocks of Bukia (b. Yoma 23a), and I shall have to give them all that I brought with me from India, and come out stripped of my property
+as before." I said to him: "Is it not a small thing that he would pay me for his brothers? He would do a great double commandment, and I will
+keep silent and not publish the matter to anyone." But for all my words of conciliation I did not succeed: he was "like the deaf adder that
+stops its ear" (Ps. 58:5) from hearing of money; and he sent me away disappointed ⟨S: a word, not read⟩.
+
+All my toil and labour was in vain: I had troubled myself to wander as far as my strength allowed, to cross deserts and to spend much money,
+all for loss. Had the winter days not already come, I would have turned back at once to go home quickly; but Heaven held me back. All the
+rainy season I had to stay there, against my will and to my anger, prolonging my exile; and I was in sorrow, grief and sighing over the loss
+of time and money — "and when shall I provide for my own house?" (Gen. 30:30). The days of sorrow were very long for me there. And after I had
+recovered my health, I once fainted on the night of the holy Sabbath, when I was below, in a lower room; there was a great commotion in the
+middle of the night, at the hour when everyone was lying asleep, and at once they brought me a remedy that helped, with God's help.
+
+That was my affair with R. Mordecai. He gave me a few guineas as help for the road, and against my will I was forced to accept them, against
+the expenses of the long road. R. Aberle too, who had vowed to my father's orphans, as said, had already grown poor before I came to London, as
+I wrote; and I was "bald on this side and bald on that". After Passover I went down in a ship into the heart of the sea and passed through
+Amsterdam.
+
+**Kahana's notes**
+- [a] See b. Pesaḥim 25b, and its meaning: in the fire of fever.
+
+## Page 80 (scan 96)
+
+On the eve of the holy Sabbath, the very day I came there, good news came to my kinsman R. A. N. **[a]**: one of his tickets had won in the
+lottery of Utrecht, with a sum of twenty-eight thousand Dutch gulden **[b]**. At that time my said kinsman, with his father-in-law's household,
+was in a low state; and from that day on the star of their fortune began to rise, and their state went up and prospered for good, growing day
+by day ever higher. The old man, simple, upright, God-fearing and intelligent, R. Zalman Norden, of blessed memory, saw a new world: in his old
+age he prospered greatly, above all in having the merit of doing many good deeds of commandments and charity, to near and far, with a generous
+spirit, and of marrying off his sons and daughters. He had eleven sons and daughters, grown up at that time, and had married off only his eldest
+daughter, whom my said kinsman married with the little dowry he gave him; afterwards he made matches as he desired.
+
+I had to take my lodging in the house of this fortunate man, who treated me like a father; great affection was shown me by him and his sons, and
+all his household were my servants. Then I fell ill with a second fever, God save us, which afflicted me for several months and held me back
+from going home quickly as I wished. The beloved people did much for me; above all my said kinsman had great trouble: it fell on him in
+particular to provide a doctor and medicines for me, and all my needs for some time.
+
+As the illness went on, there came out of me through the anus a worm several cubits long, which had been gnawing at my bowels all the time. I had
+felt it from about a year before: it seemed to me that something alive was gnawing in my body on the right side, by the loins, near my kidneys,
+and I did not know what it was. The fever too was for the good: through the constant purging the doctor gave me — his intention being to remove
+the cause of the fever by cleansing the turbid matter in the blood; the worm never entered his mind, and it seems the worm caused the fever —
+the very long worm came out with the stool in diarrhoea. I had to draw it out with my hand, for it could not come out all at once; it stayed
+hanging from my behind and was drawn out like a rope, until it made me tremble and shudder, for I thought, God forbid, that my intestines **[c]**
+were coming out and being drawn along. At first it did not occur to me that such a long worm could grow in the belly of a living person. It was a
+great good, removing such an illness from me; praised be the Helper. So almost the whole summer passed in this way in Amsterdam.
+
+After this I travelled straight home, without any stay or delay,
+
+**Kahana's notes**
+- [a] See (p. 50); he was the servant of Ḥakham Tzvi without taking pay from him; see there.
+- [b] The abbreviation means "Dutch".
+- [c] The abbreviation means "intestines".
