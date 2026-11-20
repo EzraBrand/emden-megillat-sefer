@@ -44,3 +44,7 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 99	83	וקראונו יהודים ^ נבזים	caret; one word	כלבים	fairly sure	view s099_full
 99	83	האנשים x הללו	x mark; one word	הפושעים	fairly sure	view s099_full
 99	83	על הסוחר ^ האיטאליאני	caret; one word	הערל(?)	uncertain	view s099_full
+100	84	נפרדו מאתנו ^ העוכרים אותנו	caret; one word	הרשעים	fairly sure	view s100_full
+100	84	שהוחלק הקרון שאני יושב בו מצד שרגלי ^ בין שתי הקרונות	caret; 5-line note in right margin	... קרון אחר ... / ... ונתחככה(?) רגלי (partly read)	partial	view s100_full
+100	84	במשיחות וסיכות חריפות x	x mark; one word	ורפואות(?)	uncertain	view s100_full
+101	85	על מנת שלא יהא אדם רשאי ... (line 21)	short note at scan edge (cut off)	-	not read (cut by scan edge)	view s101_full

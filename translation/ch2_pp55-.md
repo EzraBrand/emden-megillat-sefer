@@ -1067,3 +1067,95 @@ the abyss. When we came near the very dangerous place, these men drove us out of
 and walked on foot, while they stayed sitting securely in the coach. We were walking only a few steps from the coach — and behold, the coach
 overturned and fell on its face down the slope beside the road, as said. It was loaded with a heavy burden of chests and boxes, and some of them fell on
 the Italian merchant ⟨S: perhaps "the uncircumcised"⟩; they almost broke all his bones, and he fell down battered and very ill; he could no longer
+
+## Page 84 (scan 100)
+
+get back into the coach, and had to stay there on the road and look for lodging in a nearby village. The priest was not hurt at all;
+even so the merchant would not let him leave him, saying that he was obliged to keep him comfortable in case he should die. Besides,
+their hearts almost died within them, knowing that we rejoiced at their fall; "the Lord showed us" (cf. Ps. 118:7) [what happens to]
+those who hope in Him. In this way our troublers ⟨S: "the wicked"⟩ parted from us, and we got away from them in peace; we saw vengeance
+on our enemies. We went on our way in the name of the Lord, joyful and glad of heart, sitting by ourselves in a roomy coach, thanking
+and blessing the Blessed One for the good He had done us in this; and we could keep His commandments without adversary or evil mishap on
+the road. We reached the city of Brünn, with God's help, whole and glad of heart. There I saw the priest who had parted from me on the road;
+he nodded his head at me and said that he would never again travel with a Jew in one coach.
+
+When I returned home from Brünn it was the middle of winter, in the days of terrible frost. I travelled with the people of the fair in a
+carriage without wheels, sitting on its runners, which they call a sledge; it is drawn over the ice and snow at speed, for it slides well. It
+was crowded for all the people of the vehicle to sit together, for they were many, and I had to put one leg outside the sledge, as many others
+did. While I sat like this there was a slope and descent in the road, so that the sledge I was sitting in slid, on the side where my leg was
+between the two sledges ⟨S: a five-line note, partly read: "… another sledge … and my leg was rubbed(?)"⟩. I thought the joint of my foot had been
+crushed, for it hurt me very much and I could not stand on my feet; and I came home "like the old man Sava, limping on my thigh". I had to treat it
+with ointments and sharp plasters ⟨S: a word, perhaps "and remedies"⟩ for some weeks, until my foot returned to its strength as before, with God's
+help.
+
+After that great and terrible journey I came home empty-handed: the money was gone from my vessels. My eldest son, may he live — now grown,
+thank God — was then about seven and studying Gemara. My wife the rebbetzin, of blessed memory, hired a teacher for him alone in my house, and
+his board was on me besides his wage. For my father-in-law the rabbi, of blessed memory, though he kept a teacher in his house, begrudged his
+grandson, my son, may he live, because he had a better mind and was quicker and sharper than his own sons; so out of jealousy he did not let him
+study in one group with his sons. A heavy yoke was laid on me. A male child had died to me before I returned, and my wife, of blessed memory,
+became pregnant at once, and the burden of expense on me grew. I brought nothing back from that long journey except toil and labour, loss of time
+and money. For everything praised be the Creator and Sustainer, that "my life was given me for a prey" in all the many experiences, troubles
+"bound up on my shoulder".
+
+But this much I gained: I saw for myself a way of trade in the countries of Holland, by which I could earn something **[a]**, with God's help,
+
+**Kahana's notes**
+- [a] *Me'umah*, meaning "something"; see earlier (p. 66).
+
+## Page 85 (scan 101)
+
+and still be diligent at my studies. I tried sending goats' hair and wild goats' hair and the wool of the sheep of Hungary, which was white and
+very long and is not found in other countries. I bought such goods from the people of the holy community of Brod, who bring it from the lands of
+Hungary, and sent it to Amsterdam to an acquaintance there, who was in partnership with me in this. For the price of the money they sent me from
+there some goods that were good in Moravia and Hungary, which the people of that community **[a]**, who travelled to Hungary, bought from me. I saw
+some good sign in these goods, and I could have stayed at home without great trouble in business in this way. But not many days passed before the
+price of these goods went down and fell greatly in Amsterdam, and a considerable amount was left lying there, which could not be sold even at a
+great loss — besides the money I had sunk with the people of Hungary who buy the hair and the wool there. I had advanced them money on account from
+time to time: for the money they had received from me they used to bring goods, and when they brought them to me I had to give fresh money for the
+future; and some of them kept the money by fraud and brought me nothing for my money.
+
+Before I leave the land of Moravia in this story, I will tell, as is due, some of the great things the Blessed One did for me there, what I remember;
+for much I have forgotten, and it has gone from my mind at this time. First, in the matter of trade: at its beginning I called it "contention" (Gen.
+26:20), for jealous people contended with me over it. A man from Germany rose against me from afar as an adversary, to settle in Brod; he bought a
+right of residence in the community, and he also bought the trade in the said hair from the authorities at a high price, on condition that no one
+else would be allowed to deal in this trade but he alone. Not only did he come from outside to my place to encroach on my border, but he wanted to
+stop me by force from dealing in this trade, and thought to inform against me to ruin me. The thing was already close to harming me, and it was not
+possible for me to stand against him. And behold, suddenly he fell ill with a hard illness, God save us, and died within a short time, soon after his
+coming and after taking a wife. He was a young man like a cedar, tall, mighty and very strong. May his death be his atonement. And the fear on every
+side was removed from me. After some time his wife, whom he had left a widow, after she had squandered what he left her, went round the towns and also
+passed through here, Altona.
+
+Again a miracle happened to me with an apostate. While he was outwardly a Jew he pawned with me pledges of rings with precious stones; afterwards he
+converted there in Brod,
+
+**Kahana's notes**
+- [a] The abbreviation means "the said community".
+
+## Page 86 (scan 102)
+
+and then it became known that he had already been an apostate elsewhere, and had come to Brod in the guise of a rich Jew from the land of Bohemia.
+From what was heard at that time he was also a thief and a robber; he had acquired property, and his hands were sufficient for him; he fled and came to
+Brod to make a match and settle there. When his money was used up he converted again and went among the gentiles, and informed against me to the
+authorities there, as if he had a vast fortune with me. By the Lord's mercy on me I got out of this affair too in peace. Although I was sued in the
+courts, he could not take anything from me unlawfully; they let me take first what was due to me by my account, by the valuation they made of those
+pledges, and the rest I was to return to him; and so it was done. I lost nothing from my purse, thank God.
+
+Another hard event passed over me there: I was in great danger of body and money, and the Lord brought me out into a broad place and delivered me from
+the fowler's snare. The matter was this. Once, after the said trade had collapsed, I received from Amsterdam the balance of my account from the said
+partnership. The bill of exchange was made out in the name of the provincial rabbi R. B., and he sent me a bill for that sum on his correspondent Gabriel
+Wimpfen in Breslau, to be paid there. I did not want to hand it to another person; I also thought that perhaps I could earn something with the money,
+through some goods that come from there. So I travelled with people of Moravia to collect the money of this bill.
+
+When I came to the said Gabriel to claim my money, he said to me: "The money is ready; but I advise you to take instead goods — precious stones and
+pearls that I have; you can earn much with them in Moravia, and I will do you a favour and sell to you cheaply, for the sake of old love" — for his
+father had been a parnas in Amsterdam in my father's days — "and for the great affection known to me from him", according to his words and his
+promise. With this he stole my heart, especially as he seemed rich at the time; so I believed his deceitful words and relied very much on him and on the
+vision of his words, that he meant my good. For I had no knowledge or understanding at all of his goods, and I took from him at his valuation. By his
+account I remained owing him seventy-seven gulden beyond the amount of the bill he received from me in exchange for the goods, and I had to give him a
+bill for seventy-seven gulden, to be paid at a fixed time, for my heart trusted him that he would not deceive me.
+
+But as soon as I left his house with his goods into the street of the city, I found merchants who understood these things, men of standing who truly
+loved me. I showed them what I had bought for money, as one who asks and takes counsel after the deed, for I was young in years and not experienced in
+trade at all. These men, who were at peace with me, rebuked me and said to me: "What have you done? Your 'friend' has deceived you: these are not worth
+half their price for a hundred Reichstaler, if even half; and a string of pearls, which are sold by weight, he sold you by number, so that it comes to a
+huge sum. So hurry, go back to him, return his goods to him and take your money."
