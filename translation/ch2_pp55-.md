@@ -1159,3 +1159,101 @@ loved me. I showed them what I had bought for money, as one who asks and takes c
 trade at all. These men, who were at peace with me, rebuked me and said to me: "What have you done? Your 'friend' has deceived you: these are not worth
 half their price for a hundred Reichstaler, if even half; and a string of pearls, which are sold by weight, he sold you by number, so that it comes to a
 huge sum. So hurry, go back to him, return his goods to him and take your money."
+
+## Page 87 (scan 103)
+
+So I did: I turned back on my steps and wanted to return them to him and take my money; for I had understood from his words that the
+choice was mine to cancel the sale as I wished, since I had relied on his words alone. It seemed a simple thing to me that he would agree
+to take back his goods and give me my money, for what had I done to him? He lost nothing by it. But I was wrong in my reckoning: when I
+came to him with these words, "his ear was uncircumcised" to hearing; for he said, what is done cannot be undone. I cried out like a crane:
+"Did you not promise me that you meant my good? Now I do not want your 'good' against my will!" — "we cried, take back your favours" —
+and no one paid attention, for his hand was strong there, and who can go to law with one stronger than himself? Then I understood that he
+was a man of iniquity and deceit; and his end showed that his hand was already failing. When I saw that he was stronger than me, I went my
+way.
+
+I went home loaded with such goods, for others too had become jealous of him and gave me such goods on credit. His brother too made himself
+out to be doing me a kindness, to benefit me, and sold me goods on credit, in the name of brotherhood ⟨S: a note, not read⟩, as said. When I
+reached home it became clearly known to me that "my lovers deceived me" (Lam. 1:19). So the goods I had taken from his brother I sent back at
+once, and the bill I had given for them was returned to me. But Gabriel's goods, for which my money was in his hands, could not be returned, as
+said; it was already with him "stolen goods that have been eaten". I had to seek ways and means somewhat strange to me, and "counsels from afar",
+to dispose of them, for they came to a considerable sum — all I had was sunk in them — besides what I had bound myself to pay him, as said.
+
+I spoke with merchants of Hungary and showed them the goods, and they promised to act for me, to search the land for buyers for such things,
+which are not "quick to sell". A broker toiled and found a lord in Hungary who wanted to see these things in order to buy them. So he urged me to
+travel there myself to complete the sale quickly. Out of great need I agreed to set out, over mountain passes doubly dangerous: both because of
+the high mountains and crooked paths that I had never tried before, and a people I did not know, whose speech I did not recognise and whose
+language I did not know; and because of the robbers ⟨S: perhaps "the bandits"⟩ there among the mountains, "who are like wild beasts".
+
+From all these I escaped with God's help; but another very dangerous bear attacked me. I avoided the customs on the advice of my broker, who
+assured me that he knew the roads and would lead me safely by a place where the hand of the customs guards in Hungary would not reach me — for the
+customs yoke there is great and heavy, especially on precious things like jewels and *Galanterie*, which they can value as they wish, and one cannot
+stand against them. So I listened to that man's advice, thinking he was sure of it, and that no sin would befall me in this as I crossed the
+border. I took with me all the said goods, and I added everything else I had of precious
+
+## Page 88 (scan 104)
+
+things, and crossed into Hungary as far as the place of that lord who, according to the broker, wanted to buy my goods; and he promised me that I
+would gather handfuls of blessing for my goods. When I thought I had already reached a safe place, the matter became known to the great customs
+officer there. He sent his servants after me to seize me; and so they did: they took me and beat me, and brought me and all I had to the customs
+house. I begged him to forgive me, for I did not know the custom of the country and had never travelled this way; I was innocent of sin, and for a
+first time he ought to have pity on me. Throwing myself before him, I begged him to settle with me as was fitting, and I would pay. But he set his
+eyes on the money, and thought to swallow it all, or at least half or a third of the business, as is the law of customs officers.
+
+Then I spoke a little harshly to him and said: "Know that you will not profit by this, for I too have powerful people at the seat of judgement, the
+city of Pressburg; when the matter comes there, they will stand at my right hand." The customs officer was a German; he wrote down all the words I
+said to him, and "like the deaf adder he stopped his ear". He said to me: "There is no other way before me but that the matter come to judgement in
+the said royal city; as the judges there decide, so it will stand." He went there himself with the goods he had taken from me, to bring his claims
+against me; and I went by this dangerous road, and at great expense came to Pressburg.
+
+I lodged in the house of my relative the rabbi R. Moses, who had been head of the yeshivah in Lwów and was then living in Pressburg, married to the
+daughter of R. L. Mokhiaḥ. This man Moses did me good in this affair with all his heart. I was in his house from before Passover until after
+Shavuot, all the days until my judgement came to light, and he honoured me greatly. And it seems that from ⟨S: "Heaven it was"⟩ this affair, by deep
+counsel, events were rolled in this way, and He drew me with cords of man to come there for another, hidden purpose.
+
+For while I was in the said rabbi's house he revealed to me in secret how an unclean thing had happened. Before I came there, a traveller had passed
+through, coming from Prague from Eybeschütz's yeshivah, and in his hand libellous writings of this man ⟨S: a word, perhaps "the unclean"⟩. At that
+time, through the efforts of the head of the court of Prague with the leaders of Vienna, those returning from Prague and bringing with them ⟨S: a
+five-line note, partly read⟩ writings of their master's novellae were searched; and so it was done with this man in Pressburg, a short time before I
+came there. The community's beadles suddenly searched the traveller's room, opened his chest and found the manuscript book of A. Sh. **[a]** ⟨S: a
+three-line note, partly read⟩, whose opening is: "And I came this day to the fountain" (Gen. 24:42). This book was handed to the said rabbi R. Moses;
+and when I came there he revealed to me in secret that it had been given to him to examine, and that the things found in it looked strange and
+astonishing. But he did not know and was not expert
+
+**Kahana's notes**
+- [a] The abbreviation means Eybeschütz.
+
+## Page 89 (scan 105)
+
+in matters of Kabbalah; so [he was not] a judge in this matter. Therefore he entreated me, as one who takes counsel, and asked me what should be done
+with it according to law: whether to reveal it publicly, or to condemn it to burning or to hiding away. He handed it to me to study and learn its
+nature, and as I should assess it, so it would stand: "the decision is upon me" — though I was then in my early youth, tender in years, and had not
+even the beginning of a beard.
+
+I agreed to his request, took the said manuscript **[a]** from his hand, studied it and "passed between its pieces"; and the hair of my flesh stood up
+as I read two or three columns of it, from the great blasphemies and revilings and the perversion of the words of the living God in the secrets of
+Kabbalah ⟨S: perhaps "a book of heresy and apostasy"⟩. So I told the said rabbi that there was no doubt that it ⟨S: a five-line note, partly read: "…
+a heretic and apostate …"⟩ certainly required burning; and with this I advised him not to publicise the matter, for I judged that no benefit would come
+of it, but rather harm, as I have already written in *Torat ha-Kena'ot* **[b]**.
+
+From then on I knew with complete certainty that this man Eybeschütz was a bear lying in wait ⟨S: a word, not read⟩ for Judaism, an *aḥer* — "Aḥer,
+Yehonatan Eybeschütz" — in secret. The thing entered my heart like the venom of a serpent, though I hid the matters within me, for I had no strength,
+because of my youth. Also, he had not signed his name on the book, and I knew he would deny the known and say that it was not his work, since his name
+was not expressly called on it in the body of the manuscript; and his students who brought it in their hands to spread it quietly hide the author's name
+in public and reveal it only to the men of their secret. It was not possible to set anything right at that time, so I kept silent and kept the matter;
+and it was abominable to me to hear the mention of Eybeschütz ⟨S: a word, not read⟩.
+
+Now, at this time, when the Blessed One has occupied me in the war of the commandment, to wrestle with him, I set my mind to the said incident, and
+understood that ⟨S: a two-line note, partly read: "… the troubler of Israel"⟩ "this was from the Lord" for this purpose: the Blessed One brought me to
+Pressburg only for this — that I was brought here to be shown the abominations of this man ⟨S: "the apostate"⟩. That was the main thing. I will tell you
+further what happened afterwards to the said rabbi; but first I will tell the end of the matter of avoiding the said customs, which was also with great
+kindness.
+
+The Blessed One provided me there with an honoured man named R. Daniel, of blessed memory. He was an intercessor in such matters himself, and did many
+good things for our people ⟨S: a word, perhaps "my nation"⟩, the children of Israel, to save their property, for he had a hand and a name in the courts
+there. So he did good to me and took up this commandment with all his heart, and spent a long time on this affair — especially as those were the days of
+the court sessions, and he could not eat until several hours
+
+**Kahana's notes**
+- [a] Emden tells the same in *Torat ha-Kena'ot* (p. 86), and further on there, in his letter to the gaon R. David Oppenheim (p. 88) of 7 Kislev 5486
+  [1725], he says: "When the Lord brought me by some cause to the holy community of Pressburg before last Passover", etc.
+- [b] There (pp. 88, 91), and in *Hit'avkut* (fol. 1), Lemberg printing.
