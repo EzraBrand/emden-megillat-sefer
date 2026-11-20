@@ -66,3 +66,5 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 62	50	וש"ת קדמונים חדשים עם ישנים ^	caret; 5-line note in right margin (Kraken: ... / ספרי ... / ודקדוק ופילוסופיא / ...)	וכל ספרי ... / ... / ספרי ... / ודקדוק ופילוסופיא / אלקות(?) (partly read)	partial	view s062_full
 63	51	דבורו צח שפתו ברור ^ מללו	caret; 7-line note in right margin	partly read (Kraken fragments not usable)	partial	view s063_full
 63	51	בא הנה ^ ר"ה שנתקבל לאב"ד בלונדון	caret; short note	not read	not read	view s063_full
+65	53	שדרש הרב ר"א חתנו של ^ מרדכי כהן	caret; 5-line note in right margin (Kraken: ... אב"ד בנ"ש / שהשיא בנו לבתו / של מרדכי כהן)	והיה שם ג"כ / הרב ... / ... אב"ד בנ"ש / שהשיא בנו לבתו / של מרדכי כהן	partial (lines 3-5 fairly sure)	view s065_full
+66	54	שמחמת הסבות הרבות ^ והרעות	caret; 7-line note in right margin (Kraken: ... / מעודי לא הרפוני / ...)	המתחדשות(?) / ... / ... מעודי לא הרפוני(?) / ... / קורות מרובות(?) (partly read)	partial	view s066_full
