@@ -1,0 +1,71 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+46	2	insert		כל הנעשה עמו	א
+46	5	delete	זלייוף אגנו		א
+46	6	replace	במעט	כמעט	א
+46	7	delete	העם		א
+46	7	replace	שבעיר לונדון	שבלונדון	א
+46	8	replace	עצמן	עצמם	א
+46	9	replace	נאספים	הנאספים	א
+46	13	replace	אכסניא	אכסניה	א
+46	14	replace	ולהשתעשע	ולהשתשע	א
+46	15	replace	להאכסניא,	להאכסניה	א
+46	18	replace	הזכיה	הזכות	א
+46	19	replace	מידו,	היינו מתנות מידם,	א
+46	20	replace	האלקים,	האלהים.	א
+46	20	replace	מדתו	ממדתו	א
+46	21	replace	"אף ע""פ"	אעפ״י	א
+46	24	replace	והכנסה	וההכנסה	א
+46	25	delete	רחוקה		א
+46	26	replace	בל	כל	א
+46	28	replace	שבמו	שכמו	א
+46	29	replace	הקהל ספרדים	הספרדים	א
+46	29	replace	אליו	לו	א
+46	30	replace	בכיס	מכיס	א
+46	30	insert		לונדון	א
+46	32	insert		מאוד	א
+46	32	replace	דבר	הדבר	א
+46	34	delete	מאות, ארבע		א
+47	2	replace	"פו""מ"	פרנסי וממוני	א
+47	2	replace	וזה	וזאת	א
+47	4	replace	כשהגיעה	כשהגיע	א
+47	4	replace	שמועת	שמע	א
+47	5	delete	אחד		א
+47	5	replace	מלובש שחור,	מלובשים שחורים	א
+47	7	replace	"פו""מ"	פרנסי ומנהיגי	א
+47	8	replace	יתירה	יהירה	א
+47	9	replace	הפצרתם	הפצרותיהם	א
+47	10	replace	בי	כי	א
+47	11	replace	הלב	הלז	א
+47	13	insert		בחדר	א
+47	13	delete	בחדר אחר.		א
+47	13	insert		ז״ל	א
+47	17	delete	"ועיין שאילת יעבץ סימן קע""א מ""ש מזה הענין בס""ד."		א
+47	18	replace	בני	בבי	א
+47	19	replace	"הי""ת,"	השם ית',	א
+47	21	replace	קטנה.	הקטנה.	א
+47	23	replace	שלח	שלה	א
+47	23	replace	פולין,	פולין[^170א]	א
+47	24	insert		היה	א
+47	24	replace	"מהר""ד"	"מו""ה ר׳ דוד"	א
+47	25	replace	בל	כל	א
+47	28	delete	"הנ""ל"		א
+47	31	replace	הראשון	הראשונה	א
+48	5	replace	נסכם	מסכים	א
+48	5	replace	שאלתה	שאלה	א
+48	6	delete	שבועות		א
+48	7	insert		שבועות	א
+48	7	delete	זה		א
+48	7	replace	"טו""מ"	ט״ו	א
+48	14	replace	איזה	איזו	א
+48	16	replace	"עה""ד"	על דעתה	א
+48	16	insert		אם	א
+48	19	replace	הלברשטט, והק'	האלברשטאט והקצין	א
+48	22	replace	אני	אבי	א
+48	23	replace	בהם	בו	א
+48	23	replace	קולמום	קולמוס	א
+48	25	replace	כמו' וואלף	כמו״ה וואלך	א
+48	26	insert		מאוד	א
+48	28	replace	נתתי	בתתי	א
+48	29	replace	להשנותיו	להשגותיו	א
+48	29	insert		מאומה	א
+48	29	replace	אני	אבי	א
