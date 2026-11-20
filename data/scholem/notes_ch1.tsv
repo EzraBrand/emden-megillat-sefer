@@ -43,3 +43,5 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 47	37	בקשתם וחפצם הלב ^ בתחבולה	caret; one word	לב(?)	uncertain	view s047_full
 48	38	והק' ר' בנימן x עשה לו כבוד	x mark; one word	אהרן(?) (Kraken: הראן)	uncertain	view s048_full
 48	38	וואלף מירלש x ע"ה	x mark; one word	מינקלש(?) (Kraken: אינקלש)	uncertain	view s048_full
+50	40	ר' אברלי לונדון [וא"פ גיסו] ... והגישו עצומותיהם ^	caret; 5-line note in right margin (Kraken fragments: שחיה אסוכסך / גיסו)	אחיו(?) ... / ... גיסו ... (partly read)	partial	view s050_full
+50	40	וחקור דין ואהבת האמת ^	caret; 6-line note in right margin (Kraken fragments: וכל ... / שהעולם אינו / ... אותו / ממקומו מלבוא)	... שהעולם אינו ... / ... ממקומו מלבוא (partly read)	partial	view s050_full
