@@ -1349,3 +1349,98 @@ initiative alone, without having seen me or known me face to face; only by repor
 - [a] He is the rabbi R. Gabriel Eskeles son of R. Judah Leib, who died in 5478 [1718]; see the text of his tombstone in *Kevutzat Ḥakhamim* (p. 118),
   and *Edut be-Ya'akov* (fol. 3b), and the memoirs of Glückel of Hameln (p. 321).
 - [b] He is the rabbi and magnate R. Samson Wertheimer, who died on 17 Av 5484 [1724]; see about him the book *Simson Wertheimer* by Prof. D. Kaufmann.
+
+## Page 93 (scan 109)
+
+I see him made rich." A few days later R. Samson, of blessed memory, died. Also the leader R. M. Pizrang(?) once wanted to take me into
+his house, and promised that I would earn at least a thousand Reichstaler a year; and I did not want to sit at other people's tables. Also,
+when I was in Pressburg because of the said affair, important people who loved me pressed me to travel with them to Vienna — it is not far,
+only a little more than a day's journey — and I could easily make up what I had lost in Pressburg, for I had many and powerful friends in
+Vienna who had always wanted me. I made their word as nothing, for it was very strange to me to benefit from flesh and blood as a gift. And
+even though I longed to see the city of Vienna, and moreover the opportunity to go there without expense and with great honour, I refrained
+from this too, for fear of the Catholic priests who carry the idol through the streets of Vienna, as is known, so that whoever meets them puts
+his life in danger. So I never saw the city of Vienna at all.
+
+With all this I had many friends there who made me a livelihood, as said, without my having courted or flattered any of them, in writing or by
+mouth. They actually did it: suddenly they sent me a sum in broken gold, and I accepted it once, at that time, which was a time of distress for
+me; and I saw that it was from the Lord to bring me my bread **[a]** [at that time through them. But several times] I cast away such and such.
+For in my own place, Brod, many wanted to fix a livelihood for me, so that I would dwell with honour among them. The provincial rabbi R. G. also
+desired my honour; he praised me and revealed his mind several times that he wanted to do me good with eagerness; also in a letter to me he
+showed me great affection. None of this counted with me.
+
+I also left behind of my own a considerable sum in Moravia in debts, which I had in the hands of several people on bonds, especially what I had
+given in the trade in hair, as said. A certain sum was also sunk for me in the trade in hair that I had sent to Amsterdam on my own account to
+the hand of my kinsman R. A. N.; it lay there for some time "like a stone that no one turns over". So I set out first by myself and passed the
+long road as far as Amsterdam, and did not benefit from any leader even a meal. Even when I was in Dresden and the leader R. Jonah of Dresden
+pressed me to dine with him, I made his word as nothing; all who saw and heard were amazed at the humility he showed me, and that he could not
+persuade me, and they said they had never seen a guest refuse so great and powerful a leader. I will not dwell on the many terrible hardships that
+found me on that hard road, for they are past counting.
+
+I also passed through Hanover. At that time the head of the court of Prague was there, for the wedding that his son, the rabbi of Holešov, made
+for his daughter, who married the son of the leader
+
+**Kahana's notes**
+- [a] Here a few words are missing in the manuscript, and I have completed them from the context.
+
+## Page 94 (scan 110)
+
+R. A. A., who was the rabbi of Hildesheim. He wanted to honour me with an important present, "handfuls of good", gold coins, and I did not want
+to take it. He also spoke in my praise and wanted to keep me to study with his son's said son-in-law. But I went on my way, weary and with weak
+hands, to Amsterdam, and lodged in the house of my said kinsman.
+
+He and all his father-in-law's household had already risen to great standing since the time I had been in Amsterdam once before and lodged with
+them, as said. But at that time, when I came back a second time to live with them one winter — to see meanwhile what to do for my household and
+with the said goods that remained lying there — the Holy One, blessed be He, in His mercy on them, created for them something new through which
+they became very rich: a newly opened spring. The matter is a mine of stones ⟨S: a word, not read⟩ that was discovered in the land of Brazil, the
+West Indies — "a mine for silver and a place for gold" (Job 28:1). Diamonds were found there in great abundance, without anyone besides them
+knowing of it; for until then there had been none in England and Holland except from the East Indies alone, since the days of old.
+
+For several years the matter remained secret. The traders, sailors who came from Portugal, brought those new precious stones to England in secret
+and quietly, to try them; for they were afraid to publicise the matter of this new mine of diamonds they had found, lest the merchants in precious
+stones would not buy them from them as real diamonds, since they came from a place where it had never been known that such stones grew — and
+besides, they were not as large or as good as those of the East Indies, from which they had been brought since ancient times. So the men of Portugal
+who found the mine did this wisely: they kept the matter a hidden secret, and handed a certain quantity quietly to the said sailors.
+
+When these came to London, they revealed their secret to the two sons of the old man R. Z. N., of blessed memory, the brothers R. L. and Reuben, who
+were already dealing in the gold brought there by Portuguese ships, whom they knew, since they used to buy broken gold from them. From that too they
+had begun to grow rich. These sailors held the brothers to be trustworthy and discreet in the land; so they trusted them to reveal to them this
+secret of theirs about the new diamonds, without making it known to anyone else at all. The said merchants took from them the new precious stones
+that the Portuguese sailors they knew had brought in their hands; they tried, and succeeded, and the Blessed One sent them great blessing through it.
+
+The blessing was found in great abundance in the hands of these brothers from two sides. On one side, because the Portuguese traders sold cheaply,
+since the stones had come to them as a find and in huge abundance, and they worried that they would find no buyers at all, in case they were thought
+forgeries or very poor; so they agreed at once to the price the said brothers fixed for them — the more so as they were held trustworthy, and so that
+their secret should not be published and become a snare, as said. On the other side, buyers and much money were available at that time; for in those
+days there were many great and very rich moneyed men in those countries, who had gained great wealth from trade in shares, and did not know what to do
+with the money
+
+## Page 95 (scan 111)
+
+to keep it safe; they were afraid of losing it in the said trade, which rises and falls greatly. So they put their money into the trade in precious
+stones, and silver counted for nothing in their eyes; they bought precious stones in great quantity, at whatever price the traders asked.
+
+From this these men became very, very rich, without an evil eye ruling over them, for no one else knew. They sold their goods as "quick-selling"
+precious stones coming from the East Indies, and no one noticed their secret, for the Portuguese sailors hid the matter themselves, as said. The said
+brothers also bound themselves to them afterwards, and undertook to take their goods at a price fair to them, on condition that the matter would not
+become known to anyone else; and they kept their faith for several years, for money was quick in their eyes, and they were satisfied with the price
+they fixed. So the men of the house of R. Z. N., of blessed memory, grew great and rich, and no one [knew]. Although they were then recognised as great
+rich men, no one estimated even a half, or a third or a quarter, of the wealth the house of R. Z. N. attained. They grew and prospered and bore fruit
+upwards.
+
+In the course of time, after several years, the world noticed how these men kept growing beyond the usual and beyond nature, and also gave charity and
+did kindness in great abundance, a thing astonishing to many. So other merchants who envied them did not rest or keep quiet; they inquired much into the
+matter, searched and found their secret — "they searched out his hidden places" (Obad. 1:6) — and also obtained some of this new merchandise. One by one
+the trade spread through this and became known, until now the hand of all the merchants rules over it, and the price has also risen. Even so they kept
+precedence with those who brought that merchandise at first, and kept at it for many years, and earned thousands and tens of thousands, precious wealth
+beyond reckoning; and all the other merchants truly did not reach their ankles. They gathered "a handful of quietness"; their table was full of fatness,
+satisfied with favour and the blessing of the Lord. All this came about while I was in their house, the first time and the second.
+
+But my own trade fell down until it left no remnant, any sum I could live on. The hair goods that lay in their attic a long time were partly eaten by the
+moth, and the rest was sold at a great loss. And the Lord put it into the heart of these good men to do me good: for some years they supported me of
+their own accord; they volunteered and fixed on themselves a certain sum a year for my livelihood, and at first they added and did more than their fixed
+gift.
+
+If I set out to put into a book the new sufferings and the hard events that found me in those days when I stayed in Amsterdam a second time, because of the
+strength of the melancholy, God save us, the reader would be astonished and would not believe it possible; it could not be imagined that a stout-hearted
+man among the mighty could bear them, let alone a weak man of tender nature like me, "stricken, smitten of God and afflicted" (Isa. 53:4) as it was. The
+cause was the great loss I had in the said goods, which touched my heart; so my pain grew great,
