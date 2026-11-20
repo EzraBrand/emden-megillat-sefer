@@ -769,3 +769,103 @@ with merchandise of precious stones **[a]**, a huge sum, and he was
 
 **Kahana's notes**
 - [a] The abbreviation means "precious stones".
+
+## Page 75 (scan 91)
+
+the son was "as the cold of snow in the time of harvest" (Prov. 25:13); he was to those who sent him an envoy of ruin. He went
+and came back with nothing, and lost all that his father had given into his hand. For the hundred thousand handed to him
+⟨S: a three-line note, partly read; it seems to say where the money went⟩ he brought back "the price of a dog": he brought
+home a little smooth hairless dog in exchange for the said merchandise. And the very great wealth that R. Aberle had earned
+in the previous years **[a]** through the righteous man's blessing, as I wrote, he lost entirely "in an evil venture" when he
+delayed his vow; he went back to his former state and was left stripped of his property. So I came out of this affair too
+disappointed, as I will write below, without being able to get even enough for the expenses of the road.
+
+Only the parnassim of the Three Communities took from me a certain number of copies of my father's responsa, which I had in my
+hands along the way, as said. Apart from this I would take nothing from anyone. Even when the leader R. Ber Kohen, of blessed
+memory, sent me a gift with honour while I was lodging in his house at Purim, I did not accept it and sent the messenger back.
+Nor did I send copies of the book as gifts to individual honoured leaders, as authors and printers of books do in this time,
+sending copies as presents so that a fine portion will come back to them. I guarded myself from this all along that long road.
+Although the land of Germany was then at the height of wealth, and I could have gained riches through my father's books had I
+acted in that way, I was careful about it as much as I could, not to burden anyone; only to whoever wanted them of his own free
+will. In this way I sold very little. Even in Hamburg I could have placed many more of the books, had I not been concerned for
+the honour of the Torah, which ought not to go round to lodgings that are not its own; "and my exaltation is our exaltation"
+**[b]** ⟨S: a word, not read⟩ — although in truth many loved me and remembered my fathers as well.
+
+At that time my father's great friend, the leader Joel Schwab, became my enemy without cause, because I had taken my lodging with
+R. Ber Kohen, who was his great enemy, as said. Although to my face he showed no hatred or enmity, only love and affection, he
+kept the matter in his heart and bore me a strong grudge and much hatred for several years, as I will write, with God's help.
+Also, in R. Ber Kohen's house a precious watch **[c]** of mine was lost or stolen.
+
+From Hamburg I went to Hanover, and took with me some copies of my father's responsa. I lodged with Gumpel Hanover, who with his
+brother R. A. were in those days still, as it seemed, at the height of standing and honour. I stayed there a few days; they treated
+me with every honour and cleared a special, honoured room for me. In those days Gumpel's brother,
+
+**Kahana's notes**
+- [a] See earlier (p. 50).
+- [b] See b. Kiddushin 42b, "they divided in the increase".
+- [c] That is, a clock.
+
+## Page 76 (scan 92)
+
+the leader R. A., made a circumcision feast like a royal table; and immediately afterwards, in that same week, these brothers went
+into a great and enormous bankruptcy. They were left owing to lords ⟨S: perhaps "of the uncircumcised"⟩ and councillors; they lost
+the great wealth they had inherited from their father and consumed that of others — a huge and terrible sum they lost "in an evil
+venture", in fulfilling evil desires. They hardly engaged in the settled ways of the world; they left all their business in the
+hands of their servants, scribes and officials, many of whom grew rich from them, while they went to waste. They had to flee by
+night. The next day the matter became known, and everything left in their house was sealed with the seal of the king and the
+courts. Had I not hurried to leave the house before the court officers came to seal everything found after their flight, all I had,
+and my chest, would have been taken too as their property. I had to hurry to escape for my life and take a place to sleep at a
+lodging with a gentile ⟨S: "an uncircumcised man"⟩. In truth, before they left they had told the official they left in their house
+to give me six Reichstaler, and that man wanted to carry out his errand; and I would not accept anything.
+
+From there I went by post to the holy community of Frankfurt am Main, which was then at the very height of its standing, the crown
+of all the communities of Germany in wealth and honour. But before I got there, while I was still on the road — and when I arrived I
+found it — it [had then] been burned: most of the Jewish street lay under the ashes **[a]**. Here too I did nothing, especially as I
+did not want to make "a spade" of the book in my hands, sending it as a gift to leaders, as is customary, as said. My relative the
+rabbi R. Y. Katz **[b]**, who was then head of the court there, complained of me over this; he wanted my good, that the toil of my
+journey should not be in vain. The community of Frankfurt excused themselves that they could not take books from me at such a time,
+when the street was burned and they [could not] lay a burden on their individuals — though in truth they remained exceedingly rich
+and would not have sent me away empty: had I sent them the book, they would have given its price with a generous and willing eye,
+above all for the sake of my father, whose name was great among them and whose book too was very highly regarded by them. The said
+rabbi would also have exerted himself to do what he could on his side, had I listened to his advice to behave as the authors of
+books do in their time. But the words did not enter my ears, and I could not bend my mind to accept the rabbi's opinion. He almost
+quarrelled with me, saying: "How can it be
+
+**Kahana's notes**
+- [a] In 5471 [1711], on 24 Tevet, a fire went out from the house of the rabbi Naftali Kohen and consumed several hundred houses in the
+  Jewish street; nothing was left except one, at the cemetery. See *Ammudei ha-Avodah*, part 2 (p. 282b).
+- [b] He is the rabbi, the gaon R. Jacob Katz, who took the Sabbatian writings from their emissary Moses Meir in 5485 [1725]. See
+  *Torat ha-Kena'ot* (p. 74), Lemberg printing.
+
+## Page 77 (scan 93)
+
+that I should seek or hope that leaders would come to me, or send their messengers to take the book from my hand" (especially as I
+also kept it at a high price: the price my father had fixed for it I would not change, not even lower it for the rich), "which is
+not the custom in these times and in these lands?" He brought me proof from several great men who, though they themselves were the
+authors, were forced to come to this practice, for there is no other way — all the more since I was not the author of the book
+myself, was still a tender child in years, and my reputation had not gone out in the world, so that it could not be imagined any
+other way. "If so, it would have been better for you to stay at home and not take on the yoke of a heavy and hard journey on so long
+a road, and spend so much." And many more things like these he said, to make the matter acceptable to me. But I stood by my first
+decision; all the winds in the world did not move me a hair's breadth; whatever might happen to me, I could not go back on my mind.
+Even so, some men of standing among the leaders and the students of Torah sent and took the book from my hand and bought it for full
+money, about fifteen pieces.
+
+So I set my aim on returning home, for I saw that I was not suited to this. They advised me to turn from there to the holy communities
+of Mannheim and Metz and their surroundings, which were great in standing and wealth, and promised me that on that road I would gather
+"handfuls of good"; but their words did not enter my ears. I saw and found that "the way is perverse before me" (Num. 22:32): everywhere
+I came, people were busy with their own troubles and mourning. So I decided to turn back on my steps with empty hands; I said, "neither
+them nor their reward" (b. Berakhot 5b).
+
+At the time when my face was already set towards home, news came from London how Mordecai Hamburger **[a]** had come home from the lands
+across the sea, East India, where he had stayed about ten years. He had gone there empty-handed, poor and needy, leaving his house empty,
+with a wife and nine children and her belly between her teeth. His coming made a great stir, a great thing the like of which had never been
+heard: that a man advanced in years should go from our cold climate and travel by sea nearly a year's journey to that hot climate, stay
+there so long, and prosper so much that he earned very great wealth, and come home alive with all his great property, full of every good,
+after he had gone into it lacking. Not one of his sons and children was lost in that time; he even gained in them — he had left nine and
+found ten sons and daughters, all healthy and whole. He brought with him a treasure of precious stones **[b]**, and above all, among them,
+one large diamond of great value, the like of which there was not in all the land,
+
+**Kahana's notes**
+- [a] R. Mordecai Hamburger was the brother of R. Hendele, who owed Emden a thousand Reichstaler, and also the brother of R. N. D., who owed
+  him eight hundred Reichstaler; see below.
+- [b] The abbreviation means "of precious stones".
