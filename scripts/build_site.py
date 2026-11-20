@@ -48,7 +48,7 @@ def hebrew(scan):
     if not p.exists():
         return ""
     lines = [l.rstrip() for l in p.read_text(encoding="utf-8").splitlines() if l.strip()]
-    lines = [l for l in lines if not l.startswith("[TYPED INSERT")]
+    lines = [l for l in lines if not (l.startswith("[TYPED INSERT") or l.startswith("[HANDWRITTEN SHEET"))]
     text = ""
     for l in lines:
         if text.endswith("-"):

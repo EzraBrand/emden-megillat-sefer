@@ -123,3 +123,89 @@ place brought it about, and there came there the hypocritical serpent
 - [a] Here the order is somewhat disturbed in the manuscript, and I saw fit to correct it, so that the continuation of
   the story should come in its proper place.
 - [b] He means that immediately after his bar mitzvah, when he was fourteen, many troubles came upon him quickly.
+
+## Page 58 (scan 70)
+
+the abominable Ḥayon, who threw the whole world into confusion. The righteous man, my father, was driven into a heavy
+war, to stand against the presumptuous and powerful Sephardim, who broke their old covenant of love with him and turned
+into enemies, meddling in a quarrel that was not theirs, to cover the shame of their protector and the sin that hung on
+the head of R. S. A. **[a]** ⟨S: "may the name of the wicked rot"⟩, as said. So my father was forced to move his home
+from there, as told, and he bent his shoulder to wander again on the wings of exile, to hasten an escape for himself and
+his household.
+
+In the middle of the winter of 5474 [1714] he travelled to London for some weeks, and sent us, his household, by ship
+across the sea to Emden. We lived there as strangers until after Passover, though the people of that small town did us
+every honour and every kindness they could. The learned leader R. L. Emden, of blessed memory, wanted to give me his
+daughter as a wife: a learned and intelligent maiden — truly there was none like her in all the land of Germany. He
+wanted to settle a large dowry on me, for he was very rich and a man of Torah; and his daughter too longed to join herself
+to Torah and to lineage. But for a reason known in the family my father would not agree and call the match good.
+
+It was a great trial for me too, for I was already of understanding, and knew how to weigh things in the scales of right
+judgement. It was not hidden from me that it was a very fitting match, the like of which was not to be found in the land
+in every respect — in capital and wealth, and as a daughter of a good family — so that it looked to me like a very
+straight road, by which I could easily reach the goal of perfection. I knew well that my father could give me nothing,
+all the more since he could barely provide for himself and his household, moving about without knowing where he was
+going; and the leader and his household loved me very much and truly pressed me to carry out their plan and gain their
+wish in me. Even so, far be it from me, I did not want to grieve my father, though my own mind leaned towards not giving
+up so fitting a thing. That blemish in the family was not a reason to reject it either, for it was not disqualifying in
+itself, God forbid; all the great leaders of Germany had already married into that family, which excelled in kindness
+and greatness; and such a match does not happen every day. Even so I did not reveal even what was in my heart. I submitted
+and accepted my father's decision with love, and concluded that she was not from the Lord to be my wife, for I was
+destined for a greater match than this in respect of family. But "trouble and anguish have found me" (Ps. 119:143), as I
+will write with God's help. And that important woman mentioned above, who had longed for me and did not succeed, was still
+ready to do me good a long time afterwards, when the Blessed One brought me to sit on the rabbinical seat of Emden.
+
+**Kahana's notes**
+- [a] The abbreviation means R. Solomon Ayllon, the rabbi of the Sephardim.
+
+## Page 59 (scan 73)
+
+She worked for this with all her soul, and showed great kindness to me and to my wife, of blessed memory; and she had a
+great affection for all my household, like brotherhood and close kinship, as I will write.
+
+From Emden my father set out with his large household. We were five sons and five daughters to my father and mother, of
+blessed memory; we were all born to them in Altona, and of the children born to my father in Amsterdam, who did not
+survive, only one little daughter was left; and this daughter too died on the way. Only my sister Rachel was then with her
+father-in-law in Eisenstadt; her elder sister, with her husband and children, was with us at that time; my mother the
+rebbetzin, of blessed memory, was pregnant; and there were with us a manservant and a maidservant, as necessary. So we
+needed to load ⟨S: "two"⟩ large wagons, full; and men of war were about on the roads. We stayed some days in my uncle's
+house ⟨S: "and after several adventures we came to Berlin; and it was then a time of war between kingdoms"⟩.
+
+There the Lord put it into my heart to answer the objections of R. A. ⟨S: corrected to "R. M."⟩ to my father's
+responsum, for my father had no time to study them on his journey. In those days I set myself to look into the matter,
+to search it out and understand it, and there I wrote a certain part of this responsum, the first that I composed, with
+God's help, out of my studies. I did not tell my father or show it to him until he was in Breslau. Then he saw what I had
+written and answered on his behalf, and my words were very right in his eyes; he kissed me on my head and recited to me
+the verse, "He kisses the lips", and so on.
+
+After a stay of some weeks in Berlin we set out for Breslau. On this road we were in great danger because of the soldiers
+of the army of the land of Prussia, who were then passing along that road; although it was a time of peace, the roads
+were considered dangerous, and sometimes we had to stop and wait in the middle of the road. Some of them met us, and with
+great difficulty we got away from them in peace, and it was a miracle. We came to Breslau at the end of the said summer
+**[a]** ⟨S: a caret, pointing to the handwritten sheet that follows⟩.
+
+From Breslau we set out for Poland at the beginning of the winter of 5475 [1714]. My father married off my sister Neḥamah,
+and, for our many sins, her marriage did not prosper, for her husband was killed; he was the grandson of the leader
+R. H. Witschitz. We rolled about in great distress, sometimes in the town of Apta, sometimes in various villages nearby,
+for that community had become a burning, food for the fire. We had not yet found rest when a courier came from Hamburg to
+tell my father that he had been chosen by the leader R. A. to sit on his case with his brother-in-law E. P., as said. Then
+my father set out on his road and took me with him, and we travelled in the middle of the winter on so long and hard a
+road. Then the ailment of shortness of breath and pressure afflicted me ⟨S: a word, not read⟩, and I caused my father great
+sorrow on top of his own pain and sorrow. Several remedies were made for me on the way, in Berlin and in other places,
+and they did not help at all; and it seems
+
+**Kahana's notes**
+- [a] See above (p. 39).
+
+## Handwritten sheet for p. 59 (scan 72)
+
+*A leaf in Scholem's own hand, bound into his copy and headed "for p. 59". It begins with a caret, matching the caret
+after "We came to Breslau at the end of the said summer". It seems to give the manuscript's account of the match at this
+point. Kahana does not print it here (he has a similar account on p. 39). Read from the scan; words not read are marked
+[…].*
+
+There too there was talk of honourable matches with this and that leader of Vienna(?). But the Lord brought before me […],
+for the gaon R. Naftali Katz, of blessed memory, was then living in the city of Breslau(?), and there was a great
+affection(?) and a strong love known between him and my father, of blessed memory; and they agreed between them to bind
+themselves together, that I would take as wife his granddaughter, the daughter of his son R. M[ordecai], head of the court
+of the holy community of Brody; and he vowed to give me a thousand Reichstaler as a dowry, and maintenance for three years.

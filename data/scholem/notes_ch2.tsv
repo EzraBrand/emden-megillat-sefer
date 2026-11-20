@@ -2,3 +2,10 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 68	56	כבר השלמתי ללמוד מס' ברכה x	x mark; one word in right margin	not read	not read	view s068_full
 68	56	רבות צררוני מנעורי גם לא יכלו לי ^, הן מנפילת שנים	caret; 2-word note (Kraken read it as a line)	לכלות חוץ(?)	uncertain	view s068_full
 69	57	הקטטות והרדיפות של שני כתות החזקים x	x mark over the word; one or two letters in right margin	ן (correcting החזקים to החזנים, "the cantors")	fairly sure	view s069_full
+70	58	ועון התלוי בראש רש"א כנ"ל א) x	x mark; short note	שר"י	fairly sure	view s070_full
+72	59	(handwritten sheet "for p. 59", in Scholem's hand)	whole sheet; caret at its start, matching the caret after "באנו לברעסלוי שילהי קיץ הנ"ל א)" on p. 59	see data/text/s072.he.txt (6 lines, most words read)	partial (most words fairly sure)	data/scholem/s072_a.png, s072_b.png
+73	59	שהיינו צריכין לשאת x עגלות גדולות	x mark; one word (Kraken read it as a line: לשתי)	לשתי	fairly sure	view s073_full
+73	59	נתעכבנו בבית דודי ז"ל ימים ^ אחדים	caret; 4-line note (Kraken: הרפתקאות / ברלין ... / שעת תגר מלכיות)	ובאנו אחר כמה / הרפתקאות עד / ברלין והיה אז / שעת תגר מלכיות	fairly sure	view s073_full
+73	59	להשיב ע"ד מהר"א x כהשגותיו	x mark over the name; short note	מהר"מ (correcting to R. M[ichel], the author of the objections, cf. p. 38)	fairly sure	view s073_full
+73	59	באנו לברעסלוי שילהי קיץ הנ"ל א) ^	caret pointing to the handwritten sheet (scan 72)	(see scan 72)	sure	view s073_full
+73	59	מיחוש של קוצר הנשימה ולחיצה x	x mark; one word	not read	not read	view s073_full
