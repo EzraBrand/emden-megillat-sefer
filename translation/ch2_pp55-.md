@@ -967,3 +967,103 @@ After this I travelled straight home, without any stay or delay,
 - [a] See (p. 50); he was the servant of Ḥakham Tzvi without taking pay from him; see there.
 - [b] The abbreviation means "Dutch".
 - [c] The abbreviation means "intestines".
+
+## Page 81 (scan 97)
+
+and from many evil mishaps [the Lord] saved me [on this] long [road], which I cannot number; I will mention only a very little of the
+Lord's kindnesses. From Fürth I went by the *Landkutsche* that goes to Prague. I forgot to make a condition with the coach about
+stopping on the Sabbath, and I had to stay on the holy Sabbath on the road at an inn, and hire a special wagon there to travel by night
+to catch up with the said coach going to Prague. Afterwards I was told that there were robbers on that road and also at the inn. The
+second driver, whom I hired for myself on Saturday night at a high price, also took me as he liked, by a road on which no Jew passed
+without a special pass; my soul almost "came into iron" (Ps. 105:18), and trembling seized my flesh. But by the Lord's mercy on me the
+customs-collector was not at home, only his maidservant ⟨S: "a gentile woman"⟩; her compassion was stirred at the sound of my crying
+and weeping, and she was appeased.
+
+In Prague too wonders happened to me which I cannot tell as they were; I will touch only a little, "with the tube that drips", of the
+drops of my experiences, the troubles of my hardships and my rescues by God's kindness to me always. As soon as I entered that city —
+which is more dangerous than other cities anyway, because of the black-robed priests and their students ⟨S: a note, perhaps "the
+tonsured …"⟩ — a number of copies of my father's responsa that I had with me were taken from me at the customs. And it was a great
+danger to bring Talmudic books into a city where royal decrees had already been issued about this.
+
+Eybeschütz was then at the very lowest point with most of the Jews, for in that period, the year before, a scandal had gone out about
+him, which came to light especially in the holy community of Frankfurt am Main and in several communities, as is well known — although
+he brazenly denied what was known, seeing that the evil was determined against him. And the rabbis of that generation, who had at first
+put on zeal against him, also let their hands drop, "for fear of the enemy, terror on every side" (Jer. 6:25), also because of his family
+and his wife's families, whose hand was strong there — above all because he had influence with the Catholics ⟨S: "the priests"⟩, whom he
+had joined and whose ways he had learned; so he found favour in their eyes; and through this he had also seized half the office of
+preacher. So the rabbis withdrew their hands from him, and were satisfied with a false oath he made on the night of Kol Nidrei.
+
+Even so he was much despised in the eyes of the Jews, who already knew all his trickery and deceit; even to his former friends he had
+become abominable — they loathed him, and even his relatives. My uncle, the honest man, of blessed memory, assured me that even his
+father-in-law, the rabbi R. Y., wanted to disinherit him **[a]**; and no one supported him except those companions of his ⟨S: a word, perhaps
+"the heretics"⟩, like Pappers and the other
+
+**Kahana's notes**
+- [a] His name was R. Isaac Spira, head of the court in Prague; see *Kelilat Yofi* (fol. 119b). R. Isaac Spira was the son-in-law of
+  R. Mordecai Kohen of Hamburg; see the beginning of his book *Beit Yehonatan ha-Sofer*. Emden also says in his *Hit'avkut* (fol. 2): "Even
+  his father-in-law wanted to disinherit him."
+
+## Page 82 (scan 98)
+
+men of the house of study there, as is known. But with the Catholic ⟨S: "uncircumcised"⟩ priests Eybeschütz was important ⟨S: a two-line
+note, partly read⟩; with them he had a hand and a name; however it was, with the priests he had favour. He was also then busy appearing in
+the courts of the gentiles, pleading for every man who had a creditor and every man in distress and hard-pressed; and in this way he made
+his living ⟨S: a long note of about twelve lines, partly read, on Eybeschütz in Prague⟩.
+
+They showed him to me through the window of my uncle's house, of blessed memory, where I lodged **[a]**: how he ran like a deer through the
+streets and markets. I would not look at his face. He also sent to let me know that if I agreed to do him the honour of coming to his house,
+he would exert himself on my behalf to rescue the said books taken from me, and get them back for me free, without money. I would not see his
+face; I preferred to lose the books rather than greet his insolent face.
+
+I was with the head of the court there **[b]**, who made me a great feast and kept me the whole day. He did me great honour and showed me great
+affection; he showed me strong love before all who sat at table and gathered there, and held my hand all day — "his hand held my right hand",
+"as a father the son in whom he delights" — in the sight of all. He spoke at length in praise of my father before all the important men there,
+a house full, and said with a full mouth that my father was unique in his generation; there was none like him.
+
+There a miracle also happened to me, especially in matters of the soul: a miracle like that of Joseph the righteous, and even somewhat more. For
+I was then a young man, tender in years, in the full strength of my heat. It was a long time since I had left my home, and I was very hungry for
+a woman. And there a single woman came my way, a young woman, very beautiful, my relative, my uncle's daughter. She was alone with me, and she
+made bold to show me great affection, to come close to me; she almost kissed me. Also, when I was lying in my bed, she came to cover me well with
+the bedclothes — as it were out of a relative's affection. In truth, had I listened to the counsel of my inclination, she would not have
+withheld from me my desire at all. Several times the thing came near, God forbid, to being done, like fire in tow. Many times there was no one in
+the house with me but her, nor did people usually come, for they were in the shop in the market, busy all day with their living — had the Blessed
+One not given me great strength, "excellency of dignity and excellency of power" (Gen. 49:3), to overcome my burning inclination, which almost
+forced me once to do its will, had not the Lord's kindness been great upon me, to stand this trial, very wonderful, beyond all trials. For I was a
+man in the full strength of my vigour and my desire, and a beautiful and very pleasant woman before me, showing me all manner of affection and
+closeness many times; she was a relative, single, young
+
+**Kahana's notes**
+- [a] His uncle's name was R. Wolf, a pious man; see *Hit'avkut* (fol. 60b).
+- [b] This rabbi and gaon is R. David Oppenheim, who was rabbi in Prague from 5472 [1712] until his death in 5496 [1736]; see *Gal'ed* (§ 80)
+  and the notes of R. S. Hock.
+
+## Page 83 (scan 99)
+
+and tender; she had been widowed recently, and perhaps pure, or would have purified herself if I had wanted; and I was sure in every way that she
+would not reveal my secret, had I wished to fulfil my lust and desire with her. And I conquered my inclination, killed my heat, and resolved to slay
+it — "and my heart is wounded within me" (Ps. 109:22) — and did not [fulfil my desire]. Blessed is the Lord, who gives strength to the weary, that I
+was saved from this fire and flame. As a reward for this may I and my descendants be saved for ever from the fire of the evil inclination and the
+fire of Gehenna; may it be His will, amen. Here are included my requests at several different times and places, from all of which the Lord saved
+me; and may He save me and my descendants for ever from every evil mishap.
+
+Above all, how great is the power and the trials of the inclination, and how many nets it spreads for a man's feet — only that in no [way] was the
+thing light and simple, ready and prepared in the eyes of the inclination and safe from being known. Praised be the Helper and Rescuer. In that
+matter I then learned, and then knew, that even so free choice is [in the hand of] man(?), and the Lord will not abandon him to its hand: "happy is
+the man whose strength is in Him" (Ps. 84:6); "He keeps the feet of His pious ones" (1 Sam. 2:9).
+
+From Prague I set out, for life and peace, on the coach called *Landkutsche*, which goes from there to the city of Brünn, the chief city of the land
+of Moravia. I thought I had got ahead, in the company of Jewish men of Moravia returning home: we had hired from the driver the first and highest
+place in the coach, according to the custom that whoever hires first wins precedence of seat in the carriage. But when we came to the coach, two
+gentiles ⟨S: "wicked uncircumcised men"⟩ came too, one an Italian merchant and the other a priest. Though they came late, they pushed us Jews out of
+our first place with mockery and derision; and the driver could not stand against them even if he had wanted, knowing that it was against law and
+right. So he had to keep silent, and we suffered various insults from these evil men ⟨S: "sinners"⟩, who did not leave us in peace a moment. We could
+not perform the commandment of putting on tefillin or pray properly because of them. They always reproached us and called us despicable Jews ⟨S:
+"dogs"⟩. And every time the road was a little crooked, they shouted at us with rebuke and scorn and contemptuous names: "Get out and get down from
+the coach and go on foot!", and pushed us out like objects.
+
+And this too was for the good, for the Lord saw our affliction. After they had oppressed us for about ten leagues beyond Prague, we came to a very
+dangerous road: we had to pass along a very narrow way, with on one side a mountain straight up like a wall and on the other side a slope as deep as
+the abyss. When we came near the very dangerous place, these men drove us out of the coach and pursued us as was their custom; and we did not refuse,
+and walked on foot, while they stayed sitting securely in the coach. We were walking only a few steps from the coach — and behold, the coach
+overturned and fell on its face down the slope beside the road, as said. It was loaded with a heavy burden of chests and boxes, and some of them fell on
+the Italian merchant ⟨S: perhaps "the uncircumcised"⟩; they almost broke all his bones, and he fell down battered and very ill; he could no longer
