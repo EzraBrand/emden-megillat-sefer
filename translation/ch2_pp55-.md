@@ -1257,3 +1257,95 @@ the court sessions, and he could not eat until several hours
 - [a] Emden tells the same in *Torat ha-Kena'ot* (p. 86), and further on there, in his letter to the gaon R. David Oppenheim (p. 88) of 7 Kislev 5486
   [1725], he says: "When the Lord brought me by some cause to the holy community of Pressburg before last Passover", etc.
 - [b] There (pp. 88, 91), and in *Hit'avkut* (fol. 1), Lemberg printing.
+
+## Page 90 (scan 106)
+
+after midday; he was as one who fasts every day, for he had to go to the court and knock on their doors — both with requests, pleas
+and intercession with each of the lords, at whose doors he came early, and by giving bribes in advance and asking advice. Some of them
+were found for him and granted his request through conciliation and bribes, and some were not men of bribes. He also left all his own
+affairs and did not rest or keep quiet until he brought my case to light. He took me to the lords whom I had to bribe: there was only one
+on whom the matter depended, and I myself gave him six ducats; and for this he taught me and put in my mouth the words I should say in the
+court when I stood against the customs officer to answer his words. So I did. The said important man did not move from my side, to support
+me in preparing the answer of my tongue and to help me so that my arguments should not be blocked. I answered the customs officer boldly —
+though he too was an official — before the lords sitting on the seats of judgement, and spoke harshly to him for having wronged me. So my case
+came out to the light, and I won judgement: everything the customs officer had taken from me was returned to me; nothing was missing, thank
+God, without any gain of money, except what I wrote of to the said man. The customs officer went out ⟨S: a word, perhaps "trapped"⟩ mourning
+and with his head covered, and lost much from his own purse in the expenses of the road; and his mounted servants who had caught me and taken
+me and my money all toiled in vain.
+
+The said honest man, the intercessor R. Daniel, of blessed memory, took no benefit from me for all his great trouble over a long time. Truly I
+have not found his like, to engage in such intercession with all his heart, losing much time for nothing. May his righteousness stand for ever
+for him, his sons and his household; I will never forget the deeds he did for me, though he was a stranger and had never known me, only through
+the recommendation of the said rabbi, who also did me the kindness of hospitality. Other people too, who had influence with the judges, did not
+refrain from interceding for me; also a lady leader, who had a hand with the lords, exerted herself in this. But the said upright man gave his
+soul to the matter, as said.
+
+Even so I had great expense on the road, for it was long, and in the delay and the return, which came to a considerable sum. Nor did I know what
+to do with the goods, for I had been much cheated in them, as said, and nothing was left in my hands with which to go home. I had already agreed
+to exchange them for other goods, lower and poorer than them, in the mistaken thought that perhaps they would be "quick to sell", although I would
+be forced to lose much of the capital, for my goods were "merchandise that lies on the hands of its owner". But in truth, had I completed the trade
+by exchange, as the adviser advised me in his opinion — and I was not experienced in trade — then surely this second business would have been much
+worse than the first. What did the Holy One, blessed be He, do? While I was busy with this, valuing the things I would receive in exchange for my
+goods from one of the traders of Lud(?), and we were busy together examining the two kinds of goods to put a price on them, as we had already agreed,
+
+## Page 91 (scan 107)
+
+and only the details of the valuation and the account were lacking — while I was in this state I stood by the window of the room in the upper
+storey, looking out at the street to see the passers-by, without any purpose, only for the breeze of the day, for it was summer. I saw a man
+running fast and looking at the house where I was lodging. When he saw me "peering through the lattice", he called to me: did I still have the
+goods? For he had seen them with me some days before, and had said that he knew a buyer for them, only I should wait for him some days, for he had
+to go back to his place and ask his lord whether he still needed them. Because the time had passed beyond the date he had set, and also our
+acquaintances had told me that he was not reliable, I had made no more account of him, "after I had waited till I was ashamed", and I had agreed
+to exchange good for bad, as said.
+
+But the Blessed One saw my affliction. At that very moment, when the trade was almost completed, I looked out of the window, as said, without any
+thought of this; even when I saw him he looked at me, and I did not recognise him until he called aloud and spoke to me, and reminded me that he
+was the man who had been with me eight days before, had seen my goods and promised to find buyers for them. And so he succeeded, and the Lord
+provided for him as he had said, to buy from me for a certain sum in ready money. At once the said exchange was cancelled, and I sold to him at a
+price double what the exchanging trader had valued them; so that I brought home with me "a handful of quietness", after all the great sorrow and
+the loss of time and money, and this thing restored my soul a little. Blessed is He who does good to the guilty!
+
+Even so I carried back with me many more of the goods, which were not fit to be sold there or in Moravia, and I had to send them with a great
+[merchant] to Holland too, and there they were sold with great difficulty. Blessed is the Helper!
+
+And even so I was not entirely rid of the said bad business that happened to me in Hungary. For the Jewish broker, who had been the cause of all
+the said evil, on whose words and promises I had crossed that land by the said dangerous road, made a new confusion for me after I escaped from
+Hungary. His pretext was a false charge: the lord of his place had wanted to buy some of the goods I had, and I could not come to terms with him,
+and I left him in peace and, as it seemed, in friendship. After some time, while I was sitting securely at home, this broker brought me to
+judgement before the Jewish court in Brod and held on to what was mine — I had entrusted him with a certain sum — and would not pay me; for he
+claimed that he had suffered loss because of me with his lord, who demanded that he provide him at all costs with those goods on which he had set
+his eyes when I was there. What he could not dare do while I was in his power — to demand that I give him against my will — now he made a false
+charge, to take much from him for nothing. He came at me indirectly, and I had to settle with him and pay what I did not owe. These are the edges
+of the ways of kindness and mercy that the Blessed One did for me, according to His mercy and the abundance of His kindness,
+
+## Page 92 (scan 108)
+
+in the land of Moravia. I have much more to tell, but most of it has gone from my mind, and I cannot direct my thoughts at this time to tell them
+all in order as they were; the book would also become very long. So I will be content with "the little that holds the much", as an example. From
+many evil and lasting illnesses the Blessed One saved me there, and also from many jealous people, Jews and gentiles ⟨S: "and the uncircumcised,
+to distinguish [between them]"⟩; from all of them He rescued me. Although in truth I was very well liked — not only in the holy community of Brod
+were most of the members of the community loving me as their own soul and blessing themselves by me, because of my conduct and my deeds that
+brought me near, thank God, as said — still there was no lack of jealous people and "lovers of bribes" (Isa. 1:23). I was cheated ten times over
+too: one man sold me a chain of copper at the price of gold, and I did not know it until I came here to Altona; here the forgery became known. For
+in truth I had shown it before I bought it to several experts, and they all tested it on the touchstone and said that it was pure gold, for it was
+plated with a little gold.
+
+In all that country too my name was great, like the name of the great. The head of the court, the provincial rabbi R. G., of blessed memory **[a]**,
+set his eyes on me to seat me at the head of one of the communities; and I did not bend my shoulder to bear the yoke of a rabbinate. In the end, at
+that time new decrees of His Majesty the emperor were issued there in the lands of Bohemia and Moravia; his hand lay heavy on our brothers, the
+children of Israel, in the matter of the marriages of sons and daughters, besides many other hard and evil decrees; so that I saw the affliction of
+my people very wretched in that country. I said in my heart: it is forbidden to live there. I decided to uproot my home from there and return to the
+land of my birth, without relying on any position of livelihood, only on my trust in my Maker that He would not forsake me.
+
+And I cast behind my back a great thing. Some leaders of Vienna, without my knowledge, offered of their own accord to fix for me an ample
+livelihood, about twelve Reichstaler a week, every week, and bound themselves for several years, so that I could sit at home studying Torah without
+pressure and without worry. I would not have needed even half that allowance, for I was still young in years and my household small; and in that
+country living is cheap, so I could have easily saved more than half of the said sum, to put away for a time of need. They did this of their own
+initiative alone, without having seen me or known me face to face; only by report was my name great in Vienna too. The rabbi R. ⟨S: a name, perhaps
+"Leizer"⟩ Deichs, of blessed memory, told me that when he was in Vienna he heard from the mouth of the famous rabbi and magnate R. Samson Wertheimer
+**[b]** that he had once heard of me, and that he would say: "I will not rest until
+
+**Kahana's notes**
+- [a] He is the rabbi R. Gabriel Eskeles son of R. Judah Leib, who died in 5478 [1718]; see the text of his tombstone in *Kevutzat Ḥakhamim* (p. 118),
+  and *Edut be-Ya'akov* (fol. 3b), and the memoirs of Glückel of Hameln (p. 321).
+- [b] He is the rabbi and magnate R. Samson Wertheimer, who died on 17 Av 5484 [1724]; see about him the book *Simson Wertheimer* by Prof. D. Kaufmann.

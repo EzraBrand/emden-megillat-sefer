@@ -61,3 +61,6 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 105	89	והבנתי כי ^ מאת ה' היתה זאת	caret; 2-line note	זה הוא(?) הלוי(?) / עוכר ישראל	partial	view s105_full
 105	89	תועבות האיש x הלז	x mark; one word	האפיקורוס	fairly sure	view s105_full
 105	89	טובות לעמנו x בני ישראל	x mark; one word	לאומי(?)	uncertain	view s105_full
+106	90	והמוכס יצא ^ אבל וחפוי ראש	caret; one word	בפח(?)	uncertain	view s106_full
+108	92	וכן מכמה קנאים יהודים ונכרים x	x mark; 2-word note (Kraken: וארוים להבדיל)	וערלים להבדיל	fairly sure	view s108_full
+108	92	הרב כמו' ^ דייכש	caret; one word	ליזר(?)	uncertain	view s108_full
