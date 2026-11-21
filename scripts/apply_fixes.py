@@ -19,11 +19,36 @@ OUT = ROOT / "data" / "text"
 OUT.mkdir(parents=True, exist_ok=True)
 
 
+GLUED = re.compile(r"(?<=[א-ת])([א-ט])\((?=[,.;:\s]|$)", re.M)
+
+
+def glued_calls(t):
+    """A footnote call glued to the end of a word: ז"קד( -> ז"ק [ד]. Kraken mirrors parentheses, so in its text an
+    opening bracket is ")" and a closing one "(". A "(" that closes an open ")" on the same line is a bracket, not a
+    call (רזה( closing "(…רזה)" stays a word)."""
+    out, pos = [], 0
+    for line in t.split("\n"):
+        depth, res, i = 0, [], 0
+        for m in GLUED.finditer(line):
+            seg = line[i:m.start()]
+            depth = max(0, depth + seg.count(")") - seg.count("("))
+            res.append(seg)
+            if depth > 0:          # closes a bracket opened earlier on this line
+                res.append(m.group(0))
+                depth -= 1
+            else:
+                res.append(f" [{m.group(1)}]")
+            i = m.end()
+        res.append(line[i:])
+        out.append("".join(res))
+    return "\n".join(out)
+
+
 def clean(t):
     # footnote call / label: a letter א-ט (Kraken may add a vowel sign) + "(", standing alone, or glued to the
     # end of a word (ז"קד( = ז"ק + call ד). Not after a gershayim/geresh: ע"ב( closes a page reference.
     t = re.sub(r"(?<![א-ת\"'])([א-ט])[ְ-ׇ]?\(", r"[\1]", t)
-    t = re.sub(r"(?<=[א-ת])([א-ט])\((?=[,.;:\s]|$)", r" [\1]", t, flags=re.M)
+    t = glued_calls(t)
     t = t.replace(")", "\u0000").replace("(", ")").replace("\u0000", "(")  # Kraken mirrors parentheses
     t = re.sub(r"\[([א-ט])\)", r"[\1]", t)
     return t
@@ -31,11 +56,13 @@ def clean(t):
 
 def main(a, b):
     for n in range(a, b + 1):
+        f = FIX.get(str(n), {})
+        if f.get("manual"):  # transcribed by hand (typed inserts, blank pages): data/text/sNNN.he.txt is the master
+            continue
+        if not (ROOT / "data" / "body" / f"s{n:03d}.txt").exists():  # blank page, never split
+            continue
         body = (ROOT / "data" / "body" / f"s{n:03d}.txt").read_text(encoding="utf-8")
         notes = (ROOT / "data" / "notes_kahana" / f"s{n:03d}.txt").read_text(encoding="utf-8")
-        f = FIX.get(str(n), {})
-        if f.get("manual"):  # transcribed by hand (typed inserts): data/text/sNNN.he.txt is the master
-            continue
         for line in f.get("move_to_notes", []):
             if line in body:
                 body = body.replace(line + "\n", "").replace(line, "")

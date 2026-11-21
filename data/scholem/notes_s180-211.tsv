@@ -14,7 +14,7 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 192	172	בתוך הריב של אייבשיצר ^, בנו אחר	caret; one abbreviation in right margin	שר"י	sure	view s192_m1
 192	172	שהלך ^ [לבקש רחמים] בעדו	caret; one word in right margin	לפחה	fairly sure	view s192_m2
 194	174	כל זמן שהיו בידי מעות להוציא ^ מלאכת הדפוס	caret; one word in right margin	על	fairly sure	view s194_nli_m1
-195	175	מ"מ מעט מזער שבחתי x כי נתמעטו	x mark; one word in left margin	שמכרתי	fairly sure	view s195_top
+195	175	מ"מ מעט מזער שכחתי x כי נתמעטו	x mark; one word in left margin	שמכרתי	fairly sure	view s195_top
 195	175	הפסיקני האיש x אייבשיצר	x mark; 4-line note in left margin	הנחש הנלוז(?) / בן ה... הוא / התולע הארור / אייבשיצר שר"י	partial	view s195_nli_m1, s195_top
 195	175	עד שובי מגלותי ^ לביתי	caret; one word in left margin	לאמשטרדם	fairly sure	view s195_bot
 195	175	להשיב לו x	x mark; one word in left margin	לאפיקורוס	fairly sure	view s195_bot
@@ -71,7 +71,7 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 205	185	לסבול מעשיהם x הנ"ל	x mark; 3-line note in left margin	מעשי שקוציהם / ותועבותיהם הנו... / אבל(?) (partly read)	partial	view s205_nli_full
 205	185	לשום רסן בפיהם x	x mark; 2-word note in left margin	בפי המשוקצים	sure	view s205_nli_full
 205	185	ברמז מענין אייבשיצר x ותחבולותיו	x mark; 2-word note in left margin	התועב ותועבותיו	sure	view s205_nli_full
-205	185	קארל אנטאן ומעגריל ^, ומענין המרוחץ	caret; one abbreviation in right margin	שר"י	sure	view s205_nli_full
+205	185	קארל אנטאן ומעגריל ^, ומענין המרזחין	caret; one abbreviation in right margin	שר"י	sure	view s205_nli_full
 206	186	ואף כי הוא x פער פיו	x mark; one word in right margin (cut off)	המין	fairly sure	view s206_nli_full
 206	186	המדיחים את ישראל ^;	caret; 2-line note in right margin	בגלוליהם(?) משוגעים / וטועים	fairly sure	view s206_nli_r1
 206	186	אשר הגין קצת עליו x מתחלה	x mark; 2-word note in right margin	על המין	fairly sure	view s206_nli_full

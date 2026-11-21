@@ -143,3 +143,22 @@ Pipeline: `scripts/ocr_kraken.py` (Kraken PP-OCRv6, 17 pages in 19 min, 3 worker
   downloaded.
 
 - NLI OCR text: StreamGate refuses with "Action is not relevant for entity of type REPRESENTATION" and blocks CORS from the viewer frame. Dropped.
+
+## Pp. 100-218 (scans 116-252), 21-Nov-2026
+
+- Done by four parallel Opus agents (one per scan range: translation/part_s116-147.md, part_s148-179.md,
+  part_s180-211.md, part_s212-242.md; fixes in data/fixes_parts/, margin readings in data/scholem/notes_s*.tsv),
+  following TRANSLATION_CONVENTIONS.md. Margin notes read from the NLI images.
+- OCR lesson: more than 3 Kraken workers at once (plus agents) exhausted the laptop and pages failed silently; keep
+  to one ocr_kraken.py process with 3 workers. A failed page can need a fresh data/raw render (scan 175).
+- Pages first typed by hand from the images (144, 175, 188-208, 211) were re-done from Kraken by a check agent;
+  every disagreement was settled from the NLI image, and in every case Kraken + print was right and the hand text
+  wrong (about 30 words). Hand copies kept in data/text_hand/. Pages translated before OCR (220-242, 251-252) were
+  checked by a second agent, which corrected several English errors (dates 5522->5520, names, Beit Yosef).
+- apply_fixes.py: a word ending in א-ט before a closing bracket was turned into a footnote call ("רז [ה]");
+  fixed (glued_calls tracks open brackets per line). 8 pages changed (s020, s022, s054, s056, s065, s113, s174, s226).
+  Manual and blank pages are now skipped before reading their body files.
+- Chapters on the site (Bick's breaks): 3 p. 99, 4 p. 114, 5 p. 150, 6 p. 167, 7 p. 177, 8 p. 189; Appendix p. 217.
+  Emden's own text ends p. 213 (scan 237); pp. 213-216 Kahana's continuation; 217-218 his "הוספה א".
+  Not done: name index (scans 243-250) and errata table (253-254).
+- Open: margin readings on pp. 75 and 96 do not match their TSV rows one to one (shown untyped).

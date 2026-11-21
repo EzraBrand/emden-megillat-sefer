@@ -1,0 +1,17 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+202	2	insert		וכל	ז
+202	2	replace	ארבעה	מגיע ארבע	ז
+202	3	replace	לדפום	לדפוס,	ז
+202	3	replace	חערך,	הערך,	ז
+202	4	replace	כשראינוהו	כשראינו	ז
+202	5	insert		[וטינופת]	ז
+202	5	replace	"הש""ת שלו"	החידושי תורה	ז
+202	6	replace	מקולקלין	מקולקלים	ז
+202	10	replace	מאורות	אורות	ז
+202	11	replace	"הד""ת"	הדברי תורה שלו	ז
+202	11	delete	בו		ז
+202	11	insert		בו דבר	ז
+202	12	replace	דשמעתא	דשמעתתא	ז
+202	22	replace	ומרמה,	ובמרמה	ז
+202	25	replace	וטפשות באלה,	ופשטות כאלה	ז
+202	26	replace	בם,	בהם?	ז

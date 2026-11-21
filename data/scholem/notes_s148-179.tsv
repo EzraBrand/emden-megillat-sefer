@@ -48,3 +48,5 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 177	157	ואם הייתי עושה כן היה הנכרי x	x mark after the word; one word in left (outer) margin	הערל	sure	view s177_nli_m2
 178	158	וברוך שהצילני מבוא ביד העש"ג x!	x mark after the word; a short note in right (outer) margin, cut off at the edge of the NLI image (only a letter like ש is visible)	not read	not read	view s178_nli_m3
 179	159	ולקחו הנכרי עם אשתו x שלו	x mark after the word; a short note in the left (outer) margin seen in a small view of the NLI image (perhaps אי"ה), not found again at higher zoom	not read	not read	view s179_nli_nfull
+175	155	ואמרתי די לי באשה כשרה יראת ה' טהורה ^,	caret after the word; 5-line note in left (outer) margin, its left edge cut off in the NLI image	וכן (נראה(?) א...) / בחלום בעת הת[פלה](?) ... / שבאתי אל אומי(?) ... / (שאר"ל(?)) יצפה ... / (ודינה)	partial	view s175_nli_m3
+175	155	אז x גמרתי השידוך בעזה"י	x mark after the word; one-line note at the foot of the page, beside Kahana's notes	אמרתי הנה פתרון החלום מן השמים הראו לי [word struck out] זווגי. בכן	fairly sure	view s175_nli_m2

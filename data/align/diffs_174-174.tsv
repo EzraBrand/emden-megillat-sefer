@@ -1,0 +1,16 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+174	1	replace	מגלת ספי באותן	גם היא בעוו״ה. באותם	ה
+174	3	replace	בלי	בלא	ה
+174	6	replace	אספר בכאן	אספרה כאן	ה
+174	11	insert		בי	ה
+174	11	delete	בי		ה
+174	12	replace	יבול	יכול	ה
+174	15	replace	אלפים	אלפי	ה
+174	24	replace	"כמוה""ל"	כמוהר״ל	ה
+174	24	insert		בעיר	ה
+174	27	replace	לאש	לאשה)	ה
+174	30	insert		הלך	ה
+174	30	delete	הלך		ה
+174	30	replace	ללבוב,	בלבוב	ה
+174	31	replace	הזה,	זה,	ה
+174	31	replace	שכחה,	שבחה	ה
