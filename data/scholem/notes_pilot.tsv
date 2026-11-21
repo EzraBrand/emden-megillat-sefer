@@ -1,12 +1,12 @@
 scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 13	5	ונמשכה לקהלות ליטא א)	caret after ליטא, insertion in left margin	הקדוש... (or הקודש...; ends with "...")	uncertain	s013_m.png
 13	5	וקה"ק ווילנא / שהיתה (יושבת / שלהם / ולכן / חכמי ווילנא / עלו / ע"ה	pen brackets [ in the text (8 places), no margin text	-	sure (marks only)	s013_a.png
-25	15	כה עשה אמה"ג ז"ל ובאמשטרדאם	caret after ז"ל, note in left margin	2 cursive letters, perhaps זט / זצ (not read)	not read	s025_m.png
+25	15	כה עשה אמה"ג ז"ל ובאמשטרדאם	caret after ז"ל, note in left margin	-	same note as the row for ז"ל ^ below (NLI: ספר(?))	s025_m.png
 27	17	מקובל גדול ונאמן בכל בית ס"ח א)	note in left margin at line 1	ס"ה(?) or ס"ג(?); Pninim/Bick reads 'ספר הזוהר', so most likely ס"ה = ספר הזהר, against Kahana's ס"ח (his note: ספרי חן)	uncertain	s027_m.png
-14	6	כמעט שכנה דומה נפשם בחרב היונה* וכה	x mark after היונה; 3-line note in right margin	היונים הארורים / הצוררים הישמעאלים(?) / האכזרים יע"ש(? ימ"ש)	uncertain (line 1-2 fairly sure)	s014_r0.png
-14	6	הלז מאחיו' ומאשתו	x mark after מאחיו; note	מאחיו (letters unclear; perhaps a variant of the word)	not read	s014_r1.png
+14	6	כמעט שכנה דומה נפשם בחרב היונה* וכה	x mark after היונה; 3-line note in right margin	היונים הארורים / הצוררים הישמעאלים / האכזרים ימ"ש	fairly sure	s014_r0.png; nli s017
+14	6	הלז מאחיו' ומאשתו	x mark after מאחיו; note	מאחיו (the same word as the print)	fairly sure	s014_r1.png; nli s017
 14	6	ופגעו בו ... הפוחזים' אשר הרבו חללים	mark after הפוחזים; note	הטמאים הערלים	fairly sure	s014_r1.png
-14	6	היו כצאן לטבח בידי הצרים	caret before כצאן(?); 5-line note in right margin, partly cut by scan edge	מבני [word struck out] / בגזרת אוקריינ[א] / ישבו למת[...] / שם ... מא[ד] / ל... ופולין...	partial	s014_r2big.png
+14	6	היו כצאן לטבח בידי הצרים	caret before כצאן(?); 5-line note in right margin, partly cut by scan edge	מבני [struck out] / בגזרת אוקריינא / וחשבו למחות / שם ישראל מארץ / ליטא ופולין ...	fairly sure	s014_r2big.png; nli s017
 14	6	כמצב הלז ... עד תם כל ^ הצמא לדם ^ לעבור	2 carets; 2-line note in right margin	הגוי ערל וטמא(?) / כצאני(?) ...	uncertain	s014_b view
 15	7	משוד הפוחזים' ונתירא	mark after הפוחזים; note in right margin	היונים הארורים	fairly sure	view s015_b
 16	8	ר' הירשל מגליגיו*	x mark; note in right margin	אולי: מגלוגא (Scholem's conjecture "perhaps: from Glogau"? not a MS reading)	fairly sure	view s016_b
@@ -16,7 +16,7 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 24	14	ולהסיר מכשול ^, כי מן אז והלאה	caret; note in right margin	של סתם יינם	sure	view s024_a
 24	14	להעמיד אצל כל ^ שאופים שם היהודים מצות	caret; note in right margin	תנור	sure	view s024_a
 24	14	lines 3-12 and 27	marks at the scan edge (cut off)	-	not read	view s024
-25	15	כה עשה אמה"ג ז"ל ^ ובאמשטרדאם	caret; short note in right margin (same as row above for p. 25)	בג"ק(?) (= in the Three Communities AHW)	uncertain	view s025_b
+25	15	כה עשה אמה"ג ז"ל ^ ובאמשטרדאם	caret; short note in right margin (same as row above for p. 25)	ספר(?)	uncertain	view s025_b; nli s028
 26	16	כללו של דבר ^ שהיה לטובת ולתועלת ישראל	caret; 4-line note in right margin	היה לו לב תורה(?) / גדול כארי ו... / לשמוע(?) ... / דבר	partial	view s026_b
 27	17	כאשר יחנני קוני ב) ^. גם יש עוד	caret, no margin text visible	-	mark only	view s027_a
 27	17	ובשעות פנויות היה מעיין בספרים חיצונים	no mark (manuscript reads ובשעי דבית הכסא, per Schacter)	-	checked	view s027_b

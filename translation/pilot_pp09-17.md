@@ -280,7 +280,7 @@ the commandment completely — to travel to Jerusalem and give each his due shar
 receipt from each of the recipients, written and signed in the recipient's name, stating how much he had
 received. And so the envoy did, faithful to those who sent him, as completely as possible.
 
-So my father did ⟨S: "in the Three Communities"(?)⟩ and in Amsterdam, when he was rabbi and head of the court
+So my father did ⟨S: perhaps "book"⟩ and in Amsterdam, when he was rabbi and head of the court
 there. I myself saw the receipt slips of the poor and needy, whoever they were, sent from there, which reached
 his holy hand by the post from Livorno. Each of the poor — scholars, orphans, widows — had signed his name on his
 slip in his own hand, declaring and testifying how much he had received through the sage of Hebron from the money

@@ -1,52 +1,52 @@
 scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 28	18	מתוך צרת בנו שהשתרג עליו ^ בסבתו	caret; one word in right margin	חובות	fairly sure	view s028_full
 28	18	בחצי סיון בפרק ההוא ^ נולדתי	caret; note in right margin	שנת תנ"ז (in marg.)	sure	view s028_full
-28	18	תקוים בי תקותו ושמחתו	caret and v at the scan edge	-	not read	view s028_full
-29	19	ולוקחים ממנו איזה סך ^ מעות	caret; 4-line note in right margin	ובמה(?) להם / ... בלי ... / ... ושבועה(?) ... (partly read)	partial	view s029_full
+28	18	תקוים בי תקותו ושמחתו	caret and v at the scan edge	-	no note visible in the NLI image (HebrewBooks edge noise)	view s028_full; nli s031
+29	19	ולוקחים ממנו איזה סך ^ מעות	caret; 4-line note in right margin	ובתחכמו(?) ... / ובמה להחליף(?) / פרנסתו בלי שום / מתנה בשנים(?) וגו' ... / ... (cut at the page edge)	partial	view s029_full; nli s032
 29	19	מעלת אמ"ה ז"ל ^, בבואו לגור בק"א	caret; 2-line note in right margin	בהיות(?) ... / ... (not read)	not read	view s029_full
-32	22	ואז נחלקו העם בק"א, חצים נטו * אחר אמ"ה	x mark; short note in right margin	2-3 words, last perhaps ממון	not read	view s032_full
-32	22	lines 5-10 and 25	marks at the scan edge (cut off)	-	not read	view s032_full
-33	23	ולהודיעו צעקת לגימה שיש לאחרים עליו	short note in right margin	one word, perhaps ממון(?)	not read	view s033_full
-34	24	lines 5-12 and 27	marks at the scan edge (cut off), caret and v at line 27	-	not read	view s034_full
-35	25	אם לא יוסיפו לו בשכר הרבנות ^ שלהם	caret; 5-line note in right margin	(שהיה קצוב ... / לקבלת(?) ... / ... / וסיפקו לו ... / לקבל הרבנות (partly read)	partial	view s035_full
-36	26	הנקצב מן הקהל ^ בעד הכנסת של הרב	caret; one letter or short word in right margin	-	not read	view s036_full
+32	22	ואז נחלקו העם בק"א, חצים נטו * אחר אמ"ה	x mark; short note in right margin	(כ"י:?) ממון	fairly sure	view s032_full; nli s035
+32	22	lines 5-10 and 25	marks at the scan edge (cut off)	-	no note visible in the NLI image (HebrewBooks edge noise)	view s032_full; nli s035
+33	23	ולהודיעו צעקת לגימה שיש לאחרים עליו	short note in right margin	-	no note visible in the NLI image (HebrewBooks edge noise)	view s033_full; nli s036
+34	24	lines 5-12 and 27	marks at the scan edge (cut off), caret and v at line 27	-	no note visible in the NLI image (HebrewBooks edge noise)	view s034_full; nli s037
+35	25	אם לא יוסיפו לו בשכר הרבנות ^ שלהם	caret; 5-line note in right margin	(שהיה קצוב / לרבנים שקדמוהו / בזמנים) די לו(?) / וסיפקו לו יותר(?) / לקבל הרבנות	fairly sure	view s035_full; nli s038
+36	26	הנקצב מן הקהל ^ בעד הכנסת של הרב	caret; one letter or short word in right margin	-	no note visible in the NLI image (HebrewBooks edge noise)	view s036_full; nli s039
 38	28	ור"א המפורסם בעולם (the hazzan R. A.)	x mark over ר"א; note in right margin	נ"א (= variant reading; the variant itself not written or not read)	fairly sure (marker only)	view s038_full
-38	28	lines 12-14 and 26	marks at the scan edge (cut off)	-	not read	view s038_full
+38	28	lines 12-14 and 26	marks at the scan edge (cut off)	-	no note visible in the NLI image (HebrewBooks edge noise)	view s038_full; nli s041
 40	30	ופסלו את רבם ר"ש אאילין x בראשונה	x mark; one word in right margin	אאיליון (spelling of the name Ayllon)	fairly sure	view s040_full
-41	31	שבא בה חיון ^,	caret; one word in right margin (Kraken read it as a line)	הרשע	sure	view s041_full
-41	31	זוהמת אמונה כוזבת של ש"ץ ^	caret; short note	שר"י (= שם רשעים ירקב)	sure	view s041_full
-41	31	ואע"פ שכבר x נפרד מהם	x mark; one word	not read (Kraken: שאחכ / חיאש)	not read	view s041_full
-41	31	ענין הרע הלז של חיון ^	caret; one word	תמ"ו(?) / ימ"ש(?) (Kraken: תהGמו)	uncertain	view s041_full
-41	31	ומסרו בידו הספר ^ לעיין בו	caret; one word	הטמא(?) / הארור(?)	uncertain	view s041_full
-41	31	לעשות דין האיש x ההוא	x mark; one word	הרשע(?) (second instance)	uncertain	view s041_full
+41	31	שבא בה חיון ^,	caret; one word in right margin (Kraken read it as a line)	שר"י	sure	view s041_full; nli s044
+41	31	זוהמת אמונה כוזבת של ש"ץ ^	caret; short note	שר"י	fairly sure	view s041_full; nli s044
+41	31	ואע"פ שכבר x נפרד מהם	x mark; one word	שאח"כ (= שאחר כך)	fairly sure	view s041_full; nli s044
+41	31	ענין הרע הלז של חיון ^	caret; one word	ימ"ש	sure	view s041_full; nli s044
+41	31	ומסרו בידו הספר ^ לעיין בו	caret; one word	הטמא	fairly sure	view s041_full; nli s044
+41	31	לעשות דין האיש x ההוא	x mark; one word	הרשע	sure	view s041_full; nli s044
 41	31	עשות משפט באיש ^ ההוא	caret; one word	הבליעל (Kraken: תבלידל)	fairly sure	view s041_full
 42	32	ודחו לחיון ^ מבה"כ	caret; short note	שר"י	fairly sure	view s042_full
-42	32	בבזיון גדול x והרחיקו אותו	x mark; 2-line note	ובזיון(?) ... / ושנואה(?) (partly read)	partial	view s042_full
-42	32	אף ^ הוא חוטא ואשם	caret; short note	שר"י(?)	uncertain	view s042_full
+42	32	בבזיון גדול x והרחיקו אותו	x mark; 2-line note	[...]נהוג בו דין מוחרם / ומנודה (start cut at the page edge)	fairly sure	view s042_full; nli s045
+42	32	אף ^ הוא חוטא ואשם	caret; short note	אם	fairly sure	view s042_full; nli s045
 42	32	היותו מכת ש"ץ ^	caret; short note	שר"י	fairly sure	view s042_full
-42	32	כמעט x שנעשית מדינת הולאנד	x mark; one word	not read	not read	view s042_full
-43	33	להיותם נסוגים אחור לשקר ^ באמונתם	caret; one word in right margin	שחייה(?) (Kraken: שח")	not read	view s043_full
-43	33	שקרים מרים שנעשו ^	caret; one word	נבזים(?)	uncertain	view s043_full
-43	33	במקרה של ^ אייבשיץ	caret; note in right margin	הארור ימ"ש(?)	uncertain	view s043_full
-44	34	אשר גדלו בנימוסי ^ הא"ה	caret; one word	הגוים(?)	not read	view s044_full
-44	34	(כזה וכזה ^ עשה ג"כ אייבשיץ	caret; short note	הארור(?) ימ"ש(?)	uncertain	view s044_full
-44	34	כי קרא לפרופעסארס של ^ נכרים	caret; one word	ערלים(?) (Kraken: הרלים / נוברים)	uncertain	view s044_full
-44	34	להעיד עלינו ^ אל המיר"ה	caret; note	not read (Kraken: הזית)	not read	view s044_full
-44	34	ואחד מהם כתב למלך שהוא ^ יודע	caret; 3-line note	partly read (Kraken: אמה ויאינם)	partial	view s044_full
+42	32	כמעט x שנעשית מדינת הולאנד	x mark; one word	מעט	fairly sure	view s042_full; nli s045
+43	33	להיותם נסוגים אחור לשקר ^ באמונתם	caret; one word in right margin	שתיקה(?)	uncertain	view s043_full; nli s046
+43	33	שקרים מרים שנעשו ^	caret; one word	נבזים	fairly sure	view s043_full; nli s046
+43	33	במקרה של ^ אייבשיץ	caret; note in right margin	התועב(?) ... (cut at the page edge)	uncertain	view s043_full; nli s046
+44	34	אשר גדלו בנימוסי ^ הא"ה	caret; one word	הגדולים(?)	uncertain	view s044_full; nli s047
+44	34	(כזה וכזה ^ עשה ג"כ אייבשיץ	caret; short note	התועב; and a v after אייבשיץ: שר"י	fairly sure	view s044_full; nli s047
+44	34	כי קרא לפרופעסארס של ^ נכרים	caret; one word	ערלים	sure	view s044_full; nli s047
+44	34	להעיד עלינו ^ אל המיר"ה	caret; note	אשר קיבלתם(?)	uncertain	view s044_full; nli s047
+44	34	ואחד מהם כתב למלך שהוא ^ יודע	caret; 3-line note	מה שאינם מאמ[ינים ...] / שותו(?) (cut at the page edge)	partial	view s044_full; nli s047
 44	34	כמו שהיה ג"כ חיון רבו ^ לבו שלם	caret; one word	הארור(?)	uncertain	view s044_full
-44	34	דברים זרים ומרים באמונת ^ ישראל	caret; 2-3 word note	not read	not read	view s044_full
-44	34	ששלחם לפניו אל ק"ק עמדן הסמוכה	3-line note in right margin	partly read	partial	view s044_full
-45	35	בדפוס גם בלעז ספרדי ^, באופן	caret; 5-line note in right margin (Kraken fragments: שאז ונתפייסו / הצדדים באחדה / ופרסמו / התשובה)	בלונדון(?) שאז ונתפייסו / שני הצדדים באחדה / ... ופרסמו / התשובה	partial	view s045_full
-45	35	ולא קבל עליו ^, כי אמר אשכנזי אנכי	caret; 10-line note in right margin (Kraken fragments: שכרו משם אבל / לא אבה לקבל / היו ... בו / אהבה וחבה / יתירה נודעת לו / מהם, באשר ... / ספרדי / לונדון)	a passage on his salary and on the love of the Sephardim of London for him; partly read	partial	view s045_full
-45	35	(עשה [חסד] לק"ק	x mark; one word	not read	not read	view s045_full
+44	34	דברים זרים ומרים באמונת ^ ישראל	caret; 2-3 word note	(גם נמצאו בו / דברים מחזיקים(?) / אמונת הנוצרים / ממש ר"ל)	fairly sure	view s044_full; nli s047
+44	34	ששלחם לפניו אל ק"ק עמדן הסמוכה	3-line note in right margin	probably the same note as the previous row (NLI shows one note here)	uncertain	view s044_full; nli s047
+45	35	בדפוס גם בלעז ספרדי ^, באופן	caret; 5-line note in right margin (Kraken fragments: שאז ונתפייסו / הצדדים באחדה / ופרסמו / התשובה)	בלונדון שמחו(?) ... / שאז ונתפייסו / הצדדים באהבה / ובלונדון(?) נפרסמו / התשובה	fairly sure	view s045_full; nli s048
+45	35	ולא קבל עליו ^, כי אמר אשכנזי אנכי	caret; 10-line note in right margin (Kraken fragments: שכרו משם אבל / לא אבה לקבל / היו ... בו / אהבה וחבה / יתירה נודעת לו / מהם, באשר ... / ספרדי / לונדון)	לאמ"ה / שכרו משלם, אבל / לא אבה לקבל מה / שאומה(?) ... / כי היו מקובים(?) בו / אהבה וחבה / יתירה נודעת לו / מהם, לאמר / בשכבר(?) קודם / כי רצו קהל ספרדי / בלונדון	partial	view s045_full; nli s048
+45	35	(עשה [חסד] לק"ק	x mark; one word	טובה	fairly sure	view s045_full; nli s048
 46	36	ונסע ללונדון על ימים אחדים הוא לבדו ^	caret; 2-word note in right margin (Kraken: זלייוף אגנו)	בלי זוגתו(?)	uncertain	view s046_full
 47	37	בקשתם וחפצם הלב ^ בתחבולה	caret; one word	לב(?)	uncertain	view s047_full
 48	38	והק' ר' בנימן x עשה לו כבוד	x mark; one word	אהרן(?) (Kraken: הראן)	uncertain	view s048_full
 48	38	וואלף מירלש x ע"ה	x mark; one word	מינקלש(?) (Kraken: אינקלש)	uncertain	view s048_full
-50	40	ר' אברלי לונדון [וא"פ גיסו] ... והגישו עצומותיהם ^	caret; 5-line note in right margin (Kraken fragments: שחיה אסוכסך / גיסו)	אחיו(?) ... / ... גיסו ... (partly read)	partial	view s050_full
-50	40	וחקור דין ואהבת האמת ^	caret; 6-line note in right margin (Kraken fragments: וכל ... / שהעולם אינו / ... אותו / ממקומו מלבוא)	... שהעולם אינו ... / ... ממקומו מלבוא (partly read)	partial	view s050_full
+50	40	ר' אברלי לונדון [וא"פ גיסו] ... והגישו עצומותיהם ^	caret; 5-line note in right margin (Kraken fragments: שחיה אסוכסך / גיסו)	שחיה מסוכסך(?) / עם גיסו אולי / פאלק ... / ... ממון של / שותפות	partial	view s050_full; nli s053
+50	40	וחקור דין ואהבת האמת ^	caret; 6-line note in right margin (Kraken fragments: וכל ... / שהעולם אינו / ... אותו / ממקומו מלבוא)	וכל הרואות(?) / שהעולם אינו / מניעות(?) אותו / ממקומו מלדון / דין אמת לאמתו	fairly sure	view s050_full; nli s053
 53	41	ודאגה רבה א) ^	caret after the note call; refers to the typed sheet for p. 41 (scan 52)	(see typed insert, scan 52)	sure	view s053_full
-53	41	אשר השפיל ^ כבוד התורה (on the new head of court, R. Ezekiel Katzenellenbogen)	caret; 13-line note in right margin (Kraken fragments: כמו שקורין / הנגידים לאחיהם / וכל אשר היה נעשה / ... עסקי / הקהל ויחידים אשר / הגישו ריבם לפני / אב"ד שלהם היה / שואל ... תחילה)	a passage on how the rabbi was subordinate to the magnates: all community and private cases brought before him, he would first ask [R. Ber Kohen?] (partly read)	partial	view s053_full
+53	41	אשר השפיל ^ כבוד התורה (on the new head of court, R. Ezekiel Katzenellenbogen)	caret; 13-line note in right margin (Kraken fragments: כמו שקורין / הנגידים לאחיהם / וכל אשר היה נעשה / ... עסקי / הקהל ויחידים אשר / הגישו ריבם לפני / אב"ד שלהם היה / שואל ... תחילה)	ומפורסם בג"ק / והיה האב"ד הנ"ל / קרוב לרב"ך ... / בזקנו, כמו שקורין / הנגידים לאחיהם / בזקנם בלשון פולין / וכל אשר היה נעשה / בדין ובמשפט עסקי / קהל ויחידים אשר / הגישו ריבם לפני / אב"ד שלהם היה / שואל ומוקי(?) תחילה / מה הזקן שלו אומר / בדבר	fairly sure	view s053_full; nli s056
 54	42	גברה עלי מיחוש ^ השחורה	caret; one word	והתעורר(?) (Kraken: והתעורה)	uncertain	view s054_full
 54	42	אבל לא יום שמחת לבי ^ (כי חלוש ורפה אונים הייתי אז)	caret; 8-line note in right margin replacing or expanding Kahana's parenthesis (Kraken fragments: כי השעה / ... לא / היה לי כח גברא / והייתי בצער ... / ... / ... שכבר / והייתי באותו פרק / בן שבע עשרה שנה)	כי השעה ... לא / היה לי כח גברא / והייתי בצער ... / ... והייתי באותו פרק / בן שבע עשרה שנה (partly read)	partial	view s054_full
 55	43	ונסעתי עם זוגתי וחמי לארץ מעררין ^	caret; 4-line note in right margin (Kraken: כאש"ל הס"ד / בחלק ספורים / המגיעים אלי / ביחוד)	כאשר אכתוב(?) בס"ד / בחלק ספורים / המגיעים אלי / ביחוד	fairly sure	view s055_full

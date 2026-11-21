@@ -149,18 +149,17 @@ and also in the Land of Israel **[a]**.
 
 But before they reached the rest and the inheritance (Deut. 12:9), many evils and dire troubles passed over
 them; their soul had almost dwelt in silence (Ps. 94:17) by "the oppressing sword" (Jer. 46:16)
-⟨S: "the accursed Greeks, the oppressors, the Ishmaelites(?), the cruel ones, may their name be blotted
-out(?)"⟩. Thus it happened to my grandfather, the rabbi R. Jacob, of blessed memory, who was then a young
+⟨S: "the accursed Greeks, the oppressors, the Ishmaelites, the cruel ones, may their name be blotted
+out"⟩. Thus it happened to my grandfather, the rabbi R. Jacob, of blessed memory, who was then a young
 man. As they hurried to flee and escape for their lives from the oppressing sword, this perfect man was
-separated from his brothers ⟨S: a word, not read⟩ and from his young wife. She stayed with her father, who
+separated from his brothers ⟨S: the same word⟩ and from his young wife. She stayed with her father, who
 fled with his son and his wife to another land, so as not to sink into the pit of trouble.
 
 And they met my grandfather R. Jacob, of blessed memory — the reckless ones ⟨S: "the unclean, the
 uncircumcised"⟩, who multiplied the slain, uprooted many communities of Israel, "left not a hoof behind"
 (Ex. 10:26), and shed the blood of righteous, innocent men, faithful to God, by thousands and by myriads,
-who were like sheep for the slaughter in the hands of the oppressors ⟨S: a five-line note, partly cut off by
-the edge of the scan: "of the sons [one word struck out] / in the decree of Ukraine / they sat down to die
-(?) / … / … and Poland …"⟩. When they met this righteous man, the overseer of the captives **[b]** ordered him
+who were like sheep for the slaughter in the hands of the oppressors ⟨S: "of the sons [struck out] in the decree of
+Ukraine, and they thought to blot out the name of Israel from the land of Lithuania and Poland …"⟩. When they met this righteous man, the overseer of the captives **[b]** ordered him
 to kneel to the sword, to have his head cut off. And so he did: he stretched out his neck to the sharp sword
 for slaughter, to give his life to be killed for the sanctification of the Blessed Name.
 
