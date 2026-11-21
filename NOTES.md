@@ -115,3 +115,16 @@ Pipeline: `scripts/ocr_kraken.py` (Kraken PP-OCRv6, 17 pages in 19 min, 3 worker
   "Scholem's hand", which is probably wrong.
 - Site: inline readings are matched to the TSV rows in order per page (scripts/build_site.py, align_marks) and styled
   V or X; pp. 15, 75, 96 do not match and are shown untyped.
+
+## The Oxford manuscript: shelfmark and access (21-Nov-2026)
+
+- Shelfmark given in the literature: Bodleian **MS. Mich. 587** (Michael collection, bought 1848), e.g. "fols.
+  163b-165a" for the introduction (Fordham Early Modern Workshop source,
+  https://research.library.fordham.edu/emw/emw2011/emw2011/8/). Neubauer's catalogue number 1723:2 is presumably the
+  same manuscript (not checked against Neubauer). A copy, not Emden's autograph; the autograph is lost.
+- **Not online** as far as I can find: Digital Bodleian has only 13 Michael manuscripts digitized, and 587 is not one
+  of them; the Bodleian Hebrew catalogue online (hebrew.bodleian.ox.ac.uk) has no record for it.
+- Not checked: NLI Ktiv (IMHM microfilm of the Bodleian MS; Ktiv is behind the same Cloudflare check). The owner can
+  search ktiv.nli.org.il for "מגלת ספר" / Mich. 587 in a normal browser; if images are viewable there, they would allow
+  a check of Kahana's text and of the Wirszubski collation against the manuscript itself.
+- Other route: order a digital copy from Bodleian Imaging Services.
