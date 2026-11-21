@@ -91,7 +91,7 @@ and five daughters. In this year 5512 [1752] they are still alive and well, than
 their days and years in goodness and pleasantness.
 
 There in Altona the Blessed One built him "a sure house" (1 Sam. 2:35), and set up for him the great house of
-study, the Klaus, which the magnates and rich men of the Three Communities founded for him, to spread true
+study, the Kloyz, which the magnates and rich men of the Three Communities founded for him, to spread true
 Torah, for its own sake. Outstanding students and rabbis from the lands of Poland and Lithuania gathered to
 him there, and studied Torah there with great diligence; day and night they did not cease to learn Gemara,
 Rashi and Tosafot, the codes, halakhot and aggadot. They also "filled their hands to the Lord" with other
@@ -126,7 +126,7 @@ show partiality in judgement, and will do only what is right in the eyes of the 
 
 And the great wonder is that the lust for money and the love of silver, which "answers all things"
 (Eccl. 10:19), could not turn his heart towards it, although he was burdened with sons and daughters, and his
-house was empty of any large income. All the years he was rabbi in the Klaus he had only sixty Reichstaler a
+house was empty of any large income. All the years he was rabbi in the Kloyz he had only sixty Reichstaler a
 year, a fixed sum, against very great and necessary expenses — in every
 
 ## Page 12 (scan 22)
@@ -186,7 +186,7 @@ that they had not listened to his good advice, and asked him about it a third ti
 his removal and again passed that way; but they did not succeed at that time, as I will write below **[a]**. And
 I return to where I was.
 
-My father held a yeshiva and house of study in the Klaus of Altona for nearly twenty years. There he spread
+My father held a yeshiva and house of study in the Kloyz of Altona for nearly twenty years. There he spread
 Torah, wisdom and fear of Heaven, "and declared sound wisdom in abundance" (Job 26:3). He won a good name, not
 only in the Three Communities: his name went to the end of the world, his fame was great in all lands, and his
 net was spread even to Jerusalem. Many sages of Germany and Poland sent him their letters and questions on every
@@ -199,7 +199,7 @@ upon him — to judge and rule between a man and his fellow, and between one com
 let him go.
 
 Also when his father-in-law, my grandfather, the head of the court R. Zalman Mirels, mentioned above, reigned
-in the Three Communities, and my father was rabbi in the Klaus, it was my father who went out and came in [and
+in the Three Communities, and my father was rabbi in the Kloyz, it was my father who went out and came in [and
 ran their affairs]. For his father-in-law, my grandfather, was a very honoured old man, and for some years he
 lay in his bed; all the affairs of the town rested on my father. All this was without any salary or fee: he was
 a servant to this people in the Three Communities, and served them with all his strength, for nothing, without

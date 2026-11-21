@@ -77,7 +77,7 @@ great-grandfather, the pious gaon, died in his seat of honour, the holy communit
 Buda, and which was then great and wealthy. He died aged sixty-two **[c]**, before the emperor conquered it
 **[d]**. His son Judah Leib pitched the tent of Torah in Jerusalem — may it be built and established speedily
 in our days — and died there with a good name. He left a son, a great scholar, the rabbi R. Yedidiah, of
-blessed memory, who married the daughter of the rabbi R. Isaac Tsaḥaki, of blessed memory, the master of the
+blessed memory, who married the daughter of the rabbi R. [Abraham] Yitzḥaki, of blessed memory, the master of the
 Land of Israel in his day **[e]**.
 
 My great-grandfather, the gaon of *Sha'ar Efraim*, had one daughter, named Neḥamah, of blessed memory. She

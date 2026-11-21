@@ -88,3 +88,11 @@ Pipeline: `scripts/ocr_kraken.py` (Kraken PP-OCRv6, 17 pages in 19 min, 3 worker
   read (pp. 60, 82, 98, 104-105).
 - Workflow per batch: align_pninim.py -> read data/view/sNNN_full.png -> fixes JSON in scratchpad ->
   merge_fixes.py -> apply_fixes.py -> append translation -> build_site.py -> commit + push.
+
+## Translation fixes (21-Nov-2026)
+
+- "Klaus" -> "Kloyz" everywhere (the Altona kloyz, קלויז; see https://en.wikipedia.org/wiki/Kloyz).
+- p. 4 (scan 12): Hebrew "בת הרב יצחקי ז"ל, מרא דארעא ישראל" is R. Abraham Yitzḥaki of Jerusalem, not "R. Isaac
+  Tsaḥaki". Now "R. [Abraham] Yitzḥaki".
+- p. 39 (scan 49) and p. 59 (scan 72): ברודא is Brod (Uherský Brod, Moravia), not Brody. "R. Eleazar of Brody" in
+  Kahana's notes (scan 83 etc., בראדי) is correct and unchanged.
