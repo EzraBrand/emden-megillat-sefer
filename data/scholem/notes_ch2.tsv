@@ -1,6 +1,6 @@
 scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
-68	56	כבר השלמתי ללמוד מס' ברכה x	x mark; one word in right margin	not read	not read	view s068_full
-68	56	רבות צררוני מנעורי גם לא יכלו לי ^, הן מנפילת שנים	caret; 2-word note (Kraken read it as a line)	לכלות חוץ(?)	uncertain	view s068_full
+68	56	כבר השלמתי ללמוד מס' ברכה x	x mark; one word in right margin	ביזה(?)	uncertain	view s068_full; nli s071
+68	56	רבות צררוני מנעורי גם לא יכלו לי ^, הן מנפילת שנים	caret; 2-word note (Kraken read it as a line)	לכלות חוץ	fairly sure	view s068_full; nli s071
 69	57	הקטטות והרדיפות של שני כתות החזקים x	x mark over the word; one or two letters in right margin	ן (correcting החזקים to החזנים, "the cantors")	fairly sure	view s069_full
 70	58	ועון התלוי בראש רש"א כנ"ל א) x	x mark; short note	שר"י	fairly sure	view s070_full
 72	59	(handwritten sheet "for p. 59", in Scholem's hand)	whole sheet; caret at its start, matching the caret after "באנו לברעסלוי שילהי קיץ הנ"ל א)" on p. 59	see data/text/s072.he.txt (6 lines, most words read)	partial (most words fairly sure)	data/scholem/s072_a.png, s072_b.png
@@ -9,9 +9,9 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 73	59	להשיב ע"ד מהר"א x כהשגותיו	x mark over the name; short note	מהר"מ (correcting to R. M[ichel], the author of the objections, cf. p. 38)	fairly sure	view s073_full
 73	59	באנו לברעסלוי שילהי קיץ הנ"ל א) ^	caret pointing to the handwritten sheet (scan 72)	(see scan 72)	sure	view s073_full
 73	59	מיחוש של קוצר הנשימה ולחיצה x	x mark; one word	not read	not read	view s073_full
-74	60	ועשה לי ^ נישואין א)	caret; 3-line note in right margin (Kraken: ... לקח ... )	בדרך(?) לקח ... (partly read)	partial	view s074_full
-74	60	היתה קשה עלי פרידתו ... (lines 9-21)	long note in right margin, about 13 lines, beside the passage on parting from his father after the wedding (Kraken fragments: ... הכסף / ... / אף לא טעם בעילה / ... / לא טעמתי טעם שמחה / ... יגון)	... מעט הכסף(?) / ... / אף לא טעם בעילה / ... / לא טעמתי טעם שמחה / ... יגון (partly read; seems to continue the wedding-night passage of p. 42)	partial	view s074_full
-75	61	מה שנתן לי דודי ז"ל ^ ודורון לחתונה	caret; one word	a name, not read	not read	view s075_full
+74	60	ועשה לי ^ נישואין א)	caret; 3-line note in right margin (Kraken: ... לקח ... )	בדרך נלקח ממני(?) / המכס מעט הכסף / שנתנו לי בהב"ג ונפזר / כמדות	fairly sure	view s074_full; nli s077
+74	60	היתה קשה עלי פרידתו ... (lines 9-21)	long note in right margin, about 13 lines, beside the passage on parting from his father after the wedding (Kraken fragments: ... הכסף / ... / אף לא טעם בעילה / ... / לא טעמתי טעם שמחה / ... יגון)	ובכל זה לא / טעמתי טעם בעולם(?) / אף לא טעם בעילה / ונאספה ממני שמחה / וגילה עם רעי(?) תענוגי / היה שטף מים רבים(?) / בדרך לברעסלו. / לא טעמתי טעם שמחה / כי הייתי ... יגון / ואנחת מסוף(?) השחור(?)	partial (most words read)	view s074_full; nli s077
+75	61	מה שנתן לי דודי ז"ל ^ ודורון לחתונה	caret; one word	מתנה	fairly sure	view s075_full; nli s078
 76	62	כי בעוד שלש שנים כשני שכיר, שהייתי ^ שכיר יום	caret; 5-line note in right margin	שוקד(?) ... / ... / ... כאלו הייתי (partly read)	partial	view s076_full
 80	66	ויהי הם בדרך לבוא ^ על נישואי	caret; short note	לק"ק(?)	uncertain	view s080_full
 80	66	עכ"ז לא עלתה בידו ^ ע"י שמושא הרב	caret; one word	להבחין(?) (Kraken: לקו)	uncertain	view s080_full
@@ -20,14 +20,14 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 88	72	זולת בפפד"ש ^ ובברלין	caret; one word	not read	not read	view s088_full
 88	72	אכלוהו ויכלוהו הוציאוהו לטמיון ^	caret; 2-word note	למקום הטנופת	fairly sure	view s088_full
 88	72	חוץ מבן אחד ר' יוזפא כהן ^	caret; 3-line note	ששני בניו ג"כ / מומרים מושמדים / בין הנכרים	fairly sure	view s088_full
-89	73	יצאו לתרבות רעה ^, כאשר הם רוב בני שלשת האחים	caret; 3-line note	או(?) מומרים או ... / ... או גויים(?) / וזונות מופקרות	partial (last line fairly sure)	view s089_full
+89	73	יצאו לתרבות רעה ^, כאשר הם רוב בני שלשת האחים	caret; 3-line note	הם או מומרים / ומומרות או גנבים / וזונות מופקרות	fairly sure	view s089_full; nli s092
 89	73	כמו האיש ^ הלז	caret; short note (on Eybeschütz)	אמן(?) שר"י	fairly sure	view s089_full
-89	73	חוץ מעטים שלא הגיעו עדיין למדרגה זו הנ"ל ^	caret; 3-line note	וזונות כת ... / ... מנאפים / ... דת וקדושה(?)	partial	view s089_full
-89	73	רק שקרוע בכפליו מרוב ישנו ^	caret; 5-line note	partly read (Kraken: שהיה שוה ... / ... כאשר ...)	partial	view s089_full
-90	74	כי שלח בנו הגדול לפאריז ^	caret; short note in parentheses	(שוק של מינים(?))	uncertain	view s090_full
-91	75	ואבד כל מה שנתן אביו בידו ^, בעד מאה אלף	caret; 3-line note	... בבית זונה(?) / ... זונה(?) / ... (partly read)	partial	view s091_full
+89	73	חוץ מעטים שלא הגיעו עדיין למדרגה זו הנ"ל ^	caret; 3-line note	וזונות כת של / גנבים מנאפים / ממירי דת וקדושה	fairly sure	view s089_full; nli s092
+89	73	רק שקרוע בכפליו מרוב ישנו ^	caret; 5-line note	המשכון של אב(?) / שהיה שוה יותר(?) / ולא נתן שטר(?) / ... כאשר ... / ...	partial	view s089_full; nli s092
+90	74	כי שלח בנו הגדול לפאריז ^	caret; short note in parentheses	(שוק של זונות(?))	uncertain	view s090_full; nli s093
+91	75	ואבד כל מה שנתן אביו בידו ^, בעד מאה אלף	caret; 3-line note	בבית ... / באתנן זו[נה] / ואחר(?) (cut at the page edge)	partial	view s091_full; nli s094
 91	75	ועילויא דידי היינו עלויא ב) ^	caret; one word	not read	not read	view s091_full
-91	75	נאבדה לי או נגנבה ממני ^ אורלוגין	caret; one word	אורלוגין (spelling)	uncertain	view s091_full
+91	75	נאבדה לי או נגנבה ממני ^ אורלוגין	caret; one word	אורלוגין	fairly sure	view s091_full; nli s094
 92	76	שנשארו חייבים לשררות ^ ויועצים	caret; 2-word note (Kraken: מערלים)	מהערלים(?) ונכרים(?)	uncertain	view s092_full
 92	76	באושפיזא אצל נכרי x	x mark; one word	ערל	fairly sure	view s092_full
 94	78	ולפסול את בניו ^, דבר שלא נשמע	caret; 4-line note in right margin	partly read (... ישראל / ... / ... ותשן(?))	partial	view s094_full
@@ -38,29 +38,29 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 97	81	ביחוד שהוא תקיף אצל הקטולים x	x mark; one word	הכומרים	fairly sure	view s097_full
 97	81	רק אותם ^ חבריו כפאפרש	caret; one word	המינין(?)	uncertain	view s097_full
 98	82	אכן אצל כומרי הקטולים x חשוב היה אייבשיצר	x mark; one word	הערלים	fairly sure	view s098_full
-98	82	אייבשיצר ^, אצלם היה לו יד ושם	caret; 2-line note	שספכו לו(?) כי ... / הוגד(?) ... (partly read)	partial	view s098_full
-98	82	ובזה האופן היה מרויח פרנסתו ^	caret; about 12-line note in right margin on Eybeschütz in Prague (Kraken fragments: שנים יפות ... / תחת תוכחת / ... / אולי כך היה ...)	partly read (a passage on his dealings and his reputation, ending "... אצל הגוים ... ונעשה ... ")	partial	view s098_full
+98	82	אייבשיצר ^, אצלם היה לו יד ושם	caret; 2-line note	שספכו(?) בית / הוועד לצנות(?)	uncertain	view s098_full; nli s101
+98	82	ובזה האופן היה מרויח פרנסתו ^	caret; about 12-line note in right margin on Eybeschütz in Prague (Kraken fragments: שנים יפות ... / תחת תוכחת / ... / אולי כך היה ...)	אין ספק שהטמא / אותם ג"כ ... / פנים יפות לאמונתם / עם שהראה עצמו / מתחלה מתוכח(?) / עמהם ומנצח אותם / ואולי כך היה מתחלה / אך לבסוף נדבק / בו רוח רע מאליו(?) / הרבה מאד ... / נתברר הדבר / שהאמין הוא ג"כ / בנוצרי ואלמו(?)	fairly sure	view s098_full; nli s101
 99	83	באו גם שני נכרים x	x mark; 2-word note	ערלים רשעים	fairly sure	view s099_full
 99	83	וקראונו יהודים ^ נבזים	caret; one word	כלבים	fairly sure	view s099_full
 99	83	האנשים x הללו	x mark; one word	הפושעים	fairly sure	view s099_full
 99	83	על הסוחר ^ האיטאליאני	caret; one word	הערל(?)	uncertain	view s099_full
 100	84	נפרדו מאתנו ^ העוכרים אותנו	caret; one word	הרשעים	fairly sure	view s100_full
-100	84	שהוחלק הקרון שאני יושב בו מצד שרגלי ^ בין שתי הקרונות	caret; 5-line note in right margin	... קרון אחר ... / ... ונתחככה(?) רגלי (partly read)	partial	view s100_full
+100	84	שהוחלק הקרון שאני יושב בו מצד שרגלי ^ בין שתי הקרונות	caret; 5-line note in right margin	... פשוטה(?) / והחוק(?) ירוק מן ... / ושטף ועקר ... / קרון אחר כזה / ההולך לנגדו ונתחככה / רגלי	partial	view s100_full; nli s103
 100	84	במשיחות וסיכות חריפות x	x mark; one word	ורפואות(?)	uncertain	view s100_full
 101	85	על מנת שלא יהא אדם רשאי ... (line 21)	short note at scan edge (cut off)	-	not read (cut by scan edge)	view s101_full
 103	87	ומכר לי בהקפה מצד אחוה x כנ"ל	x mark; 2-word note	not read	not read	view s103_full
 103	87	והן מצד השודדים ^ שם בין ההרים	caret; one word	הגזלנים(?)	uncertain	view s103_full
 104	88	וכנראה מן ^ העסק הלז	caret; 2-word note	השמים היה	fairly sure	view s104_full
-104	88	כתבי פלסתר מהאיש x הלזה	x mark; one word	הטמא(?)	uncertain	view s104_full
-104	88	עם קציני ווינא ^, השבים מפראג	caret; 5-line note in right margin	השרים היו / ... ...(?) / ... / תלמידים(?) ... / מהולינים(?) (partly read)	partial	view s104_full
-104	88	הספר כ"י של א"ש א) ^	caret; 3-line note (the title of the manuscript)	מסוג(?) האפיקורוס / ... / ... (partly read)	partial	view s104_full
-105	89	מרוב החירופים וגידופים והפוך דא"ח ^ בסתרי קבלה	caret; 2-word note	ס' מינות ואפיקורסות(?) ...	uncertain	view s105_full
-105	89	שאין ספק שהוא x טעון שריפה בודאי	x mark; 5-line note	לא נמצא(?) ... / ... ומחובר(?) ... / מין ואפיקורוס / ... (partly read)	partial	view s105_full
-105	89	דוב אורב x הוא להיהדות	x mark; one word	not read	not read	view s105_full
-105	89	זכר אייבשיצר ^	caret; one word	הטמא(?) / אמן(?)	uncertain	view s105_full
-105	89	והבנתי כי ^ מאת ה' היתה זאת	caret; 2-line note	זה הוא(?) הלוי(?) / עוכר ישראל	partial	view s105_full
+104	88	כתבי פלסתר מהאיש x הלזה	x mark; one word	ממין(?)	uncertain	view s104_full; nli s107
+104	88	עם קציני ווינא ^, השבים מפראג	caret; 5-line note in right margin	השרים היו / מזמינים חוקרים / ודורשים של(?) / תלמידים שאינם / מהוגנים	fairly sure	view s104_full; nli s107
+104	88	הספר כ"י של א"ש א) ^	caret; 3-line note (the title of the manuscript)	מסות(?) המפורסם / בעולם הנקרא / ...	partial	view s104_full; nli s107
+105	89	מרוב החירופים וגידופים והפוך דא"ח ^ בסתרי קבלה	caret; 2-word note	ס' מינות ואפיקורסות / וטעון(?)	fairly sure	view s105_full; nli s108
+105	89	שאין ספק שהוא x טעון שריפה בודאי	x mark; 5-line note	לא נודע ולא / נודע במותו משום(?) / מין ואפיקורוס / בעולם	fairly sure	view s105_full; nli s108
+105	89	דוב אורב x הוא להיהדות	x mark; one word	שר"י	fairly sure	view s105_full; nli s108
+105	89	זכר אייבשיצר ^	caret; one word	המין	fairly sure	view s105_full; nli s108
+105	89	והבנתי כי ^ מאת ה' היתה זאת	caret; 2-line note	שם הלוי ה... / עוכר ישראל	partial	view s105_full; nli s108
 105	89	תועבות האיש x הלז	x mark; one word	האפיקורוס	fairly sure	view s105_full
-105	89	טובות לעמנו x בני ישראל	x mark; one word	לאומי(?)	uncertain	view s105_full
+105	89	טובות לעמנו x בני ישראל	x mark; one word	לאומי	fairly sure	view s105_full; nli s108
 106	90	והמוכס יצא ^ אבל וחפוי ראש	caret; one word	בפח(?)	uncertain	view s106_full
 108	92	וכן מכמה קנאים יהודים ונכרים x	x mark; 2-word note (Kraken: וארוים להבדיל)	וערלים להבדיל	fairly sure	view s108_full
 108	92	הרב כמו' ^ דייכש	caret; one word	ליזר(?)	uncertain	view s108_full
@@ -69,7 +69,7 @@ scan_page	book_page	anchor_in_print	mark	margin_text_reading	certainty	crop
 112	96	ונהפך לי לרועץ ולרוע ^	caret; one word	not read	not read	view s112_full
 112	96	כמו כל אשר עלו [עלי] ^	caret; 2-word note	עבר עלי(?)	uncertain	view s112_full
 112	96	ספרי נכרים x	x mark; one word	הגוים(?)	uncertain	view s112_full
-114	98	במקום שאסור להרהר בד"ת לא זולת בלל ^	caret; 5-line note in right margin (Kraken: ... הרווחת / ... שלא ...)	ולשון ... / ... להאריך / ... / ... הלכו / ... (partly read)	partial	view s114_full
+114	98	במקום שאסור להרהר בד"ת לא זולת בלל ^	caret; 5-line note in right margin (Kraken: ... הרווחת / ... שלא ...)	ולהיות טבעי / דבוק להאריך / בבוהכ"נ כאשר(?) / מנ"ל הרווחת / בכך שלא הלכו / שני בבה"כ / להפסיד ולאבד / לגמרי	fairly sure	view s114_full; nli s117
 114	98	ביחוד במלאכת ^ חכמת הרפואה	caret; 2-word note	not read	not read	view s114_full
 114	98	ממשקה ^ שכר שעורים	caret; one word	של(?)	uncertain	view s114_full
 115	99	עד שכמה פעמים היה נפשי מבצבצת ^	caret; one word	מלפרוח(?)	uncertain	view s115_full
