@@ -10,3 +10,4 @@ source/
 logs/
 __pycache__/
 !docs/scans/*.png
+data/nli/

@@ -131,3 +131,15 @@ Pipeline: `scripts/ocr_kraken.py` (Kraken PP-OCRv6, 17 pages in 19 min, 3 worker
 - Ktiv (checked by the owner, 21-Nov-2026): Ms. Mich. 587 = Neubauer 1723, IMHM film F 17754, "not scanned". The
   same volume also holds Vital's *Mevo She'arim* (c. 1675) and a collection (17th-18th c.). So the manuscript is not
   online anywhere; only Bodleian Imaging Services or the IMHM reading room.
+
+## NLI page images downloaded (21-Nov-2026)
+
+- 258 colour JPEGs of IE12757688 in `data/nli/nli_001.jpg` ... `nli_258.jpg` (178 MB, git-ignored), fetched by the owner
+  in their browser with `scripts/nli_download_console.js` (file ids in `data/nli_files.json`).
+- Mapping: **NLI image = HebrewBooks scan + 3** for scans 1-254 (checked at the start, scan 150 = NLI 153 = p. 132,
+  and scan 254 = NLI 257). Extra NLI images: 1 = the handwritten key sheet (Wirszubski collation), 2 = portrait of
+  Emden, 3 = blank, 258 = back cover.
+- The NLI OCR text (ALTO via StreamGate) needs the viewer's session token; a plain request returns an empty 200. Not
+  downloaded.
+
+- NLI OCR text: StreamGate refuses with "Action is not relevant for entity of type REPRESENTATION" and blocks CORS from the viewer frame. Dropped.

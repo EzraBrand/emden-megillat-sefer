@@ -1,5 +1,6 @@
 """Kraken OCR of Kahana 1896 scan pages (PP-OCRv6 medium), resumable.
   py -3.13 scripts/ocr_kraken.py FIRST LAST [WORKERS]
+  py -3.13 scripts/ocr_kraken.py --list 119,148,180 [WORKERS]   (pages in the given order)
 Writes data/raw/sNNN.png (600 dpi grey), data/kraken/sNNN.vis.txt (Kraken visual order) and
 data/kraken/sNNN.txt (logical order). Skips pages that already have sNNN.txt."""
 import os
@@ -41,9 +42,13 @@ def one(n: int) -> str:
 
 
 if __name__ == "__main__":
-    a, b = int(sys.argv[1]), int(sys.argv[2])
-    w = int(sys.argv[3]) if len(sys.argv) > 3 else 3
-    pages = list(range(a, b + 1))
+    if sys.argv[1] == "--list":  # --list 119,148,180,... [WORKERS]: pages in this order
+        pages = [int(x) for x in sys.argv[2].split(",") if x]
+        w = int(sys.argv[3]) if len(sys.argv) > 3 else 3
+    else:
+        a, b = int(sys.argv[1]), int(sys.argv[2])
+        w = int(sys.argv[3]) if len(sys.argv) > 3 else 3
+        pages = list(range(a, b + 1))
     done = 0
     with ThreadPoolExecutor(w) as ex:
         for msg in ex.map(one, pages):

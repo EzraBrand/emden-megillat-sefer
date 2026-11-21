@@ -29,11 +29,15 @@ and no translation section.
 
 ## 2. Margin readings in Scholem's copy (the Wirszubski collation)
 
-The handwritten notes are in the RIGHT margin, next to the line they belong to, with a mark in the printed line.
+The handwritten notes are in the outer margin (even scan pages: right margin; odd scan pages: left margin), next to
+the line they belong to, with a mark in the printed line. **Read them from the NLI colour scan of the same copy**:
+`py -3.13 scripts/render_view.py N --nli --box X0 Y0 X1 Y1 --scale 1.5` (image `data/nli/nli_{N+3}.jpg`; it has the
+full margins that the HebrewBooks scan cuts off, and higher resolution). The NLI image can also settle doubtful
+printed words.
 A key sheet in the copy says: readings follow the Oxford manuscript; **V** (a caret, ^) = omission (words missing in
 the print); **X** = substitution (the MS has the margin words instead of the printed ones); collated by Ḥayyim
-Wirszubski. Read them at 300-400 dpi with a box that takes in the margin and the adjacent printed words
-(`--box 0.70 Y0 1 Y1 --dpi 350`). `py -3.13 scripts/margin_ink.py FIRST LAST` lists ink bands in the margins if you
+Wirszubski. Use a box that takes in the margin and the adjacent printed words (right margin: `--box 0.65 Y0 1 Y1`; left
+margin: `--box 0 Y0 0.35 Y1`). `py -3.13 scripts/margin_ink.py FIRST LAST` lists ink bands in the margins if you
 need help finding them. The scan crops part of the right margin: say "cut off" when it is.
 
 For each mark, one row in your TSV (columns, tab-separated, header as in `data/scholem/notes_ch2.tsv`):
