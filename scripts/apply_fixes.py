@@ -1,5 +1,6 @@
 """Apply data/fixes.json to the split OCR and write the checked text.
   py -3.13 scripts/apply_fixes.py FIRST LAST
+Fixes: data/fixes.json plus data/fixes_parts/*.json (same format, one file per page range).
 Reads data/body/sNNN.txt + data/notes_kahana/sNNN.txt, writes data/text/sNNN.he.txt (main text) and
 data/text/sNNN.notes.txt (Kahana's footnotes). Kahana's footnote calls "א(" are written as "[א]".
 Reports fixes whose 'old' string was not found (so a stale fix is never silent)."""
@@ -11,6 +12,9 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 ROOT = Path(__file__).resolve().parents[1]
 FIX = json.loads((ROOT / "data" / "fixes.json").read_text(encoding="utf-8"))
+# per-range fix files written by parallel workers (data/fixes_parts/sAAA-BBB.json) add to / override fixes.json
+for _p in sorted((ROOT / "data" / "fixes_parts").glob("*.json")):
+    FIX.update(json.loads(_p.read_text(encoding="utf-8")))
 OUT = ROOT / "data" / "text"
 OUT.mkdir(parents=True, exist_ok=True)
 
