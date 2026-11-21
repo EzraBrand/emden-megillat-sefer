@@ -93,3 +93,7 @@ blockquote{margin:12px 0;padding:4px 12px;border-left:3px solid var(--accent);co
   .bar{position:static}html{scroll-padding-top:8px}
 }
 @media (min-width:801px){.scanimg{position:sticky;top:64px;align-self:flex-start}}
+.sch-v::before,.sch-x::before{font-size:.72em;font-weight:600;margin-right:3px;vertical-align:1px;letter-spacing:.02em}
+.sch-v::before{content:"V +"}
+.sch-x::before{content:"X ⇄"}
+.sch-x{outline:1px dashed var(--schfg);outline-offset:-1px}

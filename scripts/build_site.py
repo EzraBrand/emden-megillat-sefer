@@ -3,7 +3,7 @@
 Inputs:
   translation/*.md          sections '## Page N (scan M)' or '## Typed insert ... (scan M) ...'
   data/text/sMMM.he.txt     checked Hebrew, + sMMM.notes.txt (Kahana's notes)
-  data/scholem/notes_*.tsv  Scholem's marks
+  data/scholem/notes_*.tsv  margin readings in Scholem's copy (V = omission, X = substitution)
   data/site/intro.md        introduction for general readers (home page)
   data/site/entities.json   index of people, places, books (regex patterns over the English)
   data/site/review.json     review status per page (default: draft)
@@ -184,13 +184,49 @@ class Linker:
         return "".join(out)
 
 
-def md(s):
+def mark_kind(row):
+    """V = omission (caret), X = substitution, per the key sheet in the copy; '' if not recorded."""
+    m = row["mark"].lower()
+    if "x mark" in m:
+        return "X"
+    if "caret" in m or "v mark" in m:
+        return "V"
+    return ""
+
+
+def align_marks(n_inline, rows):
+    """Match the inline ⟨S: …⟩ readings of a page to its TSV rows, in order. Rows without a margin reading
+    (bracket marks only, pointers to an inserted sheet) have no inline reading; drop them if that makes the counts
+    agree. Returns a list of rows (one per inline reading) or None if the match is not clear."""
+    if n_inline == len(rows):
+        return rows
+    kept = [r for r in rows if r["margin_text_reading"].strip() not in ("-", "")
+            and not r["margin_text_reading"].startswith("(see scan") and "sheet" not in r["anchor_in_print"]]
+    return kept if n_inline == len(kept) else None
+
+
+def sch_span(row):
+    k = mark_kind(row) if row else ""
+    anchor = html.escape(row["anchor_in_print"]) if row else ""
+    if k == "X":
+        t = f"X in the margin: by the key sheet, a substitution: the Oxford MS has these words instead of the printed ones (at: {anchor})"
+    elif k == "V":
+        t = f"V (caret) in the margin: by the key sheet, an omission: these words are missing in the print (at: {anchor})"
+    else:
+        t = "Margin reading from the Oxford MS (type of mark not recorded)"
+    cls = {"X": " sch-x", "V": " sch-v"}.get(k, "")
+    return f'<span class="sch{cls}" title="{t}">'
+
+
+def md(s, marks=None):
+    if marks is not None:
+        s = re.sub("⟨S:", lambda m: sch_span(next(marks, None)) + "⟨\u0001S:", s)
     s = re.sub(r"^\[\*Here chapter (\d+) begins([^*]*)\*\]\s*$",
                lambda m: f'\n<div class="chapbreak" id="chapter-{m.group(1)}"><span>Chapter {m.group(1)} begins here</span>'
                          f'<small>{html.escape(m.group(2).strip().rstrip("."))}</small></div>\n',
                s, flags=re.M)
     s = re.sub(r"\*\*\[([a-z])\]\*\*", r'<strong class="fn-en">[\1]</strong>', s)
-    s = s.replace("⟨S:", '<span class="sch">⟨S:').replace("⟩", "⟩</span>")
+    s = s.replace("⟨S:", '<span class="sch">⟨S:').replace("\u0001", "").replace("⟩", "⟩</span>")
     return markdown.markdown(s, extensions=["extra"])
 
 
@@ -322,7 +358,7 @@ def main():
         s["ch"] = c["n"]
         c["secs"].append(s)
 
-    search = []
+    search, unmatched = [], []
     for c in chapters:
         if not c["secs"]:
             continue
@@ -334,15 +370,21 @@ def main():
             sn = sch.get(scan, [])
             sch_html = ""
             if sn:
-                sch_html = "<details class='schbox'><summary>Scholem's marks on this page ({})</summary><table><tr><th>Printed anchor</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr>{}</table></details>".format(
-                    len(sn), "".join(f"<tr><td dir='rtl'>{html.escape(r['anchor_in_print'])}</td><td>{html.escape(r['mark'])}</td>"
+                kind_txt = {"X": "X: substitution", "V": "V: omission", "": "—"}
+                sch_html = "<details class='schbox'><summary>Margin readings in Scholem's copy ({})</summary><table><tr><th>Printed anchor</th><th>Type (key sheet)</th><th>Mark</th><th>Reading</th><th>Certainty</th></tr>{}</table></details>".format(
+                    len(sn), "".join(f"<tr><td dir='rtl'>{html.escape(r['anchor_in_print'])}</td><td>{kind_txt[mark_kind(r)]}</td><td>{html.escape(r['mark'])}</td>"
                                      f"<td dir='rtl'>{html.escape(r['margin_text_reading'])}</td><td>{html.escape(r['certainty'])}</td></tr>" for r in sn))
+            n_inline = (s["en"] + s["kahana_en"]).count("⟨S:")
+            matched = align_marks(n_inline, sn) if n_inline else []
+            if n_inline and matched is None:
+                unmatched.append(s["long"])
+            marks = iter(matched or [])
             he_notes = hebrew_notes_list(scan)
             he_notes_html = "".join(f"<li>{html.escape(n)}</li>" for n in he_notes)
-            en_html = linker.link(md(s["en"]), ref)
+            en_html = linker.link(md(s["en"], marks), ref)
             kn_html = ""
             if s["kahana_en"]:
-                kn_html = '<div class="knotes-en"><h3>Kahana\'s notes</h3>' + linker.link(md(s["kahana_en"]), ref) + "</div>"
+                kn_html = '<div class="knotes-en"><h3>Kahana\'s notes</h3>' + linker.link(md(s["kahana_en"], marks), ref) + "</div>"
             status = review.get("pages", {}).get(anchor, review.get("default", "draft"))
             badge = review.get("labels", {}).get(status, status)
             body.append(f"""
@@ -360,7 +402,7 @@ def main():
 </section>""")
             search.append({"f": fname, "a": anchor, "l": s["long"], "c": c["n"],
                            "h": hebrew_plain(scan) + " " + " ".join(he_notes),
-                           "e": plain_md(s["en"] + " " + s["kahana_en"]).replace("⟨S:", "⟨Scholem:")})
+                           "e": plain_md(s["en"] + " " + s["kahana_en"]).replace("⟨S:", "⟨MS margin:")})
         n = c["n"]
         prevc = next((p for p in chapters if p["n"] == n - 1 and p["secs"]), None)
         nextc = next((p for p in chapters if p["n"] == n + 1 and p["secs"]), None)
@@ -443,6 +485,8 @@ def main():
     render_scans(sorted(secs))
     used = sum(1 for e in entities if linker.hits[e["id"]])
     print(f"index: {used}/{len(entities)} entities with hits; search: {len(search)} sections")
+    if unmatched:
+        print("margin readings not matched to TSV rows (shown without X/V type):", ", ".join(unmatched))
 
 
 ABOUT = """
@@ -453,9 +497,15 @@ against the scan by Claude. Running heads and page numbers are removed; Kahana's
 letters. The Pninim text of Bick's edition (Jerusalem 1979) was used only to find OCR errors.</p>
 <p><b>English:</b> draft translation by Claude (Anthropic), not yet reviewed. Biblical phrases are given in standard
 wording with the reference. Kahana's own footnotes are translated under each page.</p>
-<p><b>Scholem's copy:</b> his handwritten insertions are shown as <span class="sch">⟨S: …⟩</span> where his caret
-points, and listed with their certainty under each page. Typed sheets bound into the copy (after pp. 8, 40 and 70)
-and a sheet in his hand (after p. 58) are given as "insert" sections. Some notes are cut off at the edge of the scan.</p>
+<p><b>Margin readings in Scholem's copy:</b> by a handwritten key sheet in the copy (seen in the National Library of
+Israel's scan, IE12757688; not in the HebrewBooks scan), they follow the Oxford manuscript, V marks an omission and X a
+substitution, and the copy was compared with the manuscript by Ḥayyim Wirszubski. Our reading of the sheet is not
+certain in every word. The readings are shown as <span class="sch sch-v">⟨S: …⟩</span> (V, addition) or
+<span class="sch sch-x">⟨S: …⟩</span> (X, substitution) where their mark points, and listed with their certainty
+under each page; hover over a reading to see the printed words it belongs to. Where the type is not recorded the plain
+style <span class="sch">⟨S: …⟩</span> is used. Typed sheets bound into the copy (after pp. 8, 40 and 70) and a
+handwritten sheet (after p. 58) are given as "insert" sections. The HebrewBooks scan cuts off part of the right
+margin; the NLI scan of the same copy (258 images) shows the full margins and has not yet been used.</p>
 <p><b>Not the manuscript:</b> Kahana's text is not a full transcription of the Oxford manuscript (Bodleian, Neubauer
 1723:2). A critical edition by Jacob J. Schacter has been announced.</p>
 </details>"""

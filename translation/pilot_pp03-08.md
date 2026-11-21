@@ -5,9 +5,10 @@ against the scan (`data/text/sNNN.he.txt`). Translation by Claude (Opus 5.5), 20
 
 Conventions:
 - **[a]**, **[b]** … = Kahana's footnotes, translated at the end of each page.
-- **⟨S: …⟩** = a handwritten addition in the margin of Scholem's copy, inserted where his caret points.
-  Readings marked (?) are uncertain. Kahana's printed text is translated as printed; Scholem's words are
-  not merged into it.
+- **⟨S: …⟩** = a handwritten reading in the margin of Scholem's copy, placed where its mark points. A key sheet
+  in the copy (seen in the NLI scan) says that the margin readings follow the Oxford manuscript, that V marks an
+  omission and X a substitution, and that the collation was made by Ḥayyim Wirszubski. Readings marked (?) are
+  uncertain. Kahana's printed text is translated as printed; the margin readings are not merged into it.
 - Biblical phrases that Emden weaves into his prose are rendered in the wording of the verse, with the
   reference in parentheses at the first strong allusion only.
 
@@ -190,11 +191,12 @@ after he fell
 - [b] From the Talmudic phrase (Sanhedrin 104a) "a *shabbai* was following behind them", meaning the man in
   charge of the captives.
 
-**Translator's note.** Kahana prints *ḥerev ha-yonah*, "the oppressing sword" (Jer. 46:16). Scholem's
-margin begins *ha-yevanim ha-arurim*, "the accursed Greeks", which suggests that the manuscript named the
+**Translator's note.** Kahana prints *ḥerev ha-yonah*, "the oppressing sword" (Jer. 46:16). The margin
+of Scholem's copy begins *ha-yevanim ha-arurim*, "the accursed Greeks", which suggests that the manuscript named the
 Cossacks as "Greeks" (i.e. Greek Orthodox) and that Kahana softened the passage. The same pattern recurs
-below (pp. 6–7): Scholem restores insulting epithets for the attackers ("the unclean, the uncircumcised")
-that Kahana's printed text lacks. This is a censorship layer of Kahana's edition not described in the
+below (pp. 6–7): the collation restores insulting epithets for the attackers ("the unclean, the uncircumcised")
+that Kahana's printed text lacks. The mark at *ha-yonah* is an X, which by the key sheet means a
+substitution: the manuscript has these words instead of the printed ones. This is a censorship layer of Kahana's edition not described in the
 secondary literature we read.
 
 ## Page 7 (scan 15)

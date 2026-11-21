@@ -36,11 +36,19 @@ language. A later edition (Bick, Jerusalem 1979) is no better: scholars reject i
 by Jacob J. Schacter has been announced but is not yet out.
 
 The scan used here (HebrewBooks no. 37017) is the copy of Kahana's edition that belonged to Gershom Scholem
-(1897–1982), the great historian of Kabbalah and of the Sabbatian movement. In its margins Scholem wrote words from
-the manuscript that Kahana had left out, with a caret to show where they belong. Most of them are harsh words about
-non-Jews, and curses on Eybeschütz and his circle. So Scholem's copy shows a layer of censorship in Kahana's edition
-that the printed text alone does not show. This reader gives Scholem's insertions where his caret points, marked
-<span class="sch">⟨S: …⟩</span>, and lists them under each page with how certain the reading is.
+(1897–1982), the great historian of Kabbalah and of the Sabbatian movement. Its margins carry readings from the Oxford
+manuscript that differ from Kahana's print. Most of them are harsh words about non-Jews, and curses on Eybeschütz and his
+circle. So the copy shows a layer of censorship in Kahana's edition that the printed text alone does not show.
+
+A handwritten key sheet in the copy (visible in the National Library of Israel's scan of it, not in the HebrewBooks
+scan) explains the marks: the margin readings follow the Oxford manuscript; **V** marks an omission (the words are
+missing in the print); **X** marks a substitution (the manuscript has the margin words instead of the printed ones); and
+the copy was "compared with the manuscript by Ḥayyim Wirszubski", Scholem's student and colleague. Our reading of the
+sheet is not certain in every word, but on this reading the collation is Wirszubski's, made in Scholem's copy.
+
+This reader gives the margin readings where their mark points, marked <span class="sch sch-v">⟨S: …⟩</span> for an
+addition (V) and <span class="sch sch-x">⟨S: …⟩</span> for a substitution (X), and lists them under each page with the
+printed words they belong to and how certain the reading is.
 
 ## How to use this reader
 

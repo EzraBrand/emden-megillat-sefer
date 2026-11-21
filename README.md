@@ -24,7 +24,7 @@ See `NOTES.md` for the choice of base text (Kahana vs. Bick), the OCR test, and 
 | `data/body/`, `data/notes_kahana/` | main text and Kahana's footnotes, split |
 | `data/fixes.json` | corrections made against the scan |
 | `data/text/` | checked Hebrew (`sNNN.he.txt`) and Kahana's notes (`sNNN.notes.txt`) |
-| `data/scholem/notes_*.tsv` | Scholem's marks: anchor, mark, reading, certainty |
+| `data/scholem/notes_*.tsv` | margin readings in Scholem's copy (collation with the Oxford MS, by a key sheet in the copy made by Ḥayyim Wirszubski): anchor, mark (V = omission, X = substitution), reading, certainty |
 | `data/align/` | differences against the Pninim/Bick text |
 | `translation/` | English, one section per book page |
 | `docs/` | the GitHub Pages reader (built by `scripts/build_site.py`): home page, one page per chapter, index, search, scan images (`docs/scans/`, 1-bit PNG rendered from the PDF) |

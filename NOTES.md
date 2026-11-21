@@ -96,3 +96,22 @@ Pipeline: `scripts/ocr_kraken.py` (Kraken PP-OCRv6, 17 pages in 19 min, 3 worker
   Tsaḥaki". Now "R. [Abraham] Yitzḥaki".
 - p. 39 (scan 49) and p. 59 (scan 72): ברודא is Brod (Uherský Brod, Moravia), not Brody. "R. Eleazar of Brody" in
   Kahana's notes (scan 83 etc., בראדי) is correct and unchanged.
+
+## NLI scan of the same copy, and the key sheet (21-Nov-2026)
+
+- NLI Rosetta IE12757688 (https://rosetta.nli.org.il/delivery/DeliveryManagerServlet?dps_pid=IE12757688): 258 images,
+  colour, full margins. Same copy as HebrewBooks 37017: the owner's screenshots show the same margin notes on p. 6 and
+  the typed insert after p. 8. HebrewBooks has 254 pages and crops the right margin.
+- Access from here: rosetta.nli.org.il and www.nli.org.il show a Cloudflare challenge to both the built-in browser and
+  the chrome-devtools Chrome; the IIIF manifest https://iiif.nli.org.il/IIIFv21/DOCID/IE12757688/manifest returns 403.
+  The owner can open the viewer in a normal browser. Not used yet for the readings.
+- **Key sheet** (in the NLI scan, not in HebrewBooks; owner's screenshot), my reading:
+  "…ר הספר (…) תקי"ז–תקי"ט" (first word cut off; perhaps a date of composition 1757–59) /
+  "הגירסאות שבשוליים לפי כ"י אוקספורד" / "הסימן V פירושו השמטה" / "X פירושו החלפה" /
+  "הושוה עם כ"י ע"י חיים וירשובסקי".
+  So: margin readings = Oxford MS; V = omission (addition to the print); X = substitution; collated by Ḥayyim
+  Wirszubski. The site now says this, with a note that the reading of the sheet is not certain in every word.
+- The handwritten sheet at scan 72 looks like the same hand as the key sheet (not checked further); NOTES above call it
+  "Scholem's hand", which is probably wrong.
+- Site: inline readings are matched to the TSV rows in order per page (scripts/build_site.py, align_marks) and styled
+  V or X; pp. 15, 75, 96 do not match and are shown untyped.
