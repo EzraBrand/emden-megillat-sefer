@@ -27,7 +27,9 @@ See `NOTES.md` for the choice of base text (Kahana vs. Bick), the OCR test, and 
 | `data/scholem/notes_*.tsv` | Scholem's marks: anchor, mark, reading, certainty |
 | `data/align/` | differences against the Pninim/Bick text |
 | `translation/` | English, one section per book page |
-| `docs/` | the GitHub Pages reader (built by `scripts/build_site.py`) |
+| `docs/` | the GitHub Pages reader (built by `scripts/build_site.py`): home page, one page per chapter, index, search, scan images (`docs/scans/`, 1-bit PNG rendered from the PDF) |
+| `data/site/` | `intro.md` (home-page introduction), `entities.json` (index of names: regex patterns over the English), `review.json` (review status per page) |
+| `scripts/site/` | `style.css`, `app.js`, `search.js`, copied to `docs/` |
 
 ## Pipeline
 

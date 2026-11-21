@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Megillat Sefer: search</title>
+<meta name="description" content="Search the Hebrew text and English draft translation of Jacob Emden&#x27;s Megillat Sefer.">
+<meta property="og:title" content="Megillat Sefer: search"><meta property="og:description" content="Search the Hebrew text and English draft translation of Jacob Emden&#x27;s Megillat Sefer.">
+<meta property="og:type" content="website">
+<script>(function(){try{var t=localStorage.getItem('ms-theme');if(t&&t!=='auto')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Noto+Serif+Hebrew:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head><body><div class="bar"><div class="wrap barin">
+  <a class="brand" href="index.html">Megillat Sefer</a>
+  <nav class="nav"><a href="index.html">Introduction</a> <a href="ch1.html">Ch. 1</a> <a href="ch2.html">Ch. 2</a> <a href="names.html">Index</a></nav>
+  <form class="sform" action="search.html" role="search"><input type="search" name="q" placeholder="Search Hebrew or English" aria-label="Search"></form>
+  <select id="theme" aria-label="Theme"><option value="auto">Auto</option><option value="light">Light</option><option value="paper">Paper</option><option value="dark">Dark</option></select>
+</div></div><div class="wrap"><div class="top"><h1>Search</h1><p class="sub">Searches the Hebrew (with Kahana's notes) and the English. Hebrew search ignores gershayim and quotation marks; English search ignores accents (Hakham finds Ḥakham).</p><form id="sf" class="bigsearch"><input type="search" id="q" name="q" autofocus aria-label="Search"> <select id="lang" aria-label="Language"><option value="all">Hebrew and English</option><option value="he">Hebrew</option><option value="en">English</option></select></form><p id="status" class="sub"></p></div><ol id="results" class="results"></ol></div><script src="search.js"></script><footer class="wrap foot">Draft translation by Claude (Anthropic), not yet reviewed. Hebrew: Kahana, Warsaw 1896/97 (public domain).
+Translation and notes CC BY 4.0. <a href="https://github.com/EzraBrand/emden-megillat-sefer">Source on GitHub</a> · <a href="https://github.com/EzraBrand/emden-megillat-sefer/issues">corrections and questions</a>.</footer>
+<script src="app.js"></script>
+</body></html>

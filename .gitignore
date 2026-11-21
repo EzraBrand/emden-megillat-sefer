@@ -9,3 +9,4 @@ kraken_test/
 source/
 logs/
 __pycache__/
+!docs/scans/*.png
