@@ -128,3 +128,6 @@ Pipeline: `scripts/ocr_kraken.py` (Kraken PP-OCRv6, 17 pages in 19 min, 3 worker
   search ktiv.nli.org.il for "מגלת ספר" / Mich. 587 in a normal browser; if images are viewable there, they would allow
   a check of Kahana's text and of the Wirszubski collation against the manuscript itself.
 - Other route: order a digital copy from Bodleian Imaging Services.
+- Ktiv (checked by the owner, 21-Nov-2026): Ms. Mich. 587 = Neubauer 1723, IMHM film F 17754, "not scanned". The
+  same volume also holds Vital's *Mevo She'arim* (c. 1675) and a collection (17th-18th c.). So the manuscript is not
+  online anywhere; only Bodleian Imaging Services or the IMHM reading room.
