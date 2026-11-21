@@ -263,6 +263,7 @@ def bar(chapters, current, reader=False):
         if c["secs"]:
             cur = " aria-current=page" if current == c["n"] else ""
             links.append(f'<a href="ch{c["n"]}.html"{cur}>{c.get("label", "Ch. %d" % c["n"])}</a>')
+    links.append(f'<a href="background.html"{" aria-current=page" if current == "background" else ""}>Background</a>')
     links.append(f'<a href="names.html"{" aria-current=page" if current == "names" else ""}>Index</a>')
     controls = ""
     if reader:
@@ -476,6 +477,15 @@ def main():
              + f'<p class="toc">{jump}</p></div>'
              + "".join(g.replace("<h2>", f'<h2 id="t-{t}">', 1) for g, t in zip(groups, labels)) + "</div>" + foot())
     (DOCS / "names.html").write_text(names, encoding="utf-8")
+
+    # background for general readers (BACKGROUND.md at the repo root)
+    bg_md = (ROOT / "BACKGROUND.md").read_text(encoding="utf-8")
+    bg_md = re.sub(r"^# .*\n", "", bg_md, count=1)
+    bg = (head("Megillat Sefer: background for the reader",
+               "Historical, medical and everyday background for reading Jacob Emden's autobiography Megillat Sefer.")
+          + f'<body>{bar(chapters, "background")}<div class="wrap"><div class="top"><h1>Background for the reader</h1></div>'
+          + f'<article class="intro bgnote">{markdown.markdown(bg_md, extensions=["extra"])}</article></div>' + foot())
+    (DOCS / "background.html").write_text(bg, encoding="utf-8")
 
     # search
     (DOCS / "search.json").write_text(json.dumps(search, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

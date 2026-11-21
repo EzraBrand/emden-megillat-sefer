@@ -98,3 +98,4 @@ blockquote{margin:12px 0;padding:4px 12px;border-left:3px solid var(--accent);co
 .sch-x::before{content:"X ⇄"}
 .sch-x{outline:1px dashed var(--schfg);outline-offset:-1px}
 .pending{font-family:"Noto Serif",serif;font-size:.9rem;color:var(--muted);font-style:italic;text-align:left}
+.bgnote{max-width:46rem}.bgnote h2{font-size:1.2rem;margin:26px 0 6px}.bgnote li{margin:4px 0}
