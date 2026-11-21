@@ -1,0 +1,33 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+214	3	insert		היה	ז
+214	4	replace	אחר וכו',	אחד להעיד עלי;	ז
+214	4	replace	חדוש אלי, ולא האמנתי כלל בכל דברי ריצוי והבטחה שלו,	חשוד עלי,	ז
+214	7	replace	בשנים,	בפני שנים	ז
+214	8	replace	רכים,	רבים	ז
+214	9	delete	הוא		ז
+214	9	insert		הוא	ז
+214	9	replace	ככה,	כבה	ז
+214	10	replace	שמוע	לשמוע	ז
+214	11	replace	מלחזור	מחזור	ז
+214	12	insert		והוא	ז
+214	16	insert		שכור	ז
+214	16	delete	שכור		ז
+214	16	replace	חרש	חרס	ז
+214	17	replace	בי	כי	ז
+214	17	insert		יחידי	ז
+214	17	delete	יחידי,		ז
+214	18	delete	את		ז
+214	18	delete	חברו		ז
+214	19	insert		בדבריו,	ז
+214	20	replace	הכסף	הכסך	ז
+214	20	insert		את	ז
+214	21	replace	ביסי	כיסי	ז
+214	21	delete	הת		ז
+214	24	replace	לשלוה	לשלוח	ז
+214	24	delete	את		ז
+214	26	insert		פרס	ז
+214	27	delete	פרוסה		ז
+214	27	delete	כמה		ז
+214	30	replace	נאמן	באמן	ז
+214	31	replace	לגגזם, גם	לגנזם,	ז
+214	33	replace	העולם	הבית	ז

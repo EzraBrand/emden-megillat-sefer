@@ -1,0 +1,23 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+166	3	replace	מאייבשיץ,	אייבשיץ;	ד
+166	6	delete	של		ד
+166	9	replace	היתה	היה	ד
+166	11	insert		וואלף	ד
+166	11	replace	ממה	מה	ד
+166	12	replace	סחורה	סחורת	ד
+166	12	replace	"ח""כ"	כתב חוב	ד
+166	13	replace	"ח""כ"	כתב חוב	ד
+166	13	replace	כפי	כי	ד
+166	13	delete	אך לא כאשר הישר		ד
+166	14	replace	"בק""מ כ("	בקורש מעות	ד
+166	16	replace	ספור,	הסיפור;	ד
+166	17	delete	בכלל		ד
+166	18	replace	"להנ""ל,"	הנ״ל;	ד
+166	19	replace	אייבשיץ'	אייבשיצר הצר הצורר	ד
+166	20	insert		וואלף	ד
+166	23	delete	"ג""כ,"		ד
+166	24	replace	ולסוף	ולבסוף	ד
+166	26	replace	"כמש""ל בעו""ה,"	כמו שאכתוב להלן;	ד
+166	28	replace	בכחי והוני	בכל כוחי ואוני	ד
+166	31	delete	לו ר ל ל הלו הלורר אשי מ, קלוק(		ד
+166	37	replace	עירי,	העיר	ד

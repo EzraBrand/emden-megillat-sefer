@@ -1,0 +1,23 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+218	2	insert		כל זה אירע	ז
+218	4	replace	שלפני,	מלפני.	ז
+218	8	replace	בתובה,	בתוכה,	ז
+218	9	replace	השידה	המידה	ז
+218	9	replace	"לבהון, ואעפ""ב משבו"	לבחון ואעפי״כ משכו	ז
+218	10	replace	התיבה	תיבה	ז
+218	11	insert		בהם	ז
+218	11	replace	ונמלבו	ונמלכו	ז
+218	12	replace	הפסח,	פסח,	ז
+218	13	replace	ובאו	ובאר	ז
+218	16	replace	דפוס	הדפוס	ז
+218	19	replace	הרגל	רגל	ז
+218	20	replace	יהא	יהיה	ז
+218	24	insert		קולי	ז
+218	24	delete	קולי,		ז
+218	24	replace	בי	כי	ז
+218	27	replace	"סע""ע, כמו"	הספר עקיצת עקרב, כמר	ז
+218	30	replace	אחר כך	אח״כ	ז
+218	31	replace	הזה,	זה	ז
+218	36	replace	שנלאו	שהלכו ונלאו	ז
+218	36	replace	הדפום,	הדפוס	ז
+218	36	replace	ובאו	ובאר	ז

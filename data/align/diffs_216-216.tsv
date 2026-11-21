@@ -1,0 +1,20 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+216	2	insert		בחדר הדפוס;	ז
+216	2	replace	של	שעל	ז
+216	3	delete	שם		ז
+216	7	replace	הדפין	הדפים	ז
+216	8	delete	על		ז
+216	11	delete	השופט		ז
+216	13	delete	"ה""ה"		ז
+216	13	replace	יאקוב	יעקב	ז
+216	13	replace	האלענדר,	הולנדר,	ז
+216	13	replace	קובעם,	קובעס,	ז
+216	14	replace	זעצר,	זעצער.	ז
+216	15	delete	א[;		ז
+216	15	insert		לחדרי	ז
+216	15	delete	לחדרי		ז
+216	18	delete	אשוקדים		ז
+216	19	insert		את	ז
+216	22	insert		דם	ז
+216	22	delete	ב[.		ז
+216	24	replace	שהיה הוא מדפים	שהוא היה מדפיס	ז

@@ -1,0 +1,21 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+173	2	replace	מגלת ספר	ועל מנת	ה
+173	5	replace	למלא	למלאות	ה
+173	6	replace	אדומין	אדומים	ה
+173	6	replace	הגון	הגוץ	ה
+173	9	replace	"ת""ל"	ת״ד	ה
+173	9	replace	"הי""ת"	השם ית׳	ה
+173	12	replace	מלהמה	מלחמה	ה
+173	15	replace	בפני	לפני	ה
+173	19	replace	עלי,	בי	ה
+173	23	delete	ספרדי		ה
+173	23	insert		ספרדי	ה
+173	24	replace	"וע""פ הנם"	ועל פי נס	ה
+173	26	insert		(אם	ה
+173	26	delete	אם		ה
+173	28	replace	שהוא	שהיה	ה
+173	30	insert		גם	ה
+173	30	delete	עשרה		ה
+173	31	replace	החברה קדושה	החברא קדישא	ה
+173	33	replace	בתיקונים	תיקונים	ה
+173	34	replace	"כמש""ל."	כמו שאכתוב עוד.	ה

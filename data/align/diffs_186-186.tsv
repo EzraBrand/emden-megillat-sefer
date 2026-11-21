@@ -1,0 +1,42 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+186	2	delete	זה		ה
+186	2	insert		הזה	ה
+186	3	replace	"והי""ל"	והיה לי ריווח	ה
+186	3	delete	רוח		ה
+186	5	replace	מעמו שהוצרכתי לכך	ממנו; והוצרכתי אח״כ	ה
+186	6	delete	הנדיב		ה
+186	7	insert		לי	ה
+186	8	replace	מתוך כך	בכך	ה
+186	8	insert		חוב	ה
+186	9	delete	יום אחד		ה
+186	14	replace	שהיה	שהיו	ה
+186	14	replace	בו, דאנתי	בהן, דאגתי	ה
+186	15	replace	בכיתי	בביתי	ה
+186	15	replace	מכקש	מבקש	ה
+186	16	replace	זבינא	זביני	ה
+186	16	replace	אפיה	עפי	ה
+186	18	replace	בלתי	אני	ה
+186	18	replace	"מו""מ,"	משא ומתן	ה
+186	19	delete	אני		ה
+186	19	replace	בכן	בכך	ה
+186	19	replace	"יונתן א""ב,"	יהונתן אברלי	ה
+186	20	replace	טע	טהא	ה
+186	21	delete	עוד		ה
+186	22	replace	"ע""ד זו"	על דבר זה	ה
+186	23	replace	יונתן	יהונתן	ה
+186	23	replace	"בשליח ב""ד,"	בשליחות בית דין	ה
+186	24	replace	לקכל	לקבל	ה
+186	25	replace	על פי	עפ״י	ה
+186	25	replace	הכריחני	יכריחוני	ה
+186	26	replace	"של ע""ה הנ""ל,"	מעלי מהעם הארץ הלז	ה
+186	27	replace	"מרויח מש""ה"	ירוויח מה שירוויח.	ה
+186	28	delete	ענין		ה
+186	29	replace	"הנ""ל,"	ע״ה,	ה
+186	30	replace	"הי""ל"	היה לי עוד	ה
+186	30	insert		לבקש	ה
+186	30	replace	לבקש	סחורה	ה
+186	30	delete	סחורה		ה
+186	31	replace	וכל	רכל	ה
+186	31	replace	גרמה	גרם	ה
+186	31	insert		כוחו	ה
+186	31	delete	כחו,		ה

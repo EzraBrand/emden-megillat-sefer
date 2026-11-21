@@ -1,0 +1,29 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+152	2	insert		זה; הוא	ד
+152	2	replace	ידיהם	בידיהם	ד
+152	4	delete	ומי		ד
+152	4	replace	חמם	חמס	ד
+152	5	replace	וכו'	אזל ברא דעלובתא.	ד
+152	5	replace	היו	היה	ד
+152	10	delete	הוא		ד
+152	10	replace	והרבה	והיה	ד
+152	11	delete	היו		ד
+152	14	replace	לוקח	לרקה	ד
+152	16	replace	ח'	שמונה	ד
+152	17	insert		לבניו	ד
+152	19	replace	רב	הרב	ד
+152	19	replace	להן,	להם;	ד
+152	22	replace	שנתרבה	שנתרבו	ד
+152	23	replace	מהמבורג,	בהמבורג,	ד
+152	24	replace	"הג""ק:"	השלוש קהילות:	ד
+152	25	replace	"אב""ד"	האב״ד	ד
+152	25	replace	אכל	אבל	ד
+152	26	insert		הרב	ד
+152	27	replace	וגזרו	והנזר	ד
+152	27	replace	ילך	לילך	ד
+152	28	replace	"כמש""ל בס""ד,"	כמו שאכתוב להלן ב״ד).	ד
+152	29	insert		שפוט	ד
+152	30	replace	ואיטלולא,	וטלולא	ד
+152	32	insert		שחוק	ד
+152	32	replace	"שחוק בע""כ,"	בעל כרחם;	ד
+152	33	delete	קצת		ד

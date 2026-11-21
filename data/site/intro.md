@@ -26,7 +26,7 @@ as the continuation of his father's.
 father (chapter 1), and then tells his own life (from chapter 2). It is one of very few Hebrew autobiographies of
 its time, and it is unusually frank: Emden writes about his health, his marriages, his money troubles, and the
 communal leaders, rivals and relatives he quarrelled with, often in bitter language. Emden did not publish it. It
-survives in a manuscript copy in the Bodleian Library, Oxford (Neubauer 1723:2).
+survives in a manuscript copy in the Bodleian Library, Oxford (MS. Mich. 587; Neubauer 1723), which has not been digitized.
 
 ## Why Kahana's edition, and why Scholem's copy?
 

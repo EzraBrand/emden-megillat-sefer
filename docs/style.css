@@ -97,3 +97,4 @@ blockquote{margin:12px 0;padding:4px 12px;border-left:3px solid var(--accent);co
 .sch-v::before{content:"V +"}
 .sch-x::before{content:"X ⇄"}
 .sch-x{outline:1px dashed var(--schfg);outline-offset:-1px}
+.pending{font-family:"Noto Serif",serif;font-size:.9rem;color:var(--muted);font-style:italic;text-align:left}

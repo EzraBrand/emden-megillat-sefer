@@ -1,0 +1,30 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+148	3	insert		עשו לפתע	ד
+148	3	delete	לפתע		ד
+148	4	insert		לייבום	ד
+148	4	replace	דתא	דהא	ד
+148	4	replace	להשיא	להתיר יבמה	ד
+148	5	delete	יבמה		ד
+148	5	replace	בי	כי	ד
+148	6	replace	היה	על כל פנים	ד
+148	7	delete	"עכ""פ"		ד
+148	9	replace	וההעתק	והעתק	ד
+148	10	replace	נדון	הנידון	ד
+148	10	insert		אל	ד
+148	10	replace	אומן	האומן	ד
+148	11	delete	בחור		ד
+148	12	replace	"לפו""מ,"	לפרנסים ומנהיגים	ד
+148	14	replace	וכפי	ולפי	ד
+148	15	replace	אנשי	לאנשי	ד
+148	18	delete	"כמש""ל,"		ד
+148	20	replace	"בבה""כ"	בבית הכנסת	ד
+148	20	replace	המדפים	המדפיס	ד
+148	21	insert		היה	ד
+148	21	delete	היתה		ד
+148	25	replace	מלות	מלווה	ד
+148	25	insert		ככרוכיא	ד
+148	26	replace	גענה;	נענה	ד
+148	26	replace	הדל,	דל.	ד
+148	26	delete	ככרוכיא		ד
+148	28	replace	"פו""מ"	פרנסי ומנהיגי הקהל	ד
+148	28	replace	יושב	לישב	ד

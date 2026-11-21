@@ -1,0 +1,33 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+171	2	delete	ונאה		ה
+171	2	insert		כי	ה
+171	3	replace	"הנ""ל מיחוםי"	מייחוסי	ה
+171	3	insert		ללידה	ה
+171	3	replace	שלש	שלושה	ה
+171	4	replace	רבה,	גדולה.	ה
+171	5	replace	"לרי""צ"	יהודה לר׳ יצחק	ה
+171	6	replace	אכל	אבל	ה
+171	7	replace	שזימנתי	שהזמנתי	ה
+171	8	replace	ובתי	ובוני	ה
+171	9	replace	שהוכרחתי	~שהוכרתי~{שהוכרחתי}	ה
+171	9	replace	אכסניא	אכסניה	ה
+171	11	replace	דאנה,	דאגה	ה
+171	11	replace	כה	בה	ה
+171	12	replace	ונודי	ובנודי	ה
+171	14	replace	ונוח	ונוחה	ה
+171	14	insert		מחמת חמתה	ה
+171	15	replace	והעבירה	להעבירה	ה
+171	15	delete	אירע		ה
+171	19	insert		זאת	ה
+171	20	delete	ומטפלת		ה
+171	20	replace	באותן	באותם	ה
+171	22	delete	בדבר מועט		ה
+171	23	replace	הברכה	ברכה	ה
+171	24	replace	כעם	כעס	ה
+171	24	replace	בלי	בלא	ה
+171	26	replace	הראשונה	ראשונה	ה
+171	26	replace	"פו""מ ק""א,"	פרנסי ומנהיגי ק״ק אלטונא;	ה
+171	26	replace	"הנ""ל"	כנ״ל	ה
+171	26	replace	איזה	איזו	ה
+171	27	delete	ממני		ה
+171	27	replace	בקבורת	בקבורה של	ה

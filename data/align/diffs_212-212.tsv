@@ -1,0 +1,33 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+212	2	insert		אדם מעותיו;	ח
+212	2	replace	כמעט	במעט	ח
+212	3	replace	"כט""ו"	ט״ו	ח
+212	6	replace	וכשבא	וכשבאה	ח
+212	7	insert		התחננתי	ח
+212	7	delete	והתחננתי		ח
+212	9	replace	בי	כי	ח
+212	9	delete	אנשים		ח
+212	10	replace	"ה""ה הק' פו״מ ר""ג"	הם: הקצין פרנס ומנהיג ר׳ גרשון	ח
+212	10	replace	"ופו""מ"	ופרנס ומנהיג	ח
+212	11	replace	"רמג""ש,"	ר״מ גיסקא	ח
+212	11	replace	געטינגען	געסינגען	ח
+212	12	replace	אבו לי,	שמעו אלי;	ח
+212	14	replace	צריכין	צריכים	ח
+212	14	insert		אצלו	ח
+212	16	replace	היו	היה	ח
+212	16	replace	גדול הלז	הגדול הא,	ח
+212	18	replace	באו	באר	ח
+212	19	replace	בכעם ובקצף	בכעס וקצף	ח
+212	20	delete	את		ח
+212	20	replace	שנרם הוצאה	שגרם הוצאות	ח
+212	21	replace	ד'	ארבעת	ח
+212	22	replace	"ד""ל"	ארבע למאה	ח
+212	23	replace	ד'	ארבע	ח
+212	25	replace	הוצאה	הרצאה	ח
+212	26	replace	ומחוץ,	ומבחוץ	ח
+212	27	replace	מרזבות	מרזבי עץ	ח
+212	27	replace	של עץ שהיה	שהיו	ח
+212	28	replace	כמאה	במאה	ח
+212	30	replace	הללו,	האלו	ח
+212	31	replace	כארבע	כארבעה	ח
+212	33	replace	שבאותן	שבאותם	ח

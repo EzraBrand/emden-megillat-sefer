@@ -1,0 +1,32 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+183	2	replace	מגלת ספר	בא אחי עד פראנקפורט	ה
+183	3	delete	ללבוב;		ה
+183	3	delete	כמו		ה
+183	5	replace	בדרך	כדרך	ה
+183	5	replace	עמהם,	עמם.	ה
+183	8	replace	כתך	בתך	ה
+183	8	insert		בתולה	ה
+183	8	delete	בתולה,		ה
+183	11	replace	הכושד,	הכושר	ה
+183	13	replace	הוה	הוי	ה
+183	13	replace	ועצת	ועצתה	ה
+183	13	replace	מכית	מבית	ה
+183	14	delete	עליהם יחיו!		ה
+183	15	replace	לדעת	לדעה	ה
+183	16	replace	"לס""ט ולמז""ט, והפריז"	לסימן טוב ולמזל סוב. והכריז	ה
+183	18	replace	כ'	עשרים	ה
+183	19	replace	הלבשה	ההלבשה	ה
+183	20	replace	והוכרחתי	והוצרכתי	ה
+183	21	replace	לכתי	לבתי	ה
+183	21	replace	"מאמה ע""ה, אע""פ"	אף ע״פ	ה
+183	22	replace	יהא	יהיה	ה
+183	22	replace	מכל בגדי	מבגדי	ה
+183	24	replace	ומרוכ	ומרוב	ה
+183	28	insert		ויסגור בשר תחתנה	ה
+183	29	replace	כת	בת	ה
+183	30	replace	למלא	למלאות	ה
+183	31	replace	מכם	מכס	ה
+183	31	insert		שידע	ה
+183	31	delete	ידע אם		ה
+183	33	insert		גם בפעם הזאת לקח ממני מכס על העמדת החופה	ה
+183	33	insert		אף	ה

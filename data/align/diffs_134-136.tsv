@@ -1,0 +1,88 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+134	2	replace	בריא,	ברי.	ד
+134	2	replace	"בבהכ""נ"	בבית הכנסת	ד
+134	4	replace	ימי	ימות	ד
+134	6	replace	דק	רק	ד
+134	6	replace	אבה	אבא,	ד
+134	7	delete	אותם		ד
+134	8	replace	לזכרו	להזכירו	ד
+134	9	replace	שהדפים	שהדפיס	ד
+134	10	replace	בו,	עליו.	ד
+134	11	insert		כלל	ד
+134	12	replace	רצוני	רוצה	ד
+134	13	delete	וקנאתו		ד
+134	15	replace	שאת	לשאת	ד
+134	16	replace	בכה	ככה	ד
+134	17	replace	בזה,	כזה,	ד
+134	19	replace	בתוכחותיו	תוכחותיו	ד
+134	20	replace	לרשע	לאדם רשע	ד
+134	21	replace	ממנו	בו	ד
+134	25	insert		אהבה,	ד
+134	26	replace	כאדם	באדם	ד
+134	27	replace	בהיותי	היותי	ד
+134	28	replace	עמדי	עמי	ד
+134	29	replace	"לה""ר"	לשון רע	ד
+134	30	replace	בעינינו כידוע	בינינו ידוע	ד
+134	30	replace	שלא	אשר לא	ד
+134	31	replace	כאשר	באשר	ד
+134	32	insert		בלבו	ד
+134	33	replace	בינינו	אהבתנו	ד
+134	34	replace	בי בפני	בפי	ד
+134	34	insert		בי	ד
+134	35	delete	מה		ד
+134	36	delete	"האין עשר""י"		ד
+135	2	delete	"ג""כ"		ד
+135	3	replace	דאבא,	דאבא[^11א]!	ד
+135	6	replace	כו',	ואחד בלב,	ד
+135	6	replace	כלשון	בלשון	ד
+135	7	replace	מעלת בבודו,	ממעלת כבודו,	ד
+135	7	delete	ממנו		ד
+135	9	replace	וכבה	וככה	ד
+135	11	replace	וכו',	ואחד בלב?	ד
+135	11	replace	שוין	שווים	ד
+135	12	replace	וכקרבו	ובקרבו	ד
+135	14	delete	הודיעני		ד
+135	19	replace	שתרצה	שרצה	ד
+135	20	replace	וכשמעי	ובשמעי	ד
+135	21	replace	"לה""ר"	לשון הרע	ד
+135	24	replace	בהטיל	בהטלת	ד
+135	27	replace	חם	חס ליה	ד
+135	28	replace	"מכל הג""ק"	מג' קהלות	ד
+135	30	replace	איפת	איפוא	ד
+135	30	replace	בעיני העם,	עיני,	ד
+135	31	replace	הטבתם	הטבת הקהלה	ד
+135	33	insert		להכעיסו	ד
+135	33	delete	להכעיסו		ד
+135	34	replace	בלי	בלא	ד
+135	34	replace	"לה""ר"	לשון הרע.	ד
+135	35	insert		אף	ד
+135	35	delete	אף אם		ד
+136	3	delete	והנאמן		ד
+136	5	replace	לעצמן	לעצמם	ד
+136	6	replace	וחנפים	וחנפנים	ד
+136	7	replace	אשמה,	האשמה	ד
+136	9	replace	דכריהם	דבריהם	ד
+136	9	delete	את		ד
+136	10	replace	הארם	הארס	ד
+136	13	replace	הלז	הזה	ד
+136	14	delete	עלי		ד
+136	15	replace	שכתבם	שכרתם	ד
+136	15	replace	"ברוה""ק"	ברוח הקודש;	ד
+136	16	delete	בחון		ד
+136	18	replace	הקרובות,	הקרובים	ד
+136	18	replace	כעם	כעס	ד
+136	19	replace	זה,	מזה,	ד
+136	20	replace	כמבראשונה,	כבראשונה.	ד
+136	21	replace	לכו	לבו	ד
+136	22	replace	הוביח	הוכיח	ד
+136	22	replace	לעין	מעין	ד
+136	22	replace	בי	כי	ד
+136	26	replace	שמרבתי	שסירבתי	ד
+136	27	replace	כזה	בזה	ד
+136	30	insert		לאחת	ד
+136	30	replace	ואחת	והנה	ד
+136	30	insert		בבית	ד
+136	31	replace	עלה	עלתה	ד
+136	31	replace	"לרמ""ח הדפים"	לר״מ חגיז הדפיס	ד
+136	32	replace	וחשב להכות	להכרת	ד
+136	33	replace	בי	כי	ד

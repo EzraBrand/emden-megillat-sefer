@@ -1,0 +1,19 @@
+﻿scan_page	line	type	kahana_ocr	pninim	pninim_file
+176	2	insert		ט״ו	ה
+176	2	replace	"מ""צ"	מתן נדוניא	ה
+176	2	delete	חיוב		ה
+176	4	replace	באשר	כאשר	ה
+176	9	delete	להניח		ה
+176	10	replace	שנים	שביים	ה
+176	15	replace	מלבר, אדעתה	מלבד; אדעתא	ה
+176	15	replace	נדרתי,	נדרתי[^26א],	ה
+176	16	replace	אביישנה,	אביישבה	ה
+176	17	replace	המרסורים	הסרסורים	ה
+176	19	replace	כו'	בממון	ה
+176	22	delete	שעולה		ה
+176	23	insert		עיניה	ה
+176	24	delete	עיניה		ה
+176	26	delete	"וק"" ל,"		ה
+176	27	replace	"הי""ת"	ה' ית׳	ה
+176	27	replace	בהתחלה;	בתחילה;	ה
+176	32	insert		די;	ה

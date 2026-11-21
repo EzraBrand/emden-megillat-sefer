@@ -36,7 +36,13 @@ SEC = re.compile(r"^## (.+?)\s*$", re.M)
 CHAPTERS = [
     {"n": 1, "sub": "Emden's ancestors and the life of his father, Ḥakham Tzvi", "first": 11, "last": 66, "starts": "p. 3"},
     {"n": 2, "sub": "Emden's own life, from his youth", "first": 67, "last": 115, "starts": "p. 54"},
-    {"n": 3, "sub": "not yet translated beyond its opening lines", "first": 116, "last": 9999, "starts": "p. 99"},
+    {"n": 3, "sub": "From Amsterdam to Emden, and the rabbinate there", "first": 116, "last": 130, "starts": "p. 99"},
+    {"n": 4, "sub": "Settling in Altona", "first": 131, "last": 170, "starts": "p. 114"},
+    {"n": 5, "sub": "Life in Altona, continued", "first": 171, "last": 187, "starts": "p. 150"},
+    {"n": 6, "sub": "The printing press", "first": 188, "last": 197, "starts": "p. 167"},
+    {"n": 7, "sub": "Flight to Amsterdam, 1751", "first": 198, "last": 211, "starts": "p. 177"},
+    {"n": 8, "sub": "The houses in Altona; the end of Emden's text, and Kahana's continuation to his death", "first": 212, "last": 240, "starts": "p. 189"},
+    {"n": 9, "label": "Appendix", "sub": "Kahana's addition (the damaged opening leaves) and his list of omissions", "first": 241, "last": 9999, "starts": "p. 217"},
 ]
 
 BOOKS = {
@@ -256,7 +262,7 @@ def bar(chapters, current, reader=False):
     for c in chapters:
         if c["secs"]:
             cur = " aria-current=page" if current == c["n"] else ""
-            links.append(f'<a href="ch{c["n"]}.html"{cur}>Ch. {c["n"]}</a>')
+            links.append(f'<a href="ch{c["n"]}.html"{cur}>{c.get("label", "Ch. %d" % c["n"])}</a>')
     links.append(f'<a href="names.html"{" aria-current=page" if current == "names" else ""}>Index</a>')
     controls = ""
     if reader:
@@ -288,6 +294,10 @@ def page_label(s):
     return (f"p. {m.group(1)}", f"p{m.group(1)}") if m else ("insert", f"s{s['scan']}")
 
 
+def cname(c):
+    return c.get("label", f"Chapter {c['n']}")
+
+
 def start_link(c, chapters, link_file):
     """The page where a chapter begins; if it begins inside the previous chapter's last page, link the break."""
     prev = next((p for p in chapters if p["n"] == c["n"] - 1 and p["secs"]), None)
@@ -304,12 +314,12 @@ def toc_html(chapters, link_file=True, only=None):
         if c["secs"]:
             links = " · ".join(f'<a href="{"ch%d.html" % c["n"] if link_file else ""}#{s["anchor"]}">{s["label"]}</a>' for s in c["secs"])
             first, last = c["secs"][0]["label"], c["secs"][-1]["label"]
-            out.append(f'<div class="tocch"><h3><a href="ch{c["n"]}.html">Chapter {c["n"]}</a> <span>{html.escape(c["sub"])} · from {start_link(c, chapters, link_file)}</span></h3>'
+            out.append(f'<div class="tocch"><h3><a href="ch{c["n"]}.html">{cname(c)}</a> <span>{html.escape(c["sub"])} · from {start_link(c, chapters, link_file)}</span></h3>'
                        f'<p class="toc">{links}</p></div>')
         else:
             prev = next((p for p in chapters if p["n"] == c["n"] - 1), None)
             href = f'ch{prev["n"]}.html#chapter-{c["n"]}' if prev and prev["secs"] else "#"
-            out.append(f'<div class="tocch"><h3><a href="{href}">Chapter {c["n"]}</a> <span>begins on {c["starts"]}; {html.escape(c["sub"])}</span></h3></div>')
+            out.append(f'<div class="tocch"><h3><a href="{href}">{cname(c)}</a> <span>begins on {c["starts"]}; {html.escape(c["sub"])}</span></h3></div>')
     return "\n".join(out)
 
 
@@ -395,7 +405,7 @@ def main():
   <a class="scanlink" href="{HB.format(scan)}" target="_blank" rel="noopener">HebrewBooks scan {scan} ↗</a></span></header>
   <div class="cols">
     <div class="en" lang="en">{en_html}{kn_html}</div>
-    <div class="he" dir="rtl" lang="he"><p>{hebrew(scan)}</p>{f'<ol class="knotes">{he_notes_html}</ol>' if he_notes_html else ''}</div>
+    <div class="he" dir="rtl" lang="he">{('<p>' + hebrew(scan) + '</p>') if hebrew_plain(scan) else '<p class="pending" dir="ltr">The checked Hebrew of this page is not ready yet (OCR pending). See the scan.</p>'}{f'<ol class="knotes">{he_notes_html}</ol>' if he_notes_html else ''}</div>
     <figure class="scanimg"><img data-src="scans/s{scan:03d}.png" alt="Scan page {scan} (Scholem's copy of Kahana's edition)" width="1094" height="1719" loading="lazy"><figcaption>Scan {scan}</figcaption></figure>
   </div>
   {sch_html}
@@ -407,12 +417,12 @@ def main():
         prevc = next((p for p in chapters if p["n"] == n - 1 and p["secs"]), None)
         nextc = next((p for p in chapters if p["n"] == n + 1 and p["secs"]), None)
         pn = " · ".join(x for x in [
-            f'<a href="ch{prevc["n"]}.html">← Chapter {prevc["n"]}</a>' if prevc else "",
-            f'<a href="ch{nextc["n"]}.html">Chapter {nextc["n"]} →</a>' if nextc else ""] if x)
-        title = f"Megillat Sefer, chapter {n}"
-        page = (head(title, f"Jacob Emden's autobiography, chapter {n}: {c['sub']}. Hebrew (Kahana 1896/97) with English draft translation.")
+            f'<a href="ch{prevc["n"]}.html">← {cname(prevc)}</a>' if prevc else "",
+            f'<a href="ch{nextc["n"]}.html">{cname(nextc)} →</a>' if nextc else ""] if x)
+        title = f"Megillat Sefer, {cname(c).lower()}"
+        page = (head(title, f"Jacob Emden's autobiography, {cname(c).lower()}: {c['sub']}. Hebrew (Kahana 1896/97) with English draft translation.")
                 + f'<body class="reader">{bar(chapters, n, reader=True)}<div class="wrap">'
-                + f'<div class="top"><h1>Chapter {n} <span class="sub">{html.escape(c["sub"])}</span></h1>'
+                + f'<div class="top"><h1>{cname(c)} <span class="sub">{html.escape(c["sub"])}</span></h1>'
                 + f'<p class="sub">Jacob Emden, <i>Megillat Sefer</i> · Hebrew (Kahana, Warsaw 1896/97) with an English draft translation · work in progress</p>'
                 + f'<details class="pages" open><summary>Pages in this chapter</summary>{toc_html(chapters, link_file=False, only=n)}</details></div>'
                 + "\n".join(body)
@@ -506,8 +516,8 @@ under each page; hover over a reading to see the printed words it belongs to. Wh
 style <span class="sch">⟨S: …⟩</span> is used. Typed sheets bound into the copy (after pp. 8, 40 and 70) and a
 handwritten sheet (after p. 58) are given as "insert" sections. The HebrewBooks scan cuts off part of the right
 margin; the NLI scan of the same copy (258 images) shows the full margins and has not yet been used.</p>
-<p><b>Not the manuscript:</b> Kahana's text is not a full transcription of the Oxford manuscript (Bodleian, Neubauer
-1723:2). A critical edition by Jacob J. Schacter has been announced.</p>
+<p><b>Not the manuscript:</b> Kahana's text is not a full transcription of the Oxford manuscript (Bodleian, MS. Mich. 587; Neubauer
+1723). A critical edition by Jacob J. Schacter has been announced.</p>
 </details>"""
 
 if __name__ == "__main__":
